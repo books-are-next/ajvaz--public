@@ -1,0 +1,738 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Prázdné ulice",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Michal Ajvaz",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-10-21T00:00:00.000Z",
+    "published": "2021-10-19T06:37:06.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prazdne_ulice_083.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/9600-4.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/9600-5.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/9600-51.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/9600-5_1.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/9600-6.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/9600-9.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_prazdne_ulice.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/prazdneulice.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/prazdne_ulice_001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/prazdne_ulice_003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/prazdne_ulice_004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/prazdne_ulice_005.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PRVNÍ ČÁST: DVOJITÝ TROJZUBEC",
+      "children": [
+        {
+          "title": "1. kapitola: Psací stůl",
+          "href": "OEBPS/Text/prazdne_ulice_006.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "2. kapitola: Na skládce",
+          "href": "OEBPS/Text/prazdne_ulice_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "3. kapitola: Světelný had",
+          "href": "OEBPS/Text/prazdne_ulice_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "4. kapitola: Zjevení ve vile",
+          "href": "OEBPS/Text/prazdne_ulice_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "5. kapitola: Portrét",
+          "href": "OEBPS/Text/prazdne_ulice_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "6. kapitola: Fotografie z New Yorku",
+          "href": "OEBPS/Text/prazdne_ulice_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "7. kapitola: Snící hroch",
+          "href": "OEBPS/Text/prazdne_ulice_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "8. kapitola: Dvory",
+          "href": "OEBPS/Text/prazdne_ulice_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "9. kapitola: Frankensteinova milenka",
+          "href": "OEBPS/Text/prazdne_ulice_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "10. kapitola: Balík na dně zásuvky",
+          "href": "OEBPS/Text/prazdne_ulice_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "11. kapitola: Dominikovy obrazy",
+          "href": "OEBPS/Text/prazdne_ulice_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "12. kapitola: Zvěd",
+          "href": "OEBPS/Text/prazdne_ulice_017.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "13. kapitola: Vynález zkázy",
+          "href": "OEBPS/Text/prazdne_ulice_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "14. kapitola: Ženy z papíru",
+          "href": "OEBPS/Text/prazdne_ulice_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "15. kapitola: Starosti vedoucího sběrny",
+          "href": "OEBPS/Text/prazdne_ulice_020.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "16. kapitola: Nereus",
+          "href": "OEBPS/Text/prazdne_ulice_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "17. kapitola: Modrý papoušek",
+          "href": "OEBPS/Text/prazdne_ulice_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "18. kapitola: Mořská sasanka",
+          "href": "OEBPS/Text/prazdne_ulice_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "19. kapitola: Tam-tam",
+          "href": "OEBPS/Text/prazdne_ulice_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "20. kapitola: Bílý triangl",
+          "href": "OEBPS/Text/prazdne_ulice_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "21. kapitola: Oranžová kniha",
+          "href": "OEBPS/Text/prazdne_ulice_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "22. kapitola: Setkání",
+          "href": "OEBPS/Text/prazdne_ulice_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "23. kapitola: Dvě skladby",
+          "href": "OEBPS/Text/prazdne_ulice_028.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "24. kapitola: Ve vrátnici",
+          "href": "OEBPS/Text/prazdne_ulice_029.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "25. kapitola: Zánik athénské Akademie",
+          "href": "OEBPS/Text/prazdne_ulice_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "26. kapitola: Dionysios v Persii",
+          "href": "OEBPS/Text/prazdne_ulice_031.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "27. kapitola: Divokým Afghánistánem",
+          "href": "OEBPS/Text/prazdne_ulice_032.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "28. kapitola: Objevy v chrámu",
+          "href": "OEBPS/Text/prazdne_ulice_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "29. kapitola: Zrození kosmu z Horečky",
+          "href": "OEBPS/Text/prazdne_ulice_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "30. kapitola: Návrat do Londýna",
+          "href": "OEBPS/Text/prazdne_ulice_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "31. kapitola: Kamery nad branou",
+          "href": "OEBPS/Text/prazdne_ulice_036.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "32. kapitola: Na konečné tramvaje",
+          "href": "OEBPS/Text/prazdne_ulice_037.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "33. kapitola: Ztracený poklad kapitána Bustrofedona",
+          "href": "OEBPS/Text/prazdne_ulice_038.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "34. kapitola: Zrození multimilionáře",
+          "href": "OEBPS/Text/prazdne_ulice_039.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "35. kapitola: Cesta do Garmisch-Partenkirchenu",
+          "href": "OEBPS/Text/prazdne_ulice_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "36. kapitola: Rusovláska a drak",
+          "href": "OEBPS/Text/prazdne_ulice_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "37. kapitola: Cesta na slavnost",
+          "href": "OEBPS/Text/prazdne_ulice_042.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "38. kapitola: Světla a hlasy",
+          "href": "OEBPS/Text/prazdne_ulice_043.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "39. kapitola: Exulanti",
+          "href": "OEBPS/Text/prazdne_ulice_044.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "40. kapitola: Medúza v ložnici",
+          "href": "OEBPS/Text/prazdne_ulice_045.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "41. kapitola: Život guerilly",
+          "href": "OEBPS/Text/prazdne_ulice_046.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "42. kapitola: Čisté světlo",
+          "href": "OEBPS/Text/prazdne_ulice_047.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "43. kapitola: Po představení",
+          "href": "OEBPS/Text/prazdne_ulice_048.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "44. kapitola: Hádka v altánu",
+          "href": "OEBPS/Text/prazdne_ulice_049.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "45. kapitola: Bílý pokoj",
+          "href": "OEBPS/Text/prazdne_ulice_050.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "46. kapitola: Rozprava o světlech",
+          "href": "OEBPS/Text/prazdne_ulice_051.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "47. kapitola: Kniha nalezená v Amalfi",
+          "href": "OEBPS/Text/prazdne_ulice_052.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "48. kapitola: Santa Rosalia",
+          "href": "OEBPS/Text/prazdne_ulice_053.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "49. kapitola: Výstřely na promenádě",
+          "href": "OEBPS/Text/prazdne_ulice_054.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "50. kapitola: Proměna města",
+          "href": "OEBPS/Text/prazdne_ulice_055.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "51. kapitola: Beatriz",
+          "href": "OEBPS/Text/prazdne_ulice_056.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "52. kapitola: Opálový anděl",
+          "href": "OEBPS/Text/prazdne_ulice_057.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "53. kapitola: Rozhovor u bazénu",
+          "href": "OEBPS/Text/prazdne_ulice_058.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "54. kapitola: V ústavu",
+          "href": "OEBPS/Text/prazdne_ulice_059.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "55. kapitola: Zátoka na Folegandru",
+          "href": "OEBPS/Text/prazdne_ulice_060.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "56. kapitola: Požár v sokolovně",
+          "href": "OEBPS/Text/prazdne_ulice_061.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "57. kapitola: Kavárna na nároží",
+          "href": "OEBPS/Text/prazdne_ulice_062.xhtml#_idParaDest-58"
+        }
+      ],
+      "href": "OEBPS/Text/prazdne_ulice_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "DRUHÁ ČÁST: POKOJ U TRATI",
+      "children": [
+        {
+          "title": "1. kapitola: Lesk klavíru",
+          "href": "OEBPS/Text/prazdne_ulice_064.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "2. kapitola: Starý slib",
+          "href": "OEBPS/Text/prazdne_ulice_065.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "3. kapitola: Bistro v Brooklynu",
+          "href": "OEBPS/Text/prazdne_ulice_066.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "4. kapitola: Labyrinthos",
+          "href": "OEBPS/Text/prazdne_ulice_067.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "5. kapitola: Čtyři přátelé",
+          "href": "OEBPS/Text/prazdne_ulice_068.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "6. kapitola: Mizící kniha",
+          "href": "OEBPS/Text/prazdne_ulice_069.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "7. kapitola: Venuše a Tannhäuser",
+          "href": "OEBPS/Text/prazdne_ulice_070.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "8. kapitola: Kovové postavy",
+          "href": "OEBPS/Text/prazdne_ulice_071.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "9. kapitola: Alexandrovo bloudění",
+          "href": "OEBPS/Text/prazdne_ulice_072.xhtml#_idParaDest-68"
+        },
+        {
+          "title": "10. kapitola: Zánik Oranžové knihy",
+          "href": "OEBPS/Text/prazdne_ulice_073.xhtml#_idParaDest-69"
+        },
+        {
+          "title": "11. kapitola: Rozchod",
+          "href": "OEBPS/Text/prazdne_ulice_074.xhtml#_idParaDest-70"
+        },
+        {
+          "title": "12. kapitola: Setkání na Naxu",
+          "href": "OEBPS/Text/prazdne_ulice_075.xhtml#_idParaDest-71"
+        },
+        {
+          "title": "13. kapitola: Deník Pascala Brisona",
+          "href": "OEBPS/Text/prazdne_ulice_076.xhtml#_idParaDest-72"
+        },
+        {
+          "title": "14. kapitola: Palác paměti",
+          "href": "OEBPS/Text/prazdne_ulice_077.xhtml#_idParaDest-73"
+        },
+        {
+          "title": "15. kapitola: Tanec larev",
+          "href": "OEBPS/Text/prazdne_ulice_078.xhtml#_idParaDest-74"
+        },
+        {
+          "title": "16. kapitola: Tannhäuserův návrat",
+          "href": "OEBPS/Text/prazdne_ulice_079.xhtml#_idParaDest-75"
+        },
+        {
+          "title": "17. kapitola: Julie",
+          "href": "OEBPS/Text/prazdne_ulice_080.xhtml#_idParaDest-76"
+        },
+        {
+          "title": "18. kapitola: Útěk",
+          "href": "OEBPS/Text/prazdne_ulice_081.xhtml#_idParaDest-77"
+        },
+        {
+          "title": "19. kapitola: Zjevení u garáží",
+          "href": "OEBPS/Text/prazdne_ulice_082.xhtml#_idParaDest-78"
+        }
+      ],
+      "href": "OEBPS/Text/prazdne_ulice_063.xhtml#_idParaDest-59"
+    }
+  ]
+}
