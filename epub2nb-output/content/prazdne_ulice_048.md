@@ -3,8 +3,6 @@ title: 43\. kapitola Po představení
 contentType: prose
 ---
 
-  
-
 Chodil jsem zase mezi skupinkami masek, pil víno a poslouchal změť slov, která na mne ze všech stran doléhala. Slyšel jsem to, co jsem očekával.
 
 Nejistý ženský hlas: „Hm, bylo to zajímavé.“

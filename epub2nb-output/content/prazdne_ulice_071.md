@@ -3,8 +3,6 @@ title: 8\. kapitola Kovové postavy
 contentType: prose
 ---
 
-  
-
 „Kulhánkovi synovi bylo v osmačtyřicátém roce šest let. Tak díky otcově naivní naději v obnovu rodinného podniku prožil dětství v prostoru, který mu všichni spolužáci záviděli – mezi sedmi osamělými vertikálními částmi stroje, které stály u zdi jako sedm tajemných postav. Pro Kulhánka to byly živé bytosti a každou z nich nějak pojmenoval podle toho, co mu tvar stroje připomínal. Tak u jedné kratší zdi obdélníkového pokoje stál Apač – to bylo čerpadlo s aerátorem, připomínajícím indiánskou čelenku – a vedle něho Květinářka, u druhé kratší zdi Loutkář, u delší zdi stáli Ptáčník a Soudce, naproti Soudci stál Rádža a naproti Ptáčníkovi zamyšlený Vynálezce. V dobách, kdy bylo celé zařízení ještě v chodu, proudila voda z jeskyně potrubím od Apače k Ptáčníkovi, Soudci a Loutkáři; v jeho útrobách se proměňovala v kaši, která se prodírala trubkou k Rádžovi, v jehož horní části, která byla pro Kulhánka turbanem, se sušila, stával se z ní prášek; ten se sypal šikmou skleněnou trubkou samospádem k Vynálezci, kde se ještě čistil, a od něho ke Květinářce; v jejím středu byl otvor, ten nakonec vychrlil hotový prášek do porcelánové nádoby; pak se zásyp rozděloval do krabiček s obrázkem Venuše a Tannhäusera.“
 
 „Jak jste to říkala? Od Apače k Loutkáři a od Loutkáře k Taneč­nici?“

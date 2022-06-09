@@ -3,8 +3,6 @@ title: 4\. kapitola Zjevení ve vile
 contentType: prose
 ---
 
-  
-
 Pak se s židlí odsunul o kus dál a začal vyprávět příběh o tom, jak se v jeho životě objevil dvojitý trojzubec.
 
 Před rokem odpověděl na inzerát, který nabízel k podnájmu místnost ve vile. Jednání s majitelem trvalo jen několik minut; za pár dní se grafik nastěhoval do jednoho z mnoha pokojů vily, kterou mi popsal jako zchátralou modernistickou stavbu z třicátých let, jejíž terasa s trubkovým zábradlím a kulatá okénka nad schodištěm prozrazovaly jakýsi architektův sen o zaoceánských lodích. Teď však stavení připomínalo spíš lodní vrak. Vila byla dost rozlehlá, ale kromě grafika a jeho bytného ji nikdo další neobýval. Chodil po chodbách, které pokrývala černobílá šachovnice dlaždiček, a mimovolně našlapoval na špičky, aby nenarušil ticho domu. Chodby byly vroubené zavřenými dveřmi pokojů; občas opatrně zmáčkl kliku a nahlédl dovnitř; pokaždé uviděl záclony, prosvětlené chladným světlem ze zahrady a splývající v nehybných záhybech až k tmavému koberci, a masivní nábytek s oblými tvary, na jehož povrchu z leštěného dřeva a skla ležel narkotický lesk. Grafik řekl, že omšelá moderna vyvolávala daleko smutnější pocit pomíjejícnosti, než by to dokázal kabinet sběratele starožitností.

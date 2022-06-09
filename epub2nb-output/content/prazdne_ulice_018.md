@@ -3,8 +3,6 @@ title: 13\. kapitola Vynález zkázy
 contentType: prose
 ---
 
-  
-
 „Přemýšlel jste pak ještě někdy o tom, co se od vás vlastně chtěla dozvědět?“
 
 „První měsíce po jejím odchodu jsem vlastně nedělal nic jiného. Seděl jsem v ateliéru mezi rozmalovanými obrazy a probíral všechny možnosti. Vnucovala se samozřejmě myšlenka, že Violino tajemství nějak souvisí s tajemstvím bývalého majitele chemické továrny. Ale vysvětlovat jednu záhadu druhou byla dost beznadějná činnost. Přesto se v prázdnotě mezi dvěma fragmenty nepochopitelných osudů rodily různé příběhy. Bylo kupříkladu možné, že podivínský strýc současného majitele firmy přišel při experimentech s laky na nějaký závratný vynález, zalekl se důsledků, které by mohl mít, zničil k němu dokumentaci a receptury laků, jež by k vynálezu mohly ukázat cestu, schoval do zásuvky ve skříni. Viola se nějak mohla dozvědět o jeho vynálezu, třeba od asistenta, který bývalému majiteli továrny tenkrát pomáhal; ten jí také mohl prozradit, že k vynálezu vede cesta přes receptury laků. Ale to je samozřejmě víc beletrie než dedukce,“ povzdychl si malíř.

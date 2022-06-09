@@ -3,8 +3,6 @@ title: 20\. kapitola Bílý triangl
 contentType: prose
 ---
 
-  
-
 V hale se ozval mužský hlas, který nějakou chvíli promlouval v nesrozumitelném barbarském jazyce nádražních amplionů; prodavač se odmlčel, trpělivě čekal, až bude zase ticho, a pak pokračoval ve vyprávění.
 
 „Tenkrát se po hospodách často mluvilo o uměleckém sdružení Bílý triangl, ke kterému měli patřit tři lidé s podivnými pseudonymy. Pseudonymy se vyskytovaly v nejrůznějších podobách; byla to tak nezvyklá, tak těžko vyslovitelná a tak obtížně zapamatovatelná slova, že se jejich znění často proměnilo, než dospělo k sousednímu stolu. Dnes vím, že všechny jejich podoby, které jsem tehdy slyšel, byly zkomolené, ale všechny kroužily kolem správného znění: členové Bílého trianglu si říkali Vhlm Čj, Iui Nm a Vga Ú.“
@@ -27,7 +25,7 @@ Pořád jsem nechápal, jak to všechno souvisí s Violou, ale nevadilo mi to, 
 
 A prodavač napsal na bílý okraj jednoho z papírů vzorec:
 
-0 < EF < 0,1C
+_0 < EF < 0,1C_
 
 „Co to je, proboha?“ zeptal jsem se.
 

@@ -3,8 +3,6 @@ title: 51\. kapitola Beatriz
 contentType: prose
 ---
 
-  
-
 Andrea a Barbora si přinesly lehátka a uložily se do nich; se zavřenýma očima se vystavovaly slunečním paprskům a přitom dál naslouchaly Bernetovu vyprávění. Voda v bazénu tiše šplouchala.
 
 „Recepční mluví o městě, gestikuluje a jeho gesta znázorňující kolotání městských sil každou chvíli přejdou v mávání, kterým zdraví nějakou postavu procházející za sklem; někdy na sebe upozorní chodce ťukáním na sklo. Pierre si s údivem pomyslí, že se recepční zná snad se všemi obyvateli Osy i Labyrintu. Chodci za sklem na něj také mávají, někteří vejdou do kavárny, přisednou si na chvíli k jejich stolku a prohodí s recepčním pár slov o záležitostech, kterým Pierre nerozumí. Ve chvíli, kdy recepční vypráví o nezdařených vojenských výpravách do Labyrintu, se za sklem objeví štíhlá, zamyšlená žena, která přichází od Molinovy třídy. Recepční ťuká na sklo, žena k nim obrací hlavu a Pierre okamžitě pozná tvář, která tak bedlivě sledovala u výkladu galerie průběh včerejšího přepadení.

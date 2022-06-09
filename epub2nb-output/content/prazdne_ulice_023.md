@@ -3,8 +3,6 @@ title: 18\. kapitola Mořská sasanka
 contentType: prose
 ---
 
-  
-
 „Povězte mi ještě něco o čerpadle,“ řekl jsem. Připadalo mi, že se Julie odpoutá od smutných vzpomínek na Violu, když bude mluvit o stroji.
 
 „Řekla jsem, že jsem netušila, co na směsnou komoru čerpadla navazovalo. To ale není tak úplně pravda. Komora na plánku, který mi Viola dala, nahoře končila standardním uzávěrem; nad ním bylo prázdné místo. Ale list papíru, kterým byla zakrytá horní část původního nákresu, se zřejmě ve chvíli, kdy se k němu přiklopilo víko kopírky, trochu posunul; to stačilo k tomu, aby byl přece jen nepatrně vidět spodek té části stroje, která byla nahoře na komoru posazená. Přemýšlela jsem, co vlastně bylo na plánku v těch místech nakreslené, už v době, kdy ke mně chodila Viola, ale tenkrát jsme žily příběhy o fantastických květech a podzemních nestvůrách a mně se nechtělo zabývat tak nepatrnou stopou. Ale poté, co ode mne Viola odešla, jsem trávila dlouhé hodiny tím, že jsem pozorovala proužek, který nebyl vyšší než milimetr, a přemýšlela, čeho asi je fragmentem. Byl sice nepatrný, ale byl to jediný kousek zbytku soustrojí, který jsem mohla vidět. A pro mne bylo tehdy hodně důležité zjistit, jaké bylo nejbližší okolí čerpadla; doufala jsem totiž, že pak najdu nějaký další spoj, který mě zavede zase o kus dál, a že se tak nakonec dostanu až k Viole. Tenkrát se mi po ní moc stýskalo.“

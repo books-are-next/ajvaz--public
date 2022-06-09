@@ -3,8 +3,6 @@ title: "26\\. kapitola Dionysios v\_Persii"
 contentType: prose
 ---
 
-  
-
 „Dionysiovo smíření se školou netrvalo dlouho. V Ktésifóntu brzy zase začal se svými posměšky a bizarními teoriemi. Všechno bylo teď ještě horší než v Athénách. Představuju si, že v athénských bílých sloupořadích nebylo možné zcela propadnout nějaké barokní teologii či démonologii. Když se octl v Asii, jeho myšlení začalo prosakovat jako houba všemi podivnými kulty kontinentu, jeho gnosticismus se stal ještě výstřednějším a ještě více nepřátelským Zemi. Přitom se za zády Řeků stýkal s perskými hodnostáři, a tak Damaskios po čase s úžasem zjistil, že Peršané i sám Chusraw mluví o Dionysiovi jako o nejúctyhodnější postavě mezi Řeky.
 
 Damaskios si asi řekl, že se nebude nad takovým jednáním rozčilovat a nenechá se podlostí svého bývalého chráněnce odvádět od duševní práce, ale přesto se mu v srdci usadila hořkost a ne­opouštěla ho ani na vteřinu. Seděl dlouhé hodiny na terase svého domu a mlčky pozoroval pomalý a kalný tok Tigridu, snad viděl na hladině bílé sloupy mezi listím v zahradách Akademie. Co mu zbývalo jiného než dívat se na obrazy na hladině? Věděl, že už nikdy neuvidí Athény; ukázalo se, že sen o obnovení Akademie v Asii byl jen dětinským blouzněním; člověk, v němž kdysi viděl svého syna, nejen pošpinil učení, které Damaskios v době jeho soumraku miloval víc než kdy dřív, ale také proti svému učiteli intrikoval na dvoře cizího vládce. Dionysios kolem sebe shromáždil skupinku žáků, mezi kterými byli Řekové, Peršané i Syřané. Vždycky mu hodně záleželo na tom, aby ho ostatní uznávali a milovali…“

@@ -3,8 +3,6 @@ title: 50\. kapitola Proměna města
 contentType: prose
 ---
 
-  
-
 „Recepční nejdřív prohlásí, že ten, kdo chce pochopit město, musí znát jeho historii. A hned začíná vyprávět, že před sto dvaceti lety tu stála – v místech, kde se dnes Molinova třída dotýká mořského břehu – jen rybářská vesnice. Jak se rozšiřoval obchod, vesnice se chaoticky rozrůstala, rozlézala se po pláni – recepční vyjadřuje bobtnání původní vesnice tím, že skrčí ruce, pak je pomalu natahuje a přitom vlní všemi prsty. Mluví o uličkách s křivými barabiznami, vypráví, jak se v nekonečné skládačce k žalostným domům, kterými ulice vybíhaly do pampy a které už obrůstala suchá tráva, lepily další a k nim pak opět další; ulice tak náměsíčně, krůček po krůčku postupovaly plání, někdy tupě dodržovaly směr starých vesnických uliček, na které navazovaly, jindy malátně uhýbaly nějakému skalisku, jindy zase bezdůvodně, jako by je stihl náhlý záchvat, odbočovaly od původního směru.
 
 Recepční ztotožnil své tělo s tělem města a pořád pantomimicky předvádí zrození a růst Santa Rosalie. Pierre musí občas uhýbat před jeho pažemi, poletujícími ve vzduchu a předvádějícími různé způsoby, jimiž městská zástavba pronikala do pampy. Tak po několika desetiletích vyrostla neproniknutelná spleť úzkých uliček s nízkými domy, která už měla zhruba rozlohu dnešního města. Po čase začaly zděné domy nahrazovat dřevěné, ale půdorys města pořád vyjadřoval počáteční otupělé plížení pampou, zběsilé výpady do prázdna a bezdůvodné neurotické změny směru, křivolaké ulice se pořád vyhýbaly skalám, které už před léty rozbil dynamit, a dávno vysušeným močálům. Když však byla v horách objevena ložiska mědi, nechala tehdejší vláda vybudovat nový přístav a zmodernizovat celé město.

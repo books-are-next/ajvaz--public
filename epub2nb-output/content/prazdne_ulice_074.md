@@ -3,8 +3,6 @@ title: 11\. kapitola Rozchod
 contentType: prose
 ---
 
-  
-
 „Pascal tu pořád zůstával, i když každý týden dostával dopis, ve kterém ho otec prosil, aby se vrátil. Místa ve výzkumných ústavech, která pro něj dlouho drželi, teď už byla obsazená, na univerzitě na něj zapomněli; mezi studenty žila ještě dlouho pověst o jakémsi geniálním opilci, která dostávala stále fantastičtější rysy; tak už kupříkladu málokdo pochyboval o tom, že tajemnou postavu kvůli jakémusi jejímu úžasnému vynálezu zlikvidovaly světové tajné služby. Pascal o ničem z toho nevěděl a asi by ho to málo zajímalo. Po Valeriině smrti začal znovu psát; scházeli se denně se Švarcem a Navrátilem, většinou v nouzové stavbě v Popelové ulici, kterou si tehdy Švarc pronajal jako ateliér.
 
 Všechno, co dělali, bylo pokusem zaplnit prázdnotu, která zbyla, když zemřela Valerie, když se její román propadl do běloby stránek a když zanikl její světlý svět, a zároveň způsobem vzpomínání na ni. Když se Ú i Čj snažili rozpomenout na první měsíce po Valeriině smrti, oběma jako by se události ztrácely v mlze. Patrně se střídala období nečinnosti se dny horečnatého dění. V jejich paměti se z té doby uchovalo jen několik próz, soch a hudebních skladeb; žádné z těch děl se nedokázalo od Oranžové knihy odtrhnout a žádné z nich se neuchovalo jinak než jako matná vzpomínka; snad v té době přejali od Valerie názor, že dílo je něco, co má žít s autorem a jeho přáteli několik dnů nebo týdnů a pak se propadnout do světa zapomínání a bezejmenných proměn.

@@ -3,8 +3,6 @@ title: "29\\. kapitola Zrození kosmu z\_Horečky"
 contentType: prose
 ---
 
-  
-
 „Hned prvního dne uviděl Archibald Archer v jedné z knih obrazec, který vypadal stejně jako idol před svatyní; pak ho našel ještě v mnoha svitcích a knihách. Obrazec byl jakýmsi tajným znakem učení a pravděpodobně se zrodil už na Chusrawově dvoře; podle jednoho z textů Dionysios znak poprvé nakreslil hůlkou do písku cestičky v zahradě královského paláce. Obrazec byl jakýmsi diagramem zobrazujícím zrod kosmu. Elipsa znázorňovala nerozlišené Jedno. Na původním obrazci byl tradičnější kruh, ten se změnil v elipsu až někdy během cesty na východ; Dionysia napadlo, že elipsa je vhodnější, protože znázorňuje neustálý spor uvnitř Jedna, jeho neustálé rozestupování do dvou center. Ten neklid byl nicméně ve své pravé povaze pouze neklidem, jaký cítíme ve snu, a škodil stejně málo, jako mohou ublížit rány, které našemu tělu zasazují postavy v nočních snech.
 
 Z počátečního neklidu se však zrodila Horečka a její horký dech rozleptal to, co se sice snově rozestupovalo, co se však zároveň drželo ve vzájemném objetí: obě centra elipsy se postavila proti sobě a dvojitost, která se tak zrodila, pokračovala v rozdělování i uvnitř obou protikladů a zplodila Mnohost. Když Jedno uvidělo, že má ve svém nitru Mnohost, zachvělo se na okamžik hrůzou před tím neznámým, co se hýbalo v jeho útrobách, protože si v první chvíli neuvědomilo, že Mnohost je jen jeho horečnatým zlým snem a není od něho odlišná. Mnohost využila okamžiku úleku, krátkého zaváhání, ochabnutí dostředivé síly, a pomocí sil Horečky, která v ní nalezla zalíbení, prorazila v hranicích elipsy otvory, a unikla tak Jednu.

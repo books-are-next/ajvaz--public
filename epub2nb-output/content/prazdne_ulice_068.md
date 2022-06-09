@@ -3,8 +3,6 @@ title: 5\. kapitola Čtyři přátelé
 contentType: prose
 ---
 
-  
-
 „V té smutné době se přihodilo něco, co nikdo nečekal, stal se zázrak, o kterém po mnoho let věděli jen tři lidé… Valerie se jednoho podzimního odpoledne zeptala Čje a Úa, jestli by jim mohla přečíst několik krátkých textů, které napsala. A oba byli hned od první věty okouzleni, ohromeně naslouchali jazyku, který se sytil jak z fantaskních obrazů z počátků Labyrinthu, tak ze střízlivé magické věcnosti pozdního období. Ú si už nepamatoval ani jediné slovo z Valeriiných próz, ale ještě po létech si vybavoval, jak se vlny jejich jazyka zvedaly z ticha a prázdna, každá z nich se na svém vrcholu zformovala do nečekaných světelných obrazů, a když se obrazy zase začaly rozplývat, vmísily se do nové vlny, která se blížila a vzápětí se sama proměnila v nové obrazy…
 
 Valerie pak psala, kdykoliv na to měla čas, a Navrátilovi a Švarcovi připadalo, že její jazyk je stále průsvitnější, že v každém z jejích slov jako v lampionu svítí čisté světlo, do kterého neproniklo nic ani ze špíny doby, ani z Valeriina zoufalství. Z těch textů se žádný nezachoval, nezůstal jediný fragment, jediná věta. Možná je zničila sama Valerie v době, kdy ji slastně omámila myšlenka smrtelnosti textů, možná je také spálil můj otec, když po matčině smrti získal celou její pozůstalost…

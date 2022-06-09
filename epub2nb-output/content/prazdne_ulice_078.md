@@ -3,8 +3,6 @@ title: 15\. kapitola Tanec larev
 contentType: prose
 ---
 
-  
-
 Nechtěl jsem, abychom donekonečna probírali, co znamená dávný slib a v jaké míře smí být porušen; bál jsem se, že by takové úvahy mohly u Violy skončit lítostí, že mi vůbec něco říkala, a rozhodnutím mlčet. A tak jsem raději zase vrátil rozhovor zpátky k malíři.
 
 „Dominikovi trvalo dlouho, než se vyrovnal s vaším zmizením…,“ řekl jsem.

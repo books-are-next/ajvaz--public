@@ -3,8 +3,6 @@ title: 21\. kapitola Oranžová kniha
 contentType: prose
 ---
 
-  
-
 Prodavač se odmlčel a dopil vystydlou kávu. „Ještě jste nemluvil o tom, co dělal sám Čj,“ připomněl jsem mu tu postavu z Bílého trianglu, která mě zajímala nejvíc.
 
 „Hned se k tomu dostanu. Ale vyprávět o Čjovi už není tak důležité, protože na rozdíl od tvorby jeho dvou přátel se alespoň část jeho díla zachovala – dvě Čjovy hudební skladby si můžete sám poslechnout na kompaktu, který držíte v ruce. Čj tvrdil, že každý ze tří členů Bílého trianglu vlastně dospěl k homeopatickému umění vlastní cestou, a vyprávěl mi o příhodě, která se stala podnětem k jeho vlastní verzi minimalismu. Byl to úplně banální zážitek, ale zřejmě v Čjovi uvolnil něco, co se v něm už delší dobu připravovalo. Někdy na začátku osmdesátých let šel se svou tehdejší přítelkyní na koncert klasické hudby a v koncertním sále před nimi seděl člověk, který pořád šustil sáčkem od bonbonů. To je vlastně všechno. Čjovu přítelkyni to rozčilovalo, ale Čje směs hudby a šustění přivedla do zvláštního stavu. V té době prožíval tvůrčí krizi; nesnášel svá stará díla, a přitom nevěděl, jak dál. Na koncertě najednou cítil, že se jeho neklid vzdaluje a že se v něm rozlévá zvláštní slast; a bylo mu jasné, že jeho stavy nějak souvisejí se spojením hudební skladby a nepatřičného šustění. Řekl si, že tomu musí přijít na kloub, a ještě v koncertním sále začal o svých pocitech přemýšlet.

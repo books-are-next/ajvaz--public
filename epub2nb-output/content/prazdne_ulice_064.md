@@ -3,8 +3,6 @@ title: 1\. kapitola Lesk klavíru
 contentType: prose
 ---
 
-  
-
 Když automobil přejížděl přes náměstíčko, uviděl jsem, že je to bílá dodávka. Zatáčel kolem kavárny a přitom zpomalil – a já si mohl prohlédnout obrovského modrého ledňáčka s rybkou v zobáku, který byl namalovaný na boku automobilu. Vyskočil jsem, zasunul jsem bankovku pod sklenici s nedopitou kávou a vyrazil za dodávkou. Vzdalovala se dlouhou rovnou ulicí. Utíkal jsem po vozovce a mával rukama; doufal jsem, že mě řidič zahlédne ve zpětném zrcátku.
 
 A pak jsem si všiml, že obrys automobilu se už nezmenšuje; řidič mě přece jen asi uviděl a čeká na mne. I když jsem sotva popadal dech, začal jsem se při běhu hlasitě smát. Samozřejmě, když všechny stopy selžou, může ještě vždycky přijet bůh na stroji, třeba v podobě taxikáře. Když jsem k dodávce doběhl, vyklonil se z okénka kulatý obličej lesknoucí se potem. „Co potřebujete odvézt, šéfe?“ zeptal se taxikář.

@@ -3,8 +3,6 @@ title: 35\. kapitola Cesta do Garmisch-Partenkirchenu
 contentType: prose
 ---
 
-  
-
 „Říkal jsem, že Bernet nakupoval drahokamy a šperky. Najal si znalce, který obcházel starožitnictví ve městě a fotografoval pro něj náhrdelníky, brože a náramky, které by ho mohly zajímat. Vloni v březnu Bernetovi předložil fotografii briliantového náramku. Jiskřící náramek ležel v kazetě vystlané červeným sametem; nalevo od kazety stála sklenice z broušeného skla, napravo zrcadlo v pseudorokokovém pozlaceném rámu. Když si Bernet prohlížel náhrdelník, jeho pohled náhodou sjel k zrcadlu. Na poškrábaném, napůl osleplém povrchu se nezřetelně odrážela věc, která stála vedle zrcadla, ale nevešla se už na fotografii. Byla to zřejmě soška, či spíše miniaturní sousoší. V zrcadle byla vidět jen jeho část; Bernetovi nějaký čas trvalo, než barevné skvrny oddělil od škrábanců na zrcadle a než si je sestavil do podoby muže v klobouku a béžovém baloňáku, který kamsi pospíchá s aktovkou v ruce.
 
 Za chvíli si uvědomil, že malá skulptura je pravděpodobně vytvořena ze dvou materiálů. Postava pána v klobouku byla zřejmě z porcelánu, porcelánový byl také chodník, po němž muž kráčel, a zeď domu, který míjel. Ve zdi byly dveře nějakého obchodu a kus výlohy; dveře a výloha byly pravděpodobně udělané ze dvou malých tabulek skla, které byly vsazeny do porcelánu. Zdálo se, že za skleněnými dveřmi je další postava nebo postavy. Ty byly ještě méně zřetelné než muž v baloňáku, protože je kromě rýh a odlesků na zrcadle ještě překryl lesk na skle, za kterým stály.

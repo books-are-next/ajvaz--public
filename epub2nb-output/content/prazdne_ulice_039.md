@@ -3,8 +3,6 @@ title: 34\. kapitola Zrození multimilionáře
 contentType: prose
 ---
 
-  
-
 „Když se ho matka ptala, čemu se chce věnovat, krčil rameny. Matka si z něho zoufala, Bernet se nevyznal v životě, nedokázal zařídit sebejednodušší věc; zpočátku tajně doufala, že z něho třeba vyroste umělec, ale brzy se ukázalo, že nemá ani žádné umělecké nebo vědecké zájmy. Potom co z jeho života odplula Santa Clara, už Berneta nebavilo nic.
 
 V době, kdy chodil do posledního ročníku gymnázia, mu jednou matka dlouze vychvalovala syna nějaké známé, který vystudoval ekonomii; Bernet sice neposlouchal, co říká, ale aby jí udělal radost, podal si přihlášku na ekonomickou školu. Když školu někdy v první polovině devadesátých let dokončil, byl pořád stejně lhostejný, uzavřený a samotářský jako předtím. Jeho otec se vrhl hned po převratu do světa obchodu a po kuponové privatizaci založil firmu, která podnikala na novém trhu s akciemi. Nedělal si o obchodních schopnostech svého syna žádné iluze, ale cítil výčitky svědomí kvůli tomu, že opustil rodinu a že se synovi nikdy pořádně nevěnoval, a tak mu nabídl místo ve svém podniku. Bernet je s pokrčením ramen přijal; byl rád, že se nemusí zabývat sháněním zaměstnání…

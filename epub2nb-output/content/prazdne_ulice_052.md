@@ -3,8 +3,6 @@ title: "47\\. kapitola Kniha nalezená v\_Amalfi"
 contentType: prose
 ---
 
-  
-
 Zase jsme nějaký čas mlčeli. Pak mě dívky poprosily, abych jim vyprávěl příběh hledání Violy.
 
 Začal jsem: „Před deseti dny jsem přelézal skládku…,“ ale Andrea mě přerušila: „Počkejte, musíte si udělat pohodlí, aby se vám dobře vyprávělo a nic jste nevynechával.“ A dívky se vydaly na cestu po posteli, lezly po kolenou, prodíraly se kupami přikrývek a sbíraly polštáře a polštářky, které se všude povalovaly; potom se ke mně se svou kořistí vrátily a postavily z polštářů jakousi měkkou pyramidu. A tak jsem se do ní zabořil a začal dívkám líčit své příhody od chvíle, kdy jsem na skládce šlápl na hrot trojzubce. Dívky se zahrabaly do přikrývek, držely se za ruce a napjatě poslouchaly.

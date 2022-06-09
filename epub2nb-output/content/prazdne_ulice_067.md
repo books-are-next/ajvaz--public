@@ -3,8 +3,6 @@ title: 4\. kapitola Labyrinthos
 contentType: prose
 ---
 
-  
-
 „Co dělal Navrátil-Čj v surrealistické skupině? Skládal surrealistickou hudbu? Nikdy jsem neslyšel, že něco takového existuje…“
 
 „Čj prý tehdy opravdu tvrdil, že jeho kompozice jsou surrealistické. Složil v období Labyrinthu album skladeb, které nazval _Rozhlas po drátě v domě Usherů_. Byly to skladby pro menší orchestr; Čj ovšem neměl šanci, že by mu jeho skladby nějaký orchestr zahrál, a neměl ani tolik přátel hudebníků, aby si z nich sám nějaké hudební těleso sestavil, a tak nosil na schůzky skupiny jen jejich partitury psané tužkou. Nikdo z Labyrinthu je nedokázal číst, a tak Navrátil ostatním členům skupiny alespoň o jednotlivých skladbách vyprávěl a přezpívával jim některé motivy. Všechny skladby z usherovského alba začínaly přesnou citací nějakého dobového šlágru, pak se však v melodii písně začínaly objevovat nepatřičné tóny, drobné odchylky, které postupně narůstaly, probouzela se jakási jiná, temná melodie a prorůstala tělo původního motivu jako sněť anebo jako parazit, původní melodie se proměňovala, stávala se pořád nestvůrnější a příšernější; na konci skladby byly její rysy ještě ve skladbě trochu rozeznatelné, ale už se z ní stalo monstrum. Švarc říkal, že průběh skladeb připomínal film, ve kterém se vědec postupně proměňuje v obludnou velkou mouchu, v jejímž těle se pak už jen vzdáleně ozývá jeho původní lidská podoba. Ačkoliv nikdo ze skupiny hudbě nerozuměl, ostatní členové na základě Čjova líčení usoudili, že jeho dílo je dostatečně nekonvenční a podvratné, aby si Čj zasloužil být spolu s nimi v Labyrinthu. Také Jonáš Čje chválil; bylo to asi hlavně proto, že Čj se věnoval oboru, který byl přece jen na okraji zájmu skupiny a ve kterém Jonášovi nemohl konkurovat.“

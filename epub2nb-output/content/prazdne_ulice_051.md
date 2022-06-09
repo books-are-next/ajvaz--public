@@ -3,8 +3,6 @@ title: "46\\. kapitola Rozprava o\_světlech"
 contentType: prose
 ---
 
-  
-
 Dívky se zamračily, ale já pokračoval. „Byly jste na něj moc přísné. Máte pravdu, nehraje teď svou hru nejlíp. Ale nemyslím si, že to božstvo, které je jeho partnerem ve hře, je tak netrpělivé jako vy a pohrdá jím za jeho slabost. Řekl bych, že ví, že jsou chvíle, kdy je potřeba odpočívat, a chvíle, kdy je třeba prohrávat, že jsou chvíle, kdy je třeba chovat se hloupě a banálně. Berneta se teď zmocnil velký strach, má pocit, že se topí a že mu po všem, čeho se chce zachytit, sklouzávají ruce. Myslím, že se zase vrátí do světa, ve kterém s vámi žil. Kdo v dětství zahlédl nějakou štěrbinou jiný prostor, jen těžko se někdy stane obyvatelem světa, ve kterém žijí ostatní – i když se o to Bernet právě teď zoufale a dojemně snaží. Asi nenávidí svou minulost a hnusí se mu celá historie s pokladem, která se od dětství proplétá jeho životem, ale i takové chvíle hnusu jsou zapotřebí…“
 
 Dívky zamyšleně mlčely, za nimi se vlnily záclony. Andrea řekla: „Opravdu věříte, že se z Berneta nestane nudný hlupák?“

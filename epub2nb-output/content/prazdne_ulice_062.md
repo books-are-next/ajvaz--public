@@ -3,8 +3,6 @@ title: 57\. kapitola Kavárna na nároží
 contentType: prose
 ---
 
-  
-
 Budova firmy, kde pracoval autor Dionysia z Gazy, nebyla daleko, a tak jsem tam šel pěšky. Procházel jsem napříč panelovým sídlištěm, které vypadalo úplně opuštěné, o přítomnosti lidí svědčily jen kusy prádla nehybně visící na balkonech a občas hlas televize znějící z hloubky některého pokoje, šel jsem podél stále stejných dveří z neprůhledného skla protkaného dráty; jediné, co se v malátném tichu horkého odpoledne hýbalo, byly němé hry perspektivy, která splétala z dlouhých rovných linií nové a nové obrazce. V mezeře mezi posledními bloky domů se objevil řídký lesík. Na jeho druhé straně jsem narazil na známou prašnou cestu; zpočátku se vinula podél nekonečně dlouhé béžové tovární zdi, popsané velikými červenými písmeny; písmena se rozvinovala, když kolem mne proplouvala, a zase mizela, ale nedržel jsem je v paměti a neskládal je do slov. Po deseti minutách se vynořila budova s dvojitým trojzubcem.
 
 Už když jsem se blížil k bráně, vrátný-historik vyběhl z vrátnice, pes ho předběhl, prostrčil čumák mříží zavřené brány a radostně kňučel. Zato historik se tvářil zkroušeně. Jistě věděl, proč jsem se vrátil; domyslel se, že jsem si ověřoval jeho vyprávění a přišel na to, že se Dionysios nenarodil v šestém století v Gaze, ale mnohem později v jeho vrátnici.

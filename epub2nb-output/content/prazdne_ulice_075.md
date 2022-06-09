@@ -3,8 +3,6 @@ title: 12\. kapitola Setkání na Naxu
 contentType: prose
 ---
 
-  
-
 „Čj se s Nmem ani s Úem už nikdy neviděl. Vydělával nějaké peníze tím, že dával hodiny hry na klavír; v noci naslouchal vzdáleným zvukům, které se mu v hlavě proměňovaly v jemné pramínky nebo divoké ohňostroje tónů. Ani po převratu v osmdesátém devátém se nepokoušel o veřejné provedení nebo alespoň publikaci svých skladeb; nikdy jsem se nedozvěděla, jestli příčinou byla jeho skromnost, pochyby o díle, které vytvořil, nesmělost a nechuť cokoliv zařizovat, neochota předat své představy do rukou interpretů anebo věrnost Valeriině odkazu a touha vyrovnat se jí v odvaze k mlčení. A přece měl chvíle, kdy si zoufal nad hudbou, kterou odsoudil k němé existenci ve své mysli nebo na magnetofonových páscích, jež neposlouchal ani on sám. V jedné z takových chvil se mu dostal do rukou článek o Bílém trianglu; neodolal, ozval se jeho autorovi a nechal se snadno přemluvit k vydání alespoň některých ze svých děl.“
 
 „Co se stalo s ostatníma dvěma?“
