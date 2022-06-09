@@ -3,15 +3,13 @@ title: "36\\. kapitola Rusovláska a\_drak"
 contentType: prose
 ---
 
-  
-
 „Bernet si hned pronajal pokoj, aby si mohl sošku o samotě a v klidu prohlédnout. Postavil ji na stůl, na který dopadalo jasné a čisté světlo zasněžených hor. Teď teprve byla vidět celá scéna, kterou porcelánové a skleněné dílko znázorňovalo. Soška byla vysoká asi dvacet centimetrů a její zvláštností bylo, že zároveň zobrazovala interiér a venkovní prostor, oddělený zdí; Bernet se ještě nikdy s ničím podobným nesetkal. Spodní část sošky měla tvar pravidelného oválu; porcelánová zeď domu se skleněnými dveřmi a výlohou obchodu tvořila jeho podélnou osu. Na vnitřní straně zdi se nacházel interiér obchodu, vzadu stál pult a na něm pokladna; mezi pultem a výlohou se odehrával zápas rusovlásky s drakem nebo spíš s dráčkem, který sahal ženě jen k pasu, třebaže se vztyčil na zadních nohou. Teď Bernet viděl, že nejde o skutečný boj; je to hra, v níž se žena škádlí se svým domácím mazlíčkem, šimrá ho laškovně špičkou meče na šupinatém krku, ale jistě by mu neublížila a také dráček jen předstírá zlobu, seká po své paní prackou jako hrající si kočka. Bernet si teď také mohl přečíst, že na ceduli, která visí na klice, je napsáno _Polední přestávka_. Na druhé straně zdi, venku na chodníku, pospíchá pán v klobouku a baloňáku do práce; třebaže bylo skleněnými dveřmi do zavřeného obchodu vidět, muž si vůbec nevšiml, jaký podivuhodný zápas se vede několik kroků od něho.
 
 Nejvíc byl Bernet pochopitelně zvědavý na předměty vystavené na třech policích ve výloze. Krásná prodavačka na každou z nich umístila šest věcí. V obchodě měli zřejmě dost rozmanitý sortiment, pravděpodobně to byl nějaký bazar. (A Bernet si představil, jak smaragdový dráček přes den dříme v zadní místnosti mezi kupami starých krámů; během polední pauzy jeho paní zamkne, svlékne se a hrají si spolu.) Na horní polici stála bronzová soška římského orla, vedle lampa, jaká se na noc věší na ulici k výkopům, aby do nich nikdo nespadl, jeden svazek encyklopedie, plnicí pero s mramorovaným pláštěm, sádrová soška Osirida (patrně suvenýr, který si někdo přivezl z Egypta), kameninový popelník se dvěma ledními medvědy (ten už Bernet viděl na fotografii). Na prostřední polici stála aerodynamická bílá váza ve stylu Expo 58 s naštípnutým hrdlem, malá porcelánová kopie Apollóna Belvederského, vysunovací dalekohled, vějíř potažený papírem, na kterém byla natištěna zamlžená čínská krajinka, anděl z mléčného skla a očazený cylindr z petrolejovové lampy. Na spodní polici stálo skleněné těžítko s barevným motýlem na dně, stínítko stolní lampy se stylizovanými květy mečíků, reprodukce obrazu okřídleného malého elfa v kovovém rámečku, otlučená sádrová soška Štěstěny sypající z rohu hojnosti proud ovoce, starý vojenský triedr, soška Európy na hřbetě býka. Podle dávného vzkazu bylo třeba utvořit text z prvních písmen názvů věcí, tedy z orla, lampy, encyklopedie, pera, Osirida a popelníku na horní polici, vázy, Apollóna, dalekohledu, vějíře, anděla a cylindru na prostřední polici, triedru, stínítka, elfa, Štěstěny, těžítka a Európy na spodní polici. A Bernet napsal na zadní stranu reklamního prospektu, který ležel na stole, tři řady písmen:
 
-OLEPOP  
+_OLEPOP  
 VADVAC  
-TSEŠTE
+TSEŠTE_
 
 To ovšem moc smyslu nedávalo, ale Bernet si vzpomněl, že nápis má být _bustrofedon_, a přečetl POPELOVA-DVACETŠEST. Okamžitě zavolal z mobilu svému sekretáři a ten mu ověřil, že na okraji města Popelová ulice skutečně existuje.
 

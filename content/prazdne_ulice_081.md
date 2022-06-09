@@ -3,8 +3,6 @@ title: 18\. kapitola Útěk
 contentType: prose
 ---
 
-  
-
 „Za úsvitu, když Julie konečně usnula, jsem se vykradla z vily; prošla jsem zahradou mezi stromy, které vystupovaly z mlhy, otevřela branku a rozeběhla se za Kulhánkem a Čjem. Když jsem vstoupila do Kulhánkova bytu, bylo už čerpadlo v klidu, ale soustrojí ještě zpracovávalo zbytky podzemní vody; Kulhánek s Čjem mlčky seděli před Květinářkou a dívali se napjatě na tmavý otvor v jejím středu. Posadila jsem se vedle nich; všichni jsme mlčeli. Za chvíli se z otvoru začal tenkým pramínkem sypat do nádoby z umělé hmoty jemný šedavý prášek. Když se po deseti minutách pramínek zastavil, Kulhánek vstal, opatrně přesypal prášek do bílé dózy, zašrouboval ji a podal mi ji.
 
 U Čje jsme opatrně vmíchali Tannhäuserův zásyp do roztoku se zbylými aktivačními přísadami, který jsme měli už připravený. Podle Pascalova deníku bylo třeba ještě patnáct hodin čekat; probouzení textu tedy mohlo začít až v deset hodin večer. Dostala jsem najednou strach, prosila jsem Čje, aby byl se mnou ve chvíli, kdy se text začne zjevovat, ale Čj řekl, že on už podruhé nesmí Oranžovou knihu číst a že musím být při zjevení textu sama; teď se kniha stala jen mojí a Valeriinou záležitostí. Vzpomínám si, jak jsem jako ve snu převážela opatrně roztok v taxíku domů, jak jsem ve svém pokoji připravovala kahan, trojnožku s nádobou, ve které se bude roztok zahřívat, a stojan na knihu; lahvičku s roztokem jsem zatím zamkla do zásuvky vedle Oranžové knihy. Pokoušela jsem se něco číst, ale byla jsem příliš neklidná, chodila jsem sem a tam po pokoji, nakonec jsem odešla z bytu a až do večera bloudila po ulicích.

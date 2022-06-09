@@ -3,8 +3,6 @@ title: 25\. kapitola Zánik athénské Akademie
 contentType: prose
 ---
 
-  
-
 „Slyšel jste někdy o novoplatónském filosofovi, který se jmenoval Dionysios z Gazy?“ zeptal se vrátný.
 
 „Přiznám se, že ne.“

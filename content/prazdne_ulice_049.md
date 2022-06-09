@@ -3,8 +3,6 @@ title: "44\\. kapitola Hádka v\_altánu"
 contentType: prose
 ---
 
-  
-
 Nejdřív jsem zaslechl slova jedné z dívek: „… to přece nemůžeš myslet vážně!“ Snad to byla Barbora; v jejím hlase jsem slyšel výčitku a lítost.
 
 Pak se ze tmy ozval unavený hlas, který patřil Bernetovi. „Myslím to smrtelně vážně. Snad se k pokladu ještě vrátím, až urovnám své záležitosti, ale v téhle chvíli…“

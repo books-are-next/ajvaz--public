@@ -3,8 +3,6 @@ title: 22\. kapitola Setkání
 contentType: prose
 ---
 
-  
-
 Už jsem to nevydržel a připomněl prodavači: „Pořád jste mi ještě neřekl, jak jste se setkal s Violou.“
 
 „Právě jsem o ní chtěl mluvit. Ta dívka, která se podle vás jmenuje Viola, se v Tam-tamu objevila tři dny po Čjově první návštěvě. Řekla mi, že hledá Vhlma Čje; vzpomínám si, že mě zarazilo, že tu podivnou směs souhlásek vyslovila tak plynně, jako by to pro ni bylo to nejběžnější jméno na světě. Adresu obchodu získala v časopise, kde otiskli můj článek, tam se také dozvěděla, že se jim Čj ozval a že se mě chystá navštívit. Řekl jsem jí, že se s ním minula, že bohužel nevím, kde bydlí ani jaké je jeho pravé jméno, ale jestli s ním chce mluvit, zastihne ho u mne v pondělí v pět hodin.

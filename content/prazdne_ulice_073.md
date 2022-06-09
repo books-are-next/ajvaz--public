@@ -3,8 +3,6 @@ title: 10\. kapitola Zánik Oranžové knihy
 contentType: prose
 ---
 
-  
-
 „Co to bylo za věc, která ho odvedla od skoro hotového stroje?“ zeptal jsem se.
 
 „Alexandrovi kdosi vyprávěl o bytě, kde se skrývá poklad pocházející z pirátské lodi, která ztroskotala u řeckého ostrůvku Folegandros…“

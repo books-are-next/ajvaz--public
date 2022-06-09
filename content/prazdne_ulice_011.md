@@ -3,8 +3,6 @@ title: "6\\. kapitola Fotografie z\_New Yorku"
 contentType: prose
 ---
 
-  
-
 Z tónu, který teď zazněl v Jonášových slovech, jsem pochopil zoufalství, v jakém žil v posledních měsících ve svém ponurém sídle. Mluvil tak tiše, že jeho hlas byl jen o něco málo silnější než praskání nábytku nebo občasné vzdechy křesel, ve kterých jsme seděli, a teď na dlouhou dobu zmlkl úplně. Bylo mi ho líto, ale pořád mi nebylo jasné, co vlastně ode mne chce. Když mlčení trvalo už příliš dlouho, zeptal jsem se ho, co jeho dcera dělala.
 
 „Viola měla nadání na jazyky; a tak studovala angličtinu a francouzštinu a po skončení školy se živila jako překladatelka a tlumočnice,“ řekl Jonáš.

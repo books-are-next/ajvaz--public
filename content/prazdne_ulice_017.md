@@ -3,8 +3,6 @@ title: 12\. kapitola Zvěd
 contentType: prose
 ---
 
-  
-
 „Už jsem nepokračoval v cestě do Dijonu; koupil jsem si za zbytek peněz jízdenku na vlak a vrátil se domů. Začal jsem malovat první obraz půl hodiny poté, co jsem odemkl dveře ateliéru; byl to obraz nádražní haly, kde okénka pokladen čas od času zarůstala neprostupnou džunglí. Pak přišly další obrazy, na kterých se stavby, věci a bytosti namalované francouzskými laky nečekaně zjevovaly v městských sceneriích a pak zase mizely; rostlina vyrůstající uprostřed prázdného náměstí, socha neznámé královny nebo velký krystal se rozplynuly a zůstala jen tichá ulice se zaparkovanými automobily, řada domů, počmáraný plot… Tvrdé aktivanty jsem používal jen při malování. Když jsem je zahříval na kahanu pod plátnem, neviditelné laky se proměňovaly v barvy; za nějaký čas se pak zase stávaly průhlednými; pak už jsem jejich objevení nechával na náhodě, na nepředvídatelné konstelaci měkkých aktivantů v ovzduší.
 
 Zdálo se, že věcem a prostorům takové lehké poodhalení jejich myšlenek není proti mysli; opět na mne začaly mluvit. A řekly mi toho tolik, že jsem v té době ani nestačil zaznamenávat všechno, co mi sdělují. V červnu jsem ze svých nových prací uspořádal výstavu. Byl o ni docela slušný zájem, ale přinesla mi nakonec jen zklamání, protože se návštěvníci i kritici dívali na obrazy jen jako na technickou hříčku.

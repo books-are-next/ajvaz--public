@@ -3,8 +3,6 @@ title: 10\. kapitola Balík na dně zásuvky
 contentType: prose
 ---
 
-  
-
 „Můj soused pracoval jako dělník ve firmě, která v městečku sídlí už sto sedmdesát let a která vyrábí různé drogistické a kosmetické zboží. Byl to malý rodinný podnik, jehož vedení přecházelo po několik generací z otce na syna nebo zetě. Firma si kupodivu vedla v konkurenci všech nadnárodních korporací docela dobře, i když její jméno nezářilo na billboardech a nešeptaly je svůdné rty modelek v televizních reklamách. Velké podniky se stovkami zaměstnanců a s výzkumnými týmy nabízely lepší a lacinější zboží, ale lidé v městečku a v okolí se všichni znali s rodinou majitele, byli zvyklí používat mýdla, kolínské vody a postřiky proti mšicím z místní továrny už od dětství a koupit si nějakou mezinárodní značku by jim připadalo jako výstřednost – a málokoho asi něco takového vůbec napadlo.
 
 Staří lidé, kteří prožili celý život v městečku a pamatují si ještě na dědečka a pradědečka dnešního majitele továrny, říkají, že se všichni majitelé podivuhodně vzhledem i povahou podobali jeden druhému. Ta podobnost byla tak veliká, že se jim ve vzpomínkách všichni továrníci pletli; častou scénkou v hospodě byla hádka staříků o to, kterému z majitelů se stala nějaká příhoda, na niž si některý z nich zrovna vzpomněl, například jestli ukradli velkou nádobu s lihem Jacquesovi za druhé světové války nebo Charlesovi za první.

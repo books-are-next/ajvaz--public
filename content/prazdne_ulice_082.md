@@ -3,8 +3,6 @@ title: "19\\. kapitola Zjevení u\_garáží"
 contentType: prose
 ---
 
-  
-
 To byl tedy příběh dvojitého trojzubce, jehož hrot se mi před dvěma týdny zabodl do chodidla. Vzpomněl jsem si ještě na jednu věc a zeptal se Violy: „Jak jste se dozvěděla o divadelním představení v sokolovně?“
 
 „Všimla jsem si plakátu, na kterém byl namalovaný dvojitý trojzubec jako součást hieroglyfického nápisu, a šla se na hru ze zvědavosti podívat. Ale vůbec netuším, jak se autorka ke znaku dostala.“

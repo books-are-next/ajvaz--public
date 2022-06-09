@@ -3,8 +3,6 @@ title: 2\. kapitola Starý slib
 contentType: prose
 ---
 
-  
-
 Zabořil jsem se do hluboké měkké pohovky, na kterou Viola mlčky ukázala; sama zůstala stát u klavíru, jednou rukou svírala víko nad klávesnicí stejně křečovitě jako před chvílí dveře; vypadalo to, jako by byla připravena v případě nutnosti na mne vypustit nějakého démona, který sídlí uvnitř klavíru.
 
 „Navrátil je Vhlm Čj?“ řekl jsem.

@@ -3,8 +3,6 @@ title: "53\\. kapitola Rozhovor u\_bazénu"
 contentType: prose
 ---
 
-  
-
 Nějakou chvíli jsme všichni mlčeli. Díval jsem se s přimhouřenýma očima na světlo, které se blyštělo na vlnách bazénu, poslouchal jsem jejich šplouchání. Nakonec jsem řekl: „Myslím, že jsme všichni v příběhu poznali nějakou příbuznost s našimi záležitostmi. Abych pravdu řekl, nevím, co si mám o tom myslet. Příběh nám může něco napovědět, ale také to může být jedna z falešných stop, která nás svede z cesty.“
 
 „Anebo jednomu z nás napoví a druhého svede z cesty,“ podotkla Andrea.

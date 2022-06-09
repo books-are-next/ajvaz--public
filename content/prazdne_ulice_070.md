@@ -3,8 +3,6 @@ title: "7\\. kapitola Venuše a\_Tannhäuser"
 contentType: prose
 ---
 
-  
-
 „Když si Valerie všechno promyslela, obrátila se na Pascala a požádala ho, aby pro ni připravil inkoust, který by byl viditelný jeden měsíc, pak se navždy ztratil a nebylo by už možné jej žádným z měkkých ani tvrdých aktivantů obnovit. Pascal se jí zeptal, kdy jej bude potřebovat, a Valerie řekla, že bude na románu pracovat jeden rok a pak jej mizícím inkoustem přepíše načisto. Pascal přikývl a řekl, že jí inkoust tedy přinese za rok.“
 
 Přerušil jsem Violino vyprávění a zeptal se na něco, o čem už jsem delší dobu přemýšlel: „Byli ti tři do Valerie zamilovaní?“

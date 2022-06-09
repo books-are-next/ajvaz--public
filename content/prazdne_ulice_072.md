@@ -3,8 +3,6 @@ title: 9\. kapitola Alexandrovo bloudění
 contentType: prose
 ---
 
-  
-
 „Pascal pro Valerii připravil pásky napuštěné Tannhäuserovým inkoustem, a tak Valerie mohla text románu přepsat na psacím stroji. Když byla hotová, spálila rukopis i všechny náčrty a odmítnuté verze, dávala pozor, aby z románu nezůstalo mimo knihu psanou Tannhäuser-Kulhánek-Brisonovým inkoustem ani slovo. Když byla hotová s přepisováním, Švarc listy svázal do oranžového knihařského plátna a na přední stranu zelenou barvou namaloval podle Valeriiny předlohy znak dvojitého trojzubce, který hrál v ději knihy důležitou roli. Valerie nedala románu žádné jméno, říkala, že je zbytečné pojmenovávat knihu, která bude žít jen jeden měsíc. A tak jejímu dílu Pascal, Čj a Ú začali říkat prostě Oranžová kniha. Losovali, v jakém pořadí budou knihu číst; první dostal knihu do rukou Švarc.“
 
 Už se úplně setmělo, pokoj byl osvětlený jen svitem jasné noční oblohy, který přicházel okny; sotva jsem rozeznával obrysy Violiny postavy, schoulené v křesle. Na klavíru a na hladkém povrchu skříně se odrážela bílá a zelená světla nad tratí.

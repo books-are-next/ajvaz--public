@@ -3,8 +3,6 @@ title: 16\. kapitola Nereus
 contentType: prose
 ---
 
-  
-
 Probudil jsem se až po desáté hodině. Uvařil jsem si kávu, sedl si s ní k telefonu a vytočil číslo, které jsem v noci napsal na kus papíru. Když v telefonu mužský hlas vyslovil jméno mořského božstva, zeptal jsem se, čím se akciová společnost Nereus zabývá. Po chvilce udiveného mlčení hlas takřka uraženě řekl: „Přece výrobou čerpadel.“ Vypil jsem kávu a vydal se hledat sídlo společnosti.
 
 Ten den bylo poprvé po dlouhé době zataženo, přitom nepřestalo být horko; ze všeho kanula vlhkost a měnila se v hutné pachy. Přetrpěl jsem několik stanic v tramvaji a vystoupil jsem už na začátku ulice, jejíž jméno jsem v noci našel v telefonním seznamu. Byl tu dost rušný provoz, procházel jsem pod novorenesančními a secesními fasádami bank a úřadů, jen o něco málo nižších, než jaké stojí v centru města; nad hlavou mi nevšímavě proplouvaly štukové nahé ženy se zaprášenými ňadry polehávající nad vchody a ještě výš se sunuly do neviditelné země, která se prostírá za našimi zády, hlavy národních buditelů vyrůstající z fasád jako velké choroše. Za většinou skel, kolem nichž jsem procházel, stály figuríny, navlečené do značkového oblečení a ustrnulé v záhadných gestech. Řekl jsem si, že Nereus musí být asi velká mezinárodní firma, když se usídlila v blízkosti těchto skvělých jeskyní luxusu.

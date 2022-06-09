@@ -3,8 +3,6 @@ title: "54\\. kapitola V\_ústavu"
 contentType: prose
 ---
 
-  
-
 Cestou jsem přemýšlel, za jakou stopou se dám teď, ale uvědomil jsem si, že už mi žádná stopa nezbyla. Všechny jsem je prozkoumal a žádná z nich mě nikam nepřivedla. Octl jsem se opravdu na konci svého pátrání po Viole Jonášové? Všechno svědčilo o tom, že ano. Pocítil jsem smutek. Zůstanou mi opravdu do konce života jen fragmenty neznámého příběhu, které se budou vracet a zarůstat snem? Začal jsem probírat všechny stopy, na které jsem narazil, a přemýšlel jsem, jestli by mi některá z nich mohla ještě něco říci. Napadlo mě, že zbývá jediná možnost: pokusit se dozvědět něco víc o Dionysiovi z Gazy; třeba se v jeho spisech anebo v nějaké podrobnosti jeho života, o které se mi vrátný nezmínil, skrývá nápověda, na kterou čekám. Na první pohled to sice vypadalo, že dávný filosof sotva může nějak objasnit případ zmizelé dívky, ale na druhé straně jeho život a dílo byly nejstaršími stopami, s jakými jsem se setkal, a proto by v sobě mohly ukrývat kořen všech ostatních stop.
 
 A vzpomněl jsem si na nemluvného muže s hustým převislým knírem, jehož kniha o Platónově etice vyšla v nakladatelství, kde jsem donedávna pracoval. Jmenoval se Wirth a byl uznávaným odborníkem na řeckou filosofii, zejména na novoplatonismus. Ten by mi jistě mohl něco o Dionysiovi říci a pravděpodobně u něho také najdu alespoň některé filosofovy spisy. V telefonní budce, která stála blízko kiosku a lavičky, kde mi architekt vyprávěl Bernetův příběh, jsem si našel ve Zlatých stránkách adresu ústavu, kde Wirth pracoval. Bylo už ale pozdní odpoledne, a tak jsem se rozhodl návštěvu odložit na zítra.
