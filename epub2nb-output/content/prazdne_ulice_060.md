@@ -3,6 +3,8 @@ title: 55\. kapitola Zátoka na Folegandru
 contentType: prose
 ---
 
+<section>
+
 Páté dveře byly zavřené; když jsem zaklepal, objevil se nakrátko ostříhaný mladík v brýlích s hranatými černými obroučkami. V místnosti, kde sídlil, bylo ještě méně místa než u Wirtha, protože po obou stranách se táhly police, na kterých stály počítače s tmavými obrazovkami. Zmínil jsem se o Wirthovi a o dvojitém trojzubci; Arnošt hned ožil a zval mě dál; bylo vidět, že má radost, že si může o trojzubci s někým popovídat. Uvolnil mi svou židli a posadil se naproti mně; dveře místnosti zůstaly otevřené, a tak jsem viděl Arnoštovu siluetu na pozadí zářícího obdélníku, který vyplňovalo listoví kaštanu lesknoucí se ve slunci a jehož světlo ještě navíc probudilo k snovému životu obrazovky počítačů na policích.
 
 „Setkal jsem se se znakem vloni v létě,“ začal hned vyprávět. „Bylo to období, na které dost nerad vzpomínám. Vídal jsem se tenkrát v kavárně se skupinou mladých Američanů, kteří tu žili, a zamiloval jsem se do jedné dívky z Kalifornie. Viděl jsem úplně jasně, že Pamela je namyšlená snobka a že se mi jen vysmívá a ponižuje mě před ostatními, ale jak to někdy bývá, nezměnilo to vůbec nic na tom, jak zoufale jsem po ní toužil. Seznámil jsem se s ní vloni koncem dubna a začátkem srpna to dospělo tak daleko, že jsem cítil, že musím za každou cenu alespoň na čas utéct někam pryč. Když jsem přemýšlel, kam bych měl odjet, přepadla mě touha po jihu, zdálo se mi, že horko a světlo jižního slunce by mi mohlo myšlenky na Pamelu vypálit z hlavy. A tak jsem si koupil letenku do Athén; tam jsem hned z letiště odjel do Pirea a nasedl na první trajekt, který odplouval na ostrovy. Pak jsem jen putoval bez plánu z ostrova na ostrov.“
@@ -40,3 +42,5 @@ Arnošt se na chvíli odmlčel. Díval jsem se na lesklá akvária počítačů 
 „Ale ano, já se skutečně jmenuju Arnošt, a nejsem ani Zajíc. Napsal jsem povídku na palubě lodi při zpáteční cestě do Pirea. Když jsem se vrátil, přeložil jsem ji dokonce do angličtiny a dal ji přečíst Pamele, i když jsem mohl vědět, jak to dopadne. Pam povídku ztrhala; vzala ji do kavárny, předčítala z ní ostatním a ke každé větě připojila nějaký ironický komentář. Pamely se všichni báli, a tak jsem tam seděl, díval se na obličeje, které se servilně pochechtávaly, když Pam žertovala na můj účet, a myslel si, že se propadnu hanbou. No nic, dostal jsem, co jsem si zasloužil.
 
 Chtěl jsem zjistit, jestli je povídka opravdu tak špatná, a poslal jsem ji do literárního časopisu, ale po představení, které v kavárně sehrála Pamela, už jsem neměl dost sebevědomí na to, abych ji podepsal svým jménem, a tak jsem si vymyslel pseudonym, první jméno, které mě napadlo. Povídka v časopise po nějaké době skutečně vyšla a já si řekl, že to snad přece jen není taková slátanina, jak tvrdila Pam.“
+
+</section>

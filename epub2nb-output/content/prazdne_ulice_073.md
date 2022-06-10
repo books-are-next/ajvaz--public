@@ -3,6 +3,8 @@ title: 10\. kapitola Zánik Oranžové knihy
 contentType: prose
 ---
 
+<section>
+
 „Co to bylo za věc, která ho odvedla od skoro hotového stroje?“ zeptal jsem se.
 
 „Alexandrovi kdosi vyprávěl o bytě, kde se skrývá poklad pocházející z pirátské lodi, která ztroskotala u řeckého ostrůvku Folegandros…“
@@ -34,3 +36,5 @@ Po Úovi četli Oranžovou knihu i Čj a Nm. A všichni tři ji pročítali z
 Všichni čtyři stáli mlčky nad knihou a sledovali její zánik. Ú i Čj si zapamatovali to odpoledne do nejmenších podrobností. Oba mi vyprávěli o měkkém světle, které přicházelo oknem vedoucím do zasněženého parku a leželo na všech věcech v pokoji, o pachu kabátů, které visely, prosáklé tajícím sněhem, na věšáku v předsíni, o jasném zvuku, jakým se ozývaly v mrazivém vzduchu vzdálené hlasy sáňkujících dětí. Valerie zvolna listovala knihou, uprostřed stránek se začaly objevovat nové barvy – fialová, růžová, azurová a zlatá – a rozlévaly se písmeny k okrajům, jako kdyby na každé stránce vybuchl němý ohňostroj. V jedné chvíli všechny nově zrozené barvy ustoupily, písmena opět zezelenala a pak zelená barva začala blednout, slova se jako potápějící se město začala propadat do bílé stránky, ztrácela se víc a víc, až zmizela, jen občas se nakrátko zjevilo slovo nebo fragment věty a zase se ponořily pod hladinu stránky. Osamocená slova nebo písmena se na stránkách knihy objevovala ještě několik týdnů; pak se bílá hladina nad textem zavřela navždycky. Ú, Čj a Nm dál navštěvovali každý den Valerii. Brali knihu do ruky, listovali bílými stránkami se smutkem a podivnou rozkoší; cítili, že Valerie měla pravdu, že smazaný text pořád žije, věty a výjevy z knihy se rozpouštěly v zapomenutí, ale zároveň bobtnaly novými ději, novými tvary a novou hudbou.
 
 Román o Alexandrovi zanikl v lednu sedmdesátého devátého roku. Valerie byla po ročním psaní románu, při kterém se ještě musela starat o mne a o domácnost, vyčerpaná. O knize nechtěla vůbec mluvit. Nikdo z tří přátel se nedozvěděl, jestli je s tím, co se stalo, spokojená, nebo jestli přece jen zániku knihy lituje. V únoru nastaly velké mrazy. Nastydla jsem se, Valerie se mnou běžela k lékaři, neoblékla se dobře a dostala zápal plic. Když ji odvezli do nemocnice, vzal si mě k sobě Čj a staral se o mne. Přátelé Valerii ještě několikrát navštívili v nemocnici; museli jí znovu slíbit, že se nebudou pokoušet obnovit text románu, a Valerie dokonce začala požadovat ještě víc: chtěla teď, aby o knize ani s nikým nemluvili, aby to, že existovala Oranžová kniha, zůstalo navždy jejich tajemstvím. Čtvrtý den dostala vysoké horečky, a když její přátelé přišli do nemocnice pátý den, lékař jim oznámil, že Valerie v noci zemřela. Ještě jí nebylo třicet let. Mně byly čtyři roky; vzal si mě k sobě Jonáš, od té doby jsem žila s ním a na matku jsem zapomněla.“
+
+</section>

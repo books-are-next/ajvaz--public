@@ -3,6 +3,8 @@ title: 20\. kapitola Bílý triangl
 contentType: prose
 ---
 
+<section>
+
 V hale se ozval mužský hlas, který nějakou chvíli promlouval v nesrozumitelném barbarském jazyce nádražních amplionů; prodavač se odmlčel, trpělivě čekal, až bude zase ticho, a pak pokračoval ve vyprávění.
 
 „Tenkrát se po hospodách často mluvilo o uměleckém sdružení Bílý triangl, ke kterému měli patřit tři lidé s podivnými pseudonymy. Pseudonymy se vyskytovaly v nejrůznějších podobách; byla to tak nezvyklá, tak těžko vyslovitelná a tak obtížně zapamatovatelná slova, že se jejich znění často proměnilo, než dospělo k sousednímu stolu. Dnes vím, že všechny jejich podoby, které jsem tehdy slyšel, byly zkomolené, ale všechny kroužily kolem správného znění: členové Bílého trianglu si říkali Vhlm Čj, Iui Nm a Vga Ú.“
@@ -25,7 +27,15 @@ Pořád jsem nechápal, jak to všechno souvisí s Violou, ale nevadilo mi to, 
 
 A prodavač napsal na bílý okraj jednoho z papírů vzorec:
 
+</section>
+
+<section>
+
 _0 < EF < 0,1C_
+
+</section>
+
+<section>
 
 „Co to je, proboha?“ zeptal jsem se.
 
@@ -50,3 +60,5 @@ Hlavní potíž nespočívala ani tak v domýšlení vztahů mezi fragmenty; Č
 „Chtěl právě něco mezi tím, prázdno rozpukávající se do děje, příběh, který se dosud zcela nevyklubal z vejce prázdna. Nm požadoval, aby čtenář-tvůrce nechal rozvinout rodící se děje jen do určitého stupně, příběh měl být uvařený jen naměkko, měl zůstat ve stadiu, kdy měl podobu jen jakéhosi rytmického vlnění a pulsování, ze kterého se ještě zcela nevynořily věci, těla, prostory, činy a myšlenky. Nm nesnášel hotové tvary a prohlašoval, že nepíše fragmentaristická díla proto, aby z nich někdo znovu dělal celky.
 
 Nm se svou tvorbou nebyl pořád spokojen, jeho díla mu připadala příliš mnohomluvná; a tak v jeho třetím románu, který se jmenoval Znovuzrození a měl tři sta šedesát stran, už byl text jen na straně 24 (slova ‚zelené sklo‘), na straně 76 (slovo ‚hvězda‘), na straně 173 (slova ‚třásně stínítka‘) a na straně 248 (slova ‚naslouchal tichému šplouchání‘). A v posledním románě Kentaur se na bílých stránkách už objevovala jen osamocená písmena a neidentifikovatelné fragmenty slov; Čjovi připadalo, že Nm směřuje k rovnici EF = 0, k prázdné stránce, na níž by bylo v zavinuté podobě přítomno vše. Čj ovšem nevěděl, jak se Nmovo dílo vyvíjelo dál, protože Nm se po rozpadu Bílého trianglu vrátil do své rodné země.“
+
+</section>

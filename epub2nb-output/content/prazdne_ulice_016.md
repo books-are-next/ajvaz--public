@@ -3,6 +3,8 @@ title: 11\. kapitola Dominikovy obrazy
 contentType: prose
 ---
 
+<section>
+
 „V noci jsem nemohl spát, převaloval jsem se pod chladnou těžkou peřinou na velké posteli, která zabírala skoro celý prostor pokojíku, kam mě uložili, a přemýšlel jsem, jestli mi zjevující se a mizící barvy opravdu mohou pomoci, nebo jestli znamenají jen technickou past. Vybavil jsem si všechny své obrazy, tak jak následovaly za sebou, a z jejich sledu se ve tmě pod zavřenými víčky stal jediný proměňující se obraz, na jehož plátně se nejprve objevily mé první dětské kresby, pak postupně následovala všechna má díla, chvíli se na něm vlnily bezradné čáry posledních pokusů; úplně nakonec zbylo prázdné plátno, před nímž jsem bezradně postával poslední týdny před svým odjezdem… Ale promiňte, že jsem se tak rozpovídal, tohle se zmizením Violy nesouvisí.“
 
 „Mluvte, prosím, dál, vyprávějte mi pěkně pomalu jedno po druhém, mám dost času.“ Neříkal jsem to ze zdvořilosti; měl jsem pocit, že se stopami, které by mě mohly přivést ke ztracené dívce, se mohu setkat nejspíš na nějaké zdánlivě bezvýznamné odbočce něčího vyprávění.
@@ -24,3 +26,5 @@ Až při pohledu na obraz s šíleným vědcem mě napadlo řešení mého prob
 Ráno jsem svého nového známého doprovázel do továrny na kraji města; bylo to spíš seskupení několika přízemních dílen, které spojovaly cestičky vyšlapané přes zaprášené záhony s keříky rajčat. Přivedl mě hned k mladému šéfovi podniku a řekl mu o mém přání malovat obrazy mizícími laky. Obával jsem se, že nás oba majitel vyhodí, ale kupodivu byl stejně ochotný a laskavý jako můj hostitel. Říkal, jakou má radost, že může být umělci nějak užitečný. Telefonoval hned do dílny, aby pro mne odebrali vzorky laků a tvrdých aktivantů, a do kanceláře, aby okopírovali dokumentaci. A já pochopil, že majitel továrny sice už přestal cítit touhu po nových výrobcích, ale že se přesto nedokázal zbavit špatného pocitu z toho, že strýcův objev zahrabal ve skladišti. A tak měl radost, když jsem o laky projevil zájem, a nakonec byl možná vděčnější on mně než já jemu: jeho svědomí se ulehčilo, a přitom nemusel zavádět do výroby žádné novinky.
 
 Než pro mne připravili kopii receptur a vzorky, provedl mě majitel dílnami a s pýchou mi ukazoval prastaré linky na výrobu mýdla, šamponů a parfémů. Musel jsem zůstat na oběd, který podávala jeho nenápadná manželka ve starodávné vile sousedící s továrnou. Když jsem odcházel, předal mi kufřík, ve kterém byla sada lahviček s laky a tvrdými aktivanty a také okopírovaná dokumentace, od majitelovy ženy jsem dostal košík rajčat a kedluben z její zahrádky.“
+
+</section>

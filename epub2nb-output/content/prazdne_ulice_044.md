@@ -3,6 +3,8 @@ title: 39\. kapitola Exulanti
 contentType: prose
 ---
 
+<section>
+
 Do ticha zazněly první tóny. Od chvíle, kdy jsem slyšel Čjovu minimalistickou skladbu, jsem si myslel, že už mě v hudbě nemůže nic překvapit, ale podivnost předehry ještě převyšovala bizarnost Čjovy neslyšné sonáty; ta mohla posluchače uvádět v úžas, ale její smysl nebylo zase tak obtížné najít, obzvláště když Čj princip, podle něhož své dílo vytvořil, sám tak důkladně vysvětlil. Hudba, kterou jsem na Bernetově zahradě slyšel, působila daleko méně chaotickým dojmem než noční sonáta, ale přesto na mne z jejích tónů vanula tíseň, jakou jsem ještě nikdy při poslechu hudby nepoznal. Má úzkost vyrůstala z toho, že bylo zcela nemožné určit řád či záměr této hudby, rozpoznat její smysl či najít svět, do něhož by mohla patřit – ani ne tak proto, že by poukazovala k nějakému vzdálenému a těžko pochopitelnému světu, jako spíš proto, že možnost jakéhokoliv světa vylučovala.
 
 Slyšel jsem dost jednotvárné řady tónů, které hrály jednotlivé nástroje; tyto řady jako by se vzpíraly jakémukoliv členění. Nedal se v nich zachytit žádný pevný motiv – několikrát se sice zdálo, že se objevuje náběh k opakování a variacím skupiny tónů, ale pokaždé byla ustavující se souvislost náhle přerušena; řada tónů se jako kluzký had vysmekla posluchači, který se už už domníval, že ji pevně drží, a zkroutila se do tvaru, jenž nepoukazoval k ničemu, co posluchač slyšel dříve. Nechuť neznámého skladatele k jakékoliv artikulaci se projevovala ještě jiným způsobem: všechny tóny zaznívaly stejnou silou, a tak nejenže se předehra zbavila všech motivů a témat, ale nebylo ani možné ji rozdělit na takty a říci, v jakém je psána rytmu. Za nějaký čas jsem si však na rozmary předehry zvykl a nalezl jsem v této hudbě dokonce jakési zalíbení, které vyplývalo z pocitu, že se nemusím namáhat s hledáním něčeho, co tak jako tak nenajdu, a že mohu poklidně sledovat nepředvídané kousky svíjejících se hadů tří melodií, jejich uhrančivý tanec.
@@ -19,6 +21,10 @@ Jeden z mužů, kteří montovali reflektory, stáhl oponu na stranu. Objevila 
 
 Po chvíli Andrea odložila časopis a obrátila se k Barboře stojící u okna. Zpívala:
 
+</section>
+
+<section>
+
 _„Včera mi představili  
 mladého vědce, který píše habilitační práci  
 o tvé knize The City and the Ocean.  
@@ -32,17 +38,41 @@ Když se nedávno dozvěděl,
 ve stejném městě jako on,  
 nechtěl tomu věřit.“_
 
+</section>
+
+<section>
+
 Andrein hlas se mi líbil. Zpívala tiše, její zpěv mi zprvu připadal stejně monotónní jako hudba, která jej doprovázela, ale postupně jsem v něm začal slyšet lehké tóny smutku, jako by na dně smířeného klidu stále ještě tiše dozníval tlumený sten nějaké dávné bolesti.
+
+</section>
+
+<section>
 
 _„Ani se neodvážil,“_
 
+</section>
+
+<section>
+
 pokračovala Andrea,
+
+</section>
+
+<section>
 
 _„požádat o rozhovor s tebou,  
 i když jsem viděla,  
 že po ničem jiném tak netouží.“_
 
+</section>
+
+<section>
+
 Barbora se během Andreina zpěvu otočila od okna. Opřela se o namalovanou okenní římsu – plátno se prohnulo, ale konstrukci vzadu podpíraly silné latě, a tak nehrozilo nebezpečí, že se kulisa zřítí – a dívala se na sedící Andreu. Svými pohyby a výrazem tváře vyjadřovala, že postava, kterou představuje, se probírá z hlubokého zamyšlení. Zdálo se, že vědci-exulantovi trvalo nějaký čas, než si uvědomil, o čem žena u stolu mluví. Když Andrea dozpívala, chvíli zněla jen hra zvonků. Pak Barbora v roli vědce začala zpívat:
+
+</section>
+
+<section>
 
 _„Nevím, jestli bych mu mohl pomoci.  
 Na ostrově jsme o těch věcech  
@@ -59,11 +89,27 @@ dnes mi vše připadá tak nejisté,
 zdá se mi, že řetězce bezchybných důkazů  
 se trhají jako vetchá tkanina…“_
 
+</section>
+
+<section>
+
 Barbořin hlas byl ještě tišší než Andrein; byl tak tichý, že se do jejího zpěvu mísily vzdálené zvuky města, podobně jako se šum ulic prolínal s hudbou v Čjově noční sonátě. I v Barbořině zpěvu byly slyšet přetrvávající tóny dávné bolesti, ale byly ještě tlumenější než v Andreině hlase; jako by úleva nad tím, že skončilo zlé období vědcova života, spojená s nesmírnou únavou, zastínila všechny ostatní pocity. Vědec teď sice vzpomínal na okamžiky štěstí na jakémsi ostrově, který snad byl jeho vlastí, ale stíny v jeho hlase i v hlase jeho ženy naznačovaly, že šťastné chvíle na mořském břehu asi netrvaly dlouho, že byly vystřídány nějakou katastrofou. Únava, která zaznívala v Barbořině zpěvu, se projevovala i v pohybech rukou. Bylo zvláštní, jak zabarvení jejího hlasu i její pohyby vyvolávaly přes nedokonalý převlek silnou iluzi postavy, kterou představovala; mladá dívka jako zázrakem zmizela, viděl jsem unaveného muže, který všechno prohrál, ale cítí ještě jakési štěstí z toho, že boj už skončil. Žena vstala, šla k muži, který pořád stál u okna, a položila mu hlavu na rameno.
+
+</section>
+
+<section>
 
 _„Bolí mě, když takhle mluvíš,“_
 
+</section>
+
+<section>
+
 říkala žena, zpívala Andrea,
+
+</section>
+
+<section>
 
 _„čas vždycky rozpouští pevné tvary  
 a zvolna nechává unikat smysl ze slov.  
@@ -76,7 +122,15 @@ zaniklé nádhery a slávy
 a můžeme jimi bloudit s dojetím a úctou,  
 jako vítězové.“_
 
+</section>
+
+<section>
+
 Vědec se pořád díval na podlahu, odmítavě vrtěl hlavou, ale svou ženu nepřerušoval. Ta pokračovala:
+
+</section>
+
+<section>
 
 _„Říkáš, že slavné zákony oněměly,  
 když se do jejich slov už nemísí  
@@ -89,6 +143,16 @@ jak se do jejich zvuku mísí
 se budou s dávnými slovy  
 vracet stále znovu.“_
 
+</section>
+
+<section>
+
 Vědec zvedl hlavu; Barbora zazpívala jeho tichou odpověď:
 
+</section>
+
+<section>
+
 _„Přízraky. To všechno jsou jen přízraky…“_
+
+</section>

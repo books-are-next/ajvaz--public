@@ -3,6 +3,8 @@ title: 34\. kapitola Zrození multimilionáře
 contentType: prose
 ---
 
+<section>
+
 „Když se ho matka ptala, čemu se chce věnovat, krčil rameny. Matka si z něho zoufala, Bernet se nevyznal v životě, nedokázal zařídit sebejednodušší věc; zpočátku tajně doufala, že z něho třeba vyroste umělec, ale brzy se ukázalo, že nemá ani žádné umělecké nebo vědecké zájmy. Potom co z jeho života odplula Santa Clara, už Berneta nebavilo nic.
 
 V době, kdy chodil do posledního ročníku gymnázia, mu jednou matka dlouze vychvalovala syna nějaké známé, který vystudoval ekonomii; Bernet sice neposlouchal, co říká, ale aby jí udělal radost, podal si přihlášku na ekonomickou školu. Když školu někdy v první polovině devadesátých let dokončil, byl pořád stejně lhostejný, uzavřený a samotářský jako předtím. Jeho otec se vrhl hned po převratu do světa obchodu a po kuponové privatizaci založil firmu, která podnikala na novém trhu s akciemi. Nedělal si o obchodních schopnostech svého syna žádné iluze, ale cítil výčitky svědomí kvůli tomu, že opustil rodinu a že se synovi nikdy pořádně nevěnoval, a tak mu nabídl místo ve svém podniku. Bernet je s pokrčením ramen přijal; byl rád, že se nemusí zabývat sháněním zaměstnání…
@@ -44,3 +46,5 @@ Architekt se na mne podíval, usmál se a dodal: „Nikdo – možná s výji
 „Na tom, co jste řekl, je hodně pravdy,“ odpověděl s povzdechem architekt. „Vlastně se ve svém vztahu k Bernetovi sám moc nevyznám. Kdyby mi někdo vyprávěl jeho život tak, jak jsem vám ho vyprávěl já, snad bych měl podobné pocity jako teď vy. A přece pořád cítím potřebu Berneta obhajovat. Jak bychom se asi chovali my, kdyby se na nás z ničeho nic sesypal tak obrovský majetek? Nedělali bychom daleko horší věci? Možná že jsem vám neřekl to nejdůležitější, co mě k Bernetovi poutá – neřekl jsem vám to, protože nevím, co to je. Třeba je to dávná dětská bezradnost, která čas od času prosvitne jeho úsměvem nebo zabloudí do jeho gest, třeba udivený pohled, kterým se někdy dívá na své sídlo a který jako by říkal: ‚Bože, kam jsem se to dostal?‘ A třeba mě k němu nejvíc poutá výraz, který se někdy na jeho tváři objeví uprostřed rozhovoru a kterým, jak se mi zdá, mě prosí, abych ho neopouštěl. Poté co se seznámil s Andreou a Barborou, už není tak sám, ale přesto pořád zůstávám jediným přítelem, kterého má.“
 
 Když jsem slyšel, jak se mi architekt rozpačitě omlouvá za své přátelství s Bernetem, bylo mi ho líto a nechtěl už jsem ho dál trápit. Poprosil jsem ho, aby mi dovyprávěl Bernetův příběh.
+
+</section>

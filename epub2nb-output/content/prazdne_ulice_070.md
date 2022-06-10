@@ -3,6 +3,8 @@ title: "7\\. kapitola Venuše a\_Tannhäuser"
 contentType: prose
 ---
 
+<section>
+
 „Když si Valerie všechno promyslela, obrátila se na Pascala a požádala ho, aby pro ni připravil inkoust, který by byl viditelný jeden měsíc, pak se navždy ztratil a nebylo by už možné jej žádným z měkkých ani tvrdých aktivantů obnovit. Pascal se jí zeptal, kdy jej bude potřebovat, a Valerie řekla, že bude na románu pracovat jeden rok a pak jej mizícím inkoustem přepíše načisto. Pascal přikývl a řekl, že jí inkoust tedy přinese za rok.“
 
 Přerušil jsem Violino vyprávění a zeptal se na něco, o čem už jsem delší dobu přemýšlel: „Byli ti tři do Valerie zamilovaní?“
@@ -42,3 +44,5 @@ Nad válec Kulhánek otec umístil provzdušňovač, který vypadal jako slavnos
 „Hrál se ve výrobně ještě pořád Wagner?“
 
 „Už ne, Kulhánek otec sice nechtěl měnit zavedenou značku zásypu, ale Wagnera, kterého musel poslouchat celé dětství, nesnášel. Obstaral nový gramofon a nakoupil desky s foxtroty a waltzy; ty pak zněly ve výrobně celá dvacátá a třicátá léta. V osmačtyřicátém roce podnik zavřeli a dům zabavili. Nechali rodinu bydlet ve vile, Kulhánek otec si dokonce mohl ponechat byt v prvním patře – ale on pořád doufal, že bude možné výrobu Tannhäuserova zásypu aspoň v nějakém omezeném rozsahu obnovit, a proto rozhodl, že rodina bude bydlet v dolní místnosti, která byla spojená s jeskyní a ve které zůstal stroj. Jeho žena mu za to chvílemi nadávala a chvílemi ho vydírala pláčem; otec Kulhánek se sice snažil celý život vyhýbat sporům, ale v téhle věci zůstal neoblomný. Žena se nakonec smířila s tím, že bude bydlet se strojem, který se roztahoval po celé místnosti, i když při rodinných hádkách nikdy neopomněla vykřikovat, že musí žít ve Frankensteinově laboratoři. Prosadila alespoň, že otec Kulhánek odstraní a uloží do sklepa trubky, které se táhly podél zdí a které spojovaly jednotlivé vertikální části stroje. Kulhánek otec původně odmítal i to, ale když viděl, že jinak by do bytu nebylo možné dát vůbec žádný nábytek, ustoupil.“
+
+</section>

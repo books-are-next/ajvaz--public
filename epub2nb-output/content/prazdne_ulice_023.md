@@ -3,6 +3,8 @@ title: 18\. kapitola Mořská sasanka
 contentType: prose
 ---
 
+<section>
+
 „Povězte mi ještě něco o čerpadle,“ řekl jsem. Připadalo mi, že se Julie odpoutá od smutných vzpomínek na Violu, když bude mluvit o stroji.
 
 „Řekla jsem, že jsem netušila, co na směsnou komoru čerpadla navazovalo. To ale není tak úplně pravda. Komora na plánku, který mi Viola dala, nahoře končila standardním uzávěrem; nad ním bylo prázdné místo. Ale list papíru, kterým byla zakrytá horní část původního nákresu, se zřejmě ve chvíli, kdy se k němu přiklopilo víko kopírky, trochu posunul; to stačilo k tomu, aby byl přece jen nepatrně vidět spodek té části stroje, která byla nahoře na komoru posazená. Přemýšlela jsem, co vlastně bylo na plánku v těch místech nakreslené, už v době, kdy ke mně chodila Viola, ale tenkrát jsme žily příběhy o fantastických květech a podzemních nestvůrách a mně se nechtělo zabývat tak nepatrnou stopou. Ale poté, co ode mne Viola odešla, jsem trávila dlouhé hodiny tím, že jsem pozorovala proužek, který nebyl vyšší než milimetr, a přemýšlela, čeho asi je fragmentem. Byl sice nepatrný, ale byl to jediný kousek zbytku soustrojí, který jsem mohla vidět. A pro mne bylo tehdy hodně důležité zjistit, jaké bylo nejbližší okolí čerpadla; doufala jsem totiž, že pak najdu nějaký další spoj, který mě zavede zase o kus dál, a že se tak nakonec dostanu až k Viole. Tenkrát se mi po ní moc stýskalo.“
@@ -100,3 +102,5 @@ Večer jsem si na chvíli sedl k psacímu stolu a prohraboval se v popsaných
 Představil jsem si strašlivého Cthulhu a náhle se mi jeho podoba prolnula s obrazcem, který mě v posledních dnech pronásledoval, napadlo mě, že dvojitý trojzubec je vlastně primitivním zobrazením Lovecraftovy hrůzné bytosti přicházející z hvězd: jeho horní část je chobotnicí, kterou má obluda místo hlavy, vodorovná čára jsou zakrnělá křídla, dolní trojzubec zobrazuje nohy a ocas. A ovál? Ten jistě představuje otvor vedoucí do citadely předvěkého města R’lyehu, v níž Cthulhu spal, otvor, kterým se obluda jednoho dne vysoukala ven, do našeho světa…
 
 Vzpomněl jsem si na podzemní nestvůru, která se mi pořád pletla do mého pátrání po Viole; najednou dostala tvar bytosti, o které psal Lovecraft. Co když jeho vyprávění není jen čirá fantazie, co když měl spisovatel opravdu přístup k tajnému vědění? Chtěla Viola vypátrat Cthulhu? Octla se v jeho spárech? Nachází se R’lyeh někde v hlubinách pod tímto městem? Byly to samozřejmě jen zmatené myšlenky, na jejichž zrodu se už podílel přicházející spánek, ale přesto jsem se nedokázal zbavit úzkosti…
+
+</section>

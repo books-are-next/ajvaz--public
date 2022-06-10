@@ -3,6 +3,8 @@ title: "6\\. kapitola Fotografie z\_New Yorku"
 contentType: prose
 ---
 
+<section>
+
 Z tónu, který teď zazněl v Jonášových slovech, jsem pochopil zoufalství, v jakém žil v posledních měsících ve svém ponurém sídle. Mluvil tak tiše, že jeho hlas byl jen o něco málo silnější než praskání nábytku nebo občasné vzdechy křesel, ve kterých jsme seděli, a teď na dlouhou dobu zmlkl úplně. Bylo mi ho líto, ale pořád mi nebylo jasné, co vlastně ode mne chce. Když mlčení trvalo už příliš dlouho, zeptal jsem se ho, co jeho dcera dělala.
 
 „Viola měla nadání na jazyky; a tak studovala angličtinu a francouzštinu a po skončení školy se živila jako překladatelka a tlumočnice,“ řekl Jonáš.
@@ -46,3 +48,5 @@ Zeptal jsem se Jonáše, jestli Viola nebrala nějakou drogu. Jonáš to nejdř�
 Prohlédl jsem si znovu poslední fotografie, ale nenašel jsem na nich nic podezřelého, žádnou stopu – anebo mi spíš připadalo, že je na nich podezřelé všechno, že všechno může být stopou, z každé věci a z každé postavy se rozvíjel neurčitý, zlověstný děj. Nemá tenhle Hispánec, který se na ulici otočil zrovna ve chvíli, kdy Viola zmáčkla spoušť, ve tváři podezřelý, potměšilý výraz? Tady se zase rýsuje málo zřetelný obrys postavy za skleněnými dveřmi obchodu se zeleninou, vypadá to, jako by tam někdo číhal, a u okraje chodníku leží neidentifikovatelná, podezřelá věc. A nebylo by možné tahle velká, bizarně pokroucená písmena sprejového nápisu na zdi přečíst jako ‚Viola‘? Ano, šlo by to docela dobře – z toho objevu se mě zmocňuje vzrušení, jenže po chvíli zjišťuju, že v nápisu je možné vidět každé slovo, jaké mě napadne; také se mi teď zdá, že záhadná věc bude nejspíš zohýbaný rám jízdního kola, který tu kdosi odložil, a výraz Portorikánce je vlastně dobrosrdečný.
 
 Jonáš mě nechal prohlížet fotografie a zase nic neříkal. Myslím, že se sám na ně díval tisíckrát a důvěrně znal všechny postavy a všechny věci, které na nich byly zachyceny, že se ještě zoufaleji než já snažil najít souvislost mezi některým z předmětů nebo obličejů na fotografiích a Violiným zmizením a že stejně jako já nepřišel vůbec na nic. Když jsem zbylé fotografie odložil do skříňky, začal Jonáš znovu vyprávět. Mluvil teď hlasitěji, a dokonce trochu živěji; jako by touha najít dceru vyburcovala v jeho těle zbytky sil.
+
+</section>

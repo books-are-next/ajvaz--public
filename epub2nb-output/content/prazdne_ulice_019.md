@@ -3,9 +3,15 @@ title: "14\\. kapitola Ženy z\_papíru"
 contentType: prose
 ---
 
+<section>
+
 Když jsem se zase octl na ulici, zamířil jsem hned do blízké hospody. Byla skoro prázdná, jen u jediného stolu seděli nad zvětralým pivem tři muži v montérkách a dívali se na fotbalový zápas v televizi, která stála na polici vysoko na zdi, vedle figurky Myšáka Mickeyho spletené z černého drátu. Výčepní si k nim přisedl a sledoval utkání spolu s nimi. Posadil jsem se ke stolu u širokého okna, položil před sebe na stůl časopis a díval se chvíli ven, na ulici bez lidí, která se už ponořila do teplého večerního stínu, jen balkony v nejvyšších patrech domů na protější straně ještě ozařovalo sluneční světlo: měl jsem pocit, že se ze dna hlubokého průzračného jezera dívám nahoru na vzdálený břeh.
 
 Jako filmové klipy přede mnou vyvstávaly scény z malířova vyprávění; rozvinul se rychlý sled obrazů z francouzského městečka, z výstavní síně, z malířova ateliéru; k tomu zaznívalo překotné drmolení sportovního reportéra z televize. Když na obrazovce pominula dramatická situace před brankou, výčepní se zvedl a přišel ke mně; dozvěděl jsem se, že se nevaří, protože kuchař má dovolenou, a tak jsem si objednal alespoň dvojitou porci tlačenky a pivo. Za chvilku přede mne výčepní postavil talíř a sklenici a vrátil se zase k sledování fotbalového zápasu. Když jsem dojedl, našel jsem v časopise povídku, o které mluvil malíř. Napil jsem se piva a začal číst.
+
+</section>
+
+<section>
 
 _Jiří Zajíc  
 NOČNÍ PÍSMENA_
@@ -33,3 +39,5 @@ NOČNÍ PÍSMENA_
 > _Tomáš poodstoupí a prohlíží si šéfku, z níž se stala vratká hromada na sebe naskládaných balíků starých časopisů a novin, popsaných školních sešitů, formulářů, reklamních letáků a rozpadlých knih. Tomáš do ní strčí, hromada se zakývá, nejdřív odpadne balík, který tvořil horní polovinu hlavy, pak se rozpadne celá šéfka; na podlaze teď leží rozházené balíky, které se zřejmě válely venku na dešti, protože papíry jsou zvlněné, slepené dohromady a pokryté hnědými skvrnami._
 
 > _Tomáš se podíval na ostatní ženy, i ony se proměnily v balíky rozmoklých časopisů a novin a také kancelářský stůl, za kterým seděly, se stal hromadou starého papíru. Tomáš je zaražen všeobecnou proměnou v papír, s obavami si pozorně prohlíží kůži na svých rukou a prohmatá si tělo: ne, naštěstí se zdá, že on se ve staré roztrhané časopisy zatím neproměňuje. Podívá se z okna; venku už svítá, Tomáš v kalném světle pečlivě zkoumá omítku domů, ale nenachází v ní žádné stopy po vrásnění a třepení, jaké probíhá uvnitř. Oddechne si, protože se mu na chvíli vetřela do mysli představa města proměněného i s jeho obyvateli v hromady starého papíru. Jediné, co se venku změnilo, jsou neonová písmena nad vchodem. Vidí teď sice nápis v drátěné síti zezadu v zrcadlově obrácené podobě, ale i tak poznává, že každé z písmen se změnilo v jiné, stejně velké písmeno, takže teď nad vchodem místo záhadného nápisu svítí slova SBĚRNÉ SUROVINY. Proměna se dosud úplně nezavršila, a tak na denních písmenech ještě někde zůstávají nevstřebané kousky nočního písma; například první písmeno obou slov už je sice zcela zřetelné S, ale v jeho horní části ještě zůstávají jako zakrslé výrůstky krátké a tenké zbytky obou postranních oblouků. Ale výrůstky se před Tomášovýma očima rychle zkracují a za malou chvíli se už obě S ničím neliší od jiných S._
+
+</section>

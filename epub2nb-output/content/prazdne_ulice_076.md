@@ -3,6 +3,8 @@ title: 13\. kapitola Deník Pascala Brisona
 contentType: prose
 ---
 
+<section>
+
 „Zoufale jsem toužila po tom, abych si mohla Oranžovou knihu přečíst. Ú byl nešťastný, že mi nemůže pomoci. Řekl, že jsem jediný člověk, který má právo číst text, jejž Valerie odsoudila k neviditelnosti a životu v paměti, k zániku ve vzpomínkách tří lidí a k nejistým proměnám. Nepochyboval o tom, že by má matka nic nenamítala proti tomu, aby se kvůli mně porušil starý slib. Ale text románu už tak jako tak nebylo možné obnovit. Když jsem se Úa v bistru u nadzemní dráhy zeptala, jestli opravdu neexistuje žádná naděje, jak alespoň na čas probudit písmena na stránkách Oranžové knihy, řekl, že se dozvěděl o jedné možnosti, ta je ale tak málo pravděpodobná, že vůbec nemá smysl doufat, že se někdy naplní.
 
 A vyprávěl mi o večeru toho dne, kdy dokončil podmořský portrét mé matky. Odložili s Pascalem kyslíkové přístroje, leželi na oblázcích skalnaté zátoky, které byly pořád ještě teplé, a dívali se na tmavnoucí hladinou, pod níž se skrýval Valeriin pomník, stejně neviditelný jako text na stránkách Oranžové knihy. Ú tehdy řekl Nmovi, že sochu přece jen může někdo uvidět při potápění nebo šnorchlování a že možná měli být důslednější: měli vytvořit sochu někde v ústraní a pak ji tajně zakopat hluboko do země. Nm s ním nesouhlasil; tvrdil, že ke skutečné skrytosti patří vždy také možnost objevení, třeba nesmírně malá, že kupříkladu dopis je skrytý tehdy, když ho založíme do jednoho z desítek tisíců svazků rozsáhlé knihovny; kdyby jej však nějaká moc uschovala ve středu země, nebyl by ve vlastním smyslu skrytý – jeho nepřítomnost by byla bližší neexistenci než skutečné skrytosti. Říkal, že ke skrytosti věcí patří ruce, které šátrají někde v blízkosti, a zdálky se blížící a zase vzdalující kroky.
@@ -36,3 +38,5 @@ A tak jsem se objevila v krámku na nádraží v den, kdy měl jeho majitel s
 „Ano, připadá mi, že Čj od chvíle, kdy mě po létech znovu uviděl, žije s pocitem štěstí, který už není možné ničím narušit; dokonce poprvé v životě už necítí ani potřebu skládat hudbu. Jeho štěstí mě dojímá, ale také se cítím trapně. Nezasloužím si rozzářené pohledy, kterými se na mne vždycky dívá; není má zásluha, že nosím Valeriinu tvář; žila jsem, aniž jsem se o matku zajímala, aniž jsem se snažila něco vypátrat o jejím životě…
 
 Čj mi ještě ten den vyprávěl několik příhod, na které Ú zapomněl; a sám se teprve ode mne dozvěděl o Úově životě v Americe a o Nmově francouzském a ostrovním období, o smíření obou přátel, o podmořském pomníku, o Nmově smrti a také o tom, že v jeho deníku má být popis látky, která by mohla na jeden den Oranžovou knihu probudit ze spánku. Řekla jsem Čjovi Švarcovo newyorské telefonní číslo a půjčila mu mobil, aby po létech Úa alespoň pozdravil. Čj mu hned zavolal; nehodlal se sice smířit s telefonem v bytě nebo s mobilem ani kvůli Úovi, ale koupil si telefonní kartu a teď pravidelně volá do New Yorku z budky na rohu ulice.“
+
+</section>

@@ -3,6 +3,8 @@ title: 1\. kapitola Lesk klavíru
 contentType: prose
 ---
 
+<section>
+
 Když automobil přejížděl přes náměstíčko, uviděl jsem, že je to bílá dodávka. Zatáčel kolem kavárny a přitom zpomalil – a já si mohl prohlédnout obrovského modrého ledňáčka s rybkou v zobáku, který byl namalovaný na boku automobilu. Vyskočil jsem, zasunul jsem bankovku pod sklenici s nedopitou kávou a vyrazil za dodávkou. Vzdalovala se dlouhou rovnou ulicí. Utíkal jsem po vozovce a mával rukama; doufal jsem, že mě řidič zahlédne ve zpětném zrcátku.
 
 A pak jsem si všiml, že obrys automobilu se už nezmenšuje; řidič mě přece jen asi uviděl a čeká na mne. I když jsem sotva popadal dech, začal jsem se při běhu hlasitě smát. Samozřejmě, když všechny stopy selžou, může ještě vždycky přijet bůh na stroji, třeba v podobě taxikáře. Když jsem k dodávce doběhl, vyklonil se z okénka kulatý obličej lesknoucí se potem. „Co potřebujete odvézt, šéfe?“ zeptal se taxikář.
@@ -44,3 +46,5 @@ Viola couvla zpátky do bytu a ještě více přivřela dveře. „Kdo jste? Po
 Viola váhala, zamračeně se na mne dívala, pomalu kmitala křídlem dveří sem a tam. Myslím, že na ni zapůsobil víc můj zoufalý výraz než to, co jsem říkal; nakonec dvěma krůčky ustoupila hlouběji do temné předsíně a křídlo dveří přitáhla k sobě. Mohl jsem projít dovnitř.
 
 Zavedla mě do rozlehlého pokoje, kde se nábytek leskl ve slunečním světle, které sem dopadalo třemi okny; nejširší z nich se táhlo přes celý oblouk arkýře, do kterého se pokoj vzadu prohluboval. Všemi okny probíhaly rovnoběžné i křížící se dráty a byly v nich vidět tmavé sloupy; když jsem přišel blíž, vynořil se vysoký násep s kolejnicemi na pražcích. Zarazilo mě, jak je železniční trať nebezpečně blízko domu; kdyby tu zastavil vlak, napadlo mě, bylo by snad možné potřást si otevřeným oknem rukou s pasažérem stojícím u okénka. Obrysy oken protkaných dráty se odrážely na desce klavíru, který stál uprostřed místnosti, jako na tmavé hladině. Na klavíru leželo několik listů notového papíru; všiml jsem si, že do notových linek kdosi chvatnými pohyby tužky vepsal chomáče not. Přívětivé měkké světlo se vpíjelo do narudlého koberce a do čalounění pohovky a křesel. Celou šířku arkýře zabíral těžký psací stůl; kdo u stolu pracoval, musel si asi připadat jako hradlař, pomyslel jsem si. Na desce psacího stolu ležela kniha v oranžové plátěné vazbě; zdálo se mi, že na ní nehybně odpočívá nějaký velký, smaragdově zelený exotický hmyz, ale když jsem přišel blíž, uviděl jsem, že je to znak dvojitého trojzubce, namalovaný nebo natištěný na oranžové plátno vazby.
+
+</section>

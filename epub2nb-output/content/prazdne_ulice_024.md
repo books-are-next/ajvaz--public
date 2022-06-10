@@ -3,6 +3,8 @@ title: 19\. kapitola Tam-tam
 contentType: prose
 ---
 
+<section>
+
 V noci jsem se na chvíli probudil a slyšel jsem, že prší, ale když jsem se ráno podíval z okna, zase už jsem nad střechami uviděl jasnou oblohu. Na nádraží jsem se dostal kolem desáté; bylo už horko, ale v prázdné nádražní hale vydechovaly bílé zdi, pokryté velkými hnědavými skvrnami, navlhlý chlad; hladká kamenná podlaha se leskla studeným světlem. Rozhlédl jsem se a uviděl jsem nad tmavou výlohou, která se tísnila mezi bufetem a prodejnou popcornu, malovaný štít, na němž se ve spleti lián a palmových listů takřka ztrácel nápis TAM-TAM. Malíř vytvořil jeho písmena ze stylizovaných stonků bambusu, na vrcholcích obou _A_ seděly opičky a házely si kokosovým ořechem, který malíř zobrazil v okamžiku, kdy prolétal nad pomlčkou mezi oběma částmi slova. Řekl bych, že autorem byl stejný umělec, který namaloval papouška nad kavárnou, kde jsem včera seděl s Julií.
 
 To, že se obchod s kazetami a kompakty nachází na nádraží, mě nijak zvlášť neudivilo. Jeho majitel se tu zřejmě usídlil na začátku devadesátých let, v době, kdy se chaoticky utvářel nový prostor města a kdy se podniky často ocitaly na bizarních místech; vzpomínal jsem, že tak vznikala nečekaná a někdy docela poetická sousedství. Od té doby se podniky buď přestěhovaly do prostředí, které jim bylo přiměřenější, anebo si kolem sebe takové prostředí samy vytvořily; ale znal jsem také pár obchůdků, jejichž majitelé si krajinu, do které je zanesla náhoda a zmatená doba, zamilovali a odmítali ji opustit – a mne vždycky potěšilo, když jsem například v hale strohé administrativní budovy objevil prodejnu polodrahokamů nebo když jsem míjel krámek s ezoterickou literaturou, který se tiskl k vrátnici továrny na hřebíky.
@@ -11,8 +13,16 @@ Než jsem vstoupil do obchodu, prohlédl jsem si výlohu. Většinu kazet a kom
 
 Brzy jsem našel kompaktní disk, na jehož obalu bylo světlefialovými písmeny napsáno:
 
+</section>
+
+<section>
+
 _Vhlm Čj  
 DVĚ SKLADBY_
+
+</section>
+
+<section>
 
 Pozadí písmen tvořily nepravidelné černé a bílé skvrny. Chvíli jsem je zkoumal; napadlo mě, že by to mohl být drobný čtvercový dílek vyříznutý z čínského tušového obrazu a mnohokrát zvětšený. Otočil jsem disk a strnul jsem, protože jsem na něm uviděl černý dvojitý trojzubec. Nad ním jsem četl: _Sonáta_ ‚_Zjevení a zánik Oranžové knihy_‘_, kterou hraje za zdmi pianista ve tři hodiny ráno_. Dvojitý trojzubec měl stejnou velikost jako verzály písma, kterým byla tato slova vytištěna. Vypadalo to, že jsou názvem první skladby a dvojitý trojzubec je názvem druhé.
 
@@ -73,3 +83,5 @@ Prodavač se spokojeně pohupoval v křesle. Dokázal jsem si představit, že 
 Odmlčel se, upíjel horkou kávu a díval se přes sklo dveří do stále prázdné haly. „Tenkrát jsem velkou část života trávil v hospodách, kde jsme s přáteli donekonečna mluvili o hudbě a literatuře. Pro režim jsme byli špinavý hmyz. Byl to zvláštní svět, kde se zprávy šířily jen ústně a šeptem, a tak se leccos překroutilo nebo obrátilo naruby, leckdy se přes noc stala z domněnky zaručená zpráva a naopak; ale přesto byl náš svět mnohem skutečnější než ten mdlý sen, kterému se tehdy říkalo realita. Když režim padl, cítil jsem, že by mi bylo líto, kdyby se na to všechno mělo zapomenout; a tak jsem si řekl, že se pokusím napsat vzpomínky na tehdejší dobu.“
 
 A prodavač vytáhl z police na vnitřní straně pultu silný svazek papírů popsaných propisovací tužkou a položil jej na pult. „Občas na svých pamětech ještě pořád pracuju, ale moc mi to nejde. Je to strašně těžký úkol; hlavní potíž spočívá v tom, že všechny tváře a příběhy, všechny postavy a události tenkrát obestírala a prosakovala mytologie, která se neustále obnovovala, neustále se zachycovala na každé nepatrné události a vyživovala se těmi nejskrovnějšími fakty – a tak bylo na začátku devadesátých let už takřka nemožné určit, co z toho, o čem se tehdy mluvilo, mělo původ v nějaké skutečné události a co bylo čirým snem zrozeným z touhy. Byly postavy, o jejichž skutečnosti nikdo nepochyboval, ale přitom se s nimi, jak se zdá, nikdo nikdy nesetkal, a byly zase nepravděpodobné postavy, které všichni pokládali za fantomy zrozené z dobového snění, a pak se najednou ukázalo, že jde o zcela reálné lidi.“
+
+</section>

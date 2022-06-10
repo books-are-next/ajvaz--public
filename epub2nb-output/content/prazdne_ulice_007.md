@@ -3,6 +3,8 @@ title: 2\. kapitola Na skládce
 contentType: prose
 ---
 
+<section>
+
 Stoupal jsem vzhůru mezi zbytky zdí, na jejichž vnitřních stranách jsem viděl malby válečkem se stříbřitými vzory a z nichž vyrůstaly jako smutné černé květiny svazky uřezaných kabelů s roztřepenými konci; přemýšlel jsem, jestli se nové vily zastaví na úpatí kopce, nebo jestli jejich tažení bude pokračovat dál do nitra města. Ukázalo se, že za plechovými boudami se skrývá skládka, na kterou buldozer shrnul všechno, co zbylo z rozbořených domků. Nebylo možné ji obejít, protože podél jejího horního okraje se táhl drátěný plot, a vracet se stejnou cestou se mi nechtělo. Skládka vypadala celkem bezpečně, a tak jsem se rozhodl, že se pustím přímo přes ni.
 
 Po několika krocích jsem pochopil, že cesta bude složitější, než jsem si myslel. Latě, trámy, kovové tyče a kusy plechu a překližky se propletly a vytvořily pružnou soustavu pák, která každý tlak přenášela do celé rozlohy skládky, a probouzela tak pohyb na nejneočekávanějších místech; stávalo se, že poté co jsem šlápl na volný konec prkna, zvedl se výhrůžně pět metrů ode mne přízrak z hadrů visících na ptačí kleci anebo strašidlo z bílých ohebných trubic, které se zachytily na kovové pelesti postele. Plastikové a igelitové postavy se vztyčovaly na pozadí šedivého města, které leželo pode mnou jako nějaký veliký nerost. Našlapoval jsem opatrně a cestou pozoroval věci patřící k různým obdobím života kolonie; viděl jsem pomačkané plechové a hliníkové nádobí, které možná pocházelo z nejstarších dělnických dob a přežívalo na půdách, aerodynamické mixéry a fény z šedesátých let, nepálské tkaniny se zlatými nitkami z časů, kdy se do kolonie nastěhovala bohéma, a špinavé spacáky, které byly zřejmě památkou na poslední měsíce před zánikem, kdy prázdné domky na čas osídlili bezdomovci. Zdálo se také, že skládku objevili lidé z širokého okolí a dovlekli sem všechno, čeho se chtěli zbavit.
@@ -13,7 +15,15 @@ Některé věci ležely na zádech jako dokonávající zvířata a rezigno­va
 
 Ucítil jsem ostrou bolest v pravém chodidle, vykřikl jsem a zapotácel se, vzápětí se přede mnou cosi vztyčilo a prudce mě udeřilo do břicha; pak útočník zase klesl k zemi. Nebyla to dravá ryba, ale jen jedna z tisíců věcí odpočívajících na skládce. Teď přede mnou poklidně ležela a já si ji mohl prohlédnout. Věc byla dřevěná a asi metr dlouhá, natřená světlezeleným lakem, který na mnoha místech v lehkých šupinkách oprýskával. Byla to tyč, zakončená na obou stranách jakýmsi trojzubcem; krajní oblouky většího trojzubce se stáčely zpět a zužovaly se do ostrých hrotů, konce všech tří ramen menšího trojzubce se dotýkaly dřevěného oválu, uprostřed mezi základnami obou trojzubců protínala tyč krátká příčná lať.
 
+</section>
+
+<section>
+
 ![](../Images/9600-5_1.jpg)
+
+</section>
+
+<section>
 
 Z velikosti, polohy a tvaru věci bylo snadné zrekonstruovat, co se vlastně stalo. Věc se skrývala pod kupou umakartových úlomků; šlápl jsem na vyčnívající hrot velkého trojzubce a ten pronikl podrážkou a zabodl se mi do chodidla, přitom zahnutý konec ramene zapůsobil jako páka, celá věc se vztyčila, shodila ze sebe umakartové desky a udeřila mě do břicha, naštěstí jen obloukem oválu. Ani bolest v noze nebyla tak hrozná, i když jsem cítil, jak mi krev prosakuje ponožkou. Chtěl jsem jít dál, ale pak jsem se znovu zadíval na věc, která přede mnou ležela na hromadě umakartu. Přemýšlel jsem, co by to mohlo být, ale na nic jsem nemohl přijít. Je to nástroj? Snad ano, ale nedokázal jsem uhodnout, k čemu by měl sloužit. Nejprve jsem myslel na nějaký druh vidlí; ovál by mohl být držadlem, ale zahnuté konce krajních oblouků většího trojzubce by musely znemožňovat většinu činností, které se s vidlemi provádějí; snad by se věc dala použít k přenášení něčeho – ale jak velký předmět by to musel být, aby nepropadl mezi mezerami velkého trojzubce? Po nějaké době jsem si uvědomil, že ovál vyvolává spíš představu tahu; ale ani když jsem si věc představil jako tahač, nepodařilo se mi ji začlenit do nějaké smysluplné souvislosti; mé úvahy nakonec jen vyústily do představy člověka, jenž oběma rukama svírá oblouk věci a táhne kamsi nějaké vzpírající se zvíře za rohy, jež jsou zaklesnuty do zahnutých konců velkého trojzubce (vleče je na jatka? do arény? na obětiště?), přičemž prostřední tyč velkého trojzubce by mohla chránit řezníka, matadora nebo obětníka před nečekaným útokem zvířete. Takové vysvětlení mě ovšem příliš neuspokojilo: namísto aby zbavilo věc jejího tajemství, přidalo k němu záhadné zvíře a možná také fantastický obřad. A nevyžaduje takový obřad ještě tajemnou sektu?
 
@@ -23,10 +33,20 @@ Proč se ale plovák z udice sloužící k lovu velryb povaluje na skládce, j
 
 Ale nespokojil jsem se s vymýšlením podzemních jezer a oblud, které v nich žijí; přece jen jsem pořád musel myslet na to, jaký mohl být skutečný účel věci. Není to zbraň, nějaký druh samostřílu? Také by to mohlo být torzo hudebního nástroje; svým tvarem věc trochu připomínala lyru. Ale na samostřílu i lyře by musely být nějaké zářezy pro upevnění tětivy nebo strun; přejížděl jsem pomalu konečky prstů po povrchu věci; odpadávaly z ní šupinky zeleného laku, mé prsty se však nikde nesetkaly s žádným zářezem ani vrypem. Ale snad to vůbec žádný nástroj není. Třeba je to umělecké dílo; když jsem věc přidržel rukou tak, aby ovál byl nahoře, vypadala jako člověk, který se drží rukama za hlavu. Její tvar připomínal symbolický způsob, jakým umělci přírodních národů zobrazují mužské postavy. Najednou mi připadalo, že vidím postavu muže, který v hlubokém zoufalství tiskne ruce k spánkům. Ale nechtěl jsem u toho zůstat, otočil jsem věc oválem dolů a zkoumal jsem, co mi řekne teď.
 
+</section>
+
+<section>
+
 ![](../Images/9600-5.jpg)
+
+</section>
+
+<section>
 
 Bylo mi najednou jasné, že věc zaujala polohu, která jí skutečně náleží. Vypadala i teď jako lidská postava; dolní ovál mi tentokrát připomněl schematické zobrazování ženských postav, jaké jsem viděl na kresbách brazilských indiánů nebo australských domorodců. Připadalo mi, že se dívám na ženu, která zvedá ruce v nějakém vzrušeném gestu, nevěděl jsem, jestli je to gesto hrůzy a odporu, nebo jestli žena někomu hrozí. Věc mohla být také zjednodušeným znázorněním květiny (modrý květ?), kalichu (svatý grál?) nebo ptáka (Fénix?). Počítal jsem samozřejmě s tím, že jestli někdy poznám skutečný smysl té věci, dozvím se pravděpodobně, že je to nějaký zahrádkářský nástroj nebo emblém fotbalového klubu, ale pokračoval jsem na potemnělé skládce, na které cáry igelitu tančily přízračný tanec jako duchové na lesním palouku, v luštění zvláštního předmětu.
 
 Teď jsem uvažoval o tom, že by věc také mohla být hieroglyf či písmeno nějaké neznámé, snad tajné abecedy. Ke kryptickému písmu ovšem patřilo tajné bratrstvo. A hned se vynořila představa zasvěcenců, strnule sedících v slavnostních úborech kolem těžkého kulatého stolu. Proč je ale písmeno tak velké? Muselo být součástí nápisu, který byl umístěn vysoko na zdi; písmo je tajné, nápis se tedy asi nenacházel na venkovní zdi, nýbrž uvnitř místnosti; vzhledem k velikosti písma muselo jít o hodně rozlehlý sál – měl jsem radost, jak se úsudky pěkně řetězí, a pokračoval jsem: budova, ve které je tak obrovský sál, by musela být také veliká; patřila však tajnému bratrstvu, tudíž musela zůstat utajená; utajit tak velkou budovu kdekoliv na zemském povrchu, a to pravděpodobně po dobu mnoha století (pořádné tajné bratrstvo musí trvat alespoň tisíc let), je nemožné; sál se tedy nacházel pravděpodobně v podzemí – vida, věc mě opět zavedla do podzemních prostorů. Podzemní sál se ostatně s podzemním jezerem nijak nevylučoval, místnost, kde se scházela rada zasvěcenců, se mohla docela dobře nacházet v paláci na břehu podzemního jezera; zasvěcenci by pak byli současně strážci obludy…
 
 Pak jsem přestal myslet na podzemní paláce a obludy a řekl si, že představa, že věc představuje nějaké písmeno, nemusí být tak fantastická. Ve městě teď žije hodně lidí, kteří přišli z Asie, a tak může jít docela dobře o nějaký znak čínského nebo thajského písma, snad byl součástí nápisu nad obchodem, který navštěvují krajané jeho majitele. Rozhlížel jsem se kolem, jestli někde neobjevím další písmena z nápisu, ale nenašel jsem nic, co by se věci podobalo a mělo stejnou velikost. Kromě toho už bylo špatně vidět; houstnoucí soumrak smazával poslední hranice mezi předměty, ze skládky se stávala jediná věc; vypadala jako velká pórovitá houba, která vyrostla po svahu. A tak jsem přestal hledat další písmena; nechal jsem věc ležet, ať už byla nástrojem, sochou, písmenem, nebo znakem tajného bratrstva. Šel jsem k okraji skládky, opatrně jsem našlapoval, ale skládka už na mne podruhé nezaútočila. Po pěšince vinoucí se ve svahu jsem scházel na druhou stranu kopce; dole se vynořila železniční trať, po příkrém svahu vysypaném štěrkem, který mi ujížděl pod nohama, jsem se vyškrábal na násep, na němž se rudě zaleskl oblouk kolejí pod zelenými světly rozesetými ve spletité síti drátů, na pozadí červené oblohy se mi zjevila černá silueta budovy nákladového nádraží jako čínská vystřihovánka z tenkého papíru.
+
+</section>

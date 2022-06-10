@@ -3,6 +3,8 @@ title: 9\. kapitola Alexandrovo bloudění
 contentType: prose
 ---
 
+<section>
+
 „Pascal pro Valerii připravil pásky napuštěné Tannhäuserovým inkoustem, a tak Valerie mohla text románu přepsat na psacím stroji. Když byla hotová, spálila rukopis i všechny náčrty a odmítnuté verze, dávala pozor, aby z románu nezůstalo mimo knihu psanou Tannhäuser-Kulhánek-Brisonovým inkoustem ani slovo. Když byla hotová s přepisováním, Švarc listy svázal do oranžového knihařského plátna a na přední stranu zelenou barvou namaloval podle Valeriiny předlohy znak dvojitého trojzubce, který hrál v ději knihy důležitou roli. Valerie nedala románu žádné jméno, říkala, že je zbytečné pojmenovávat knihu, která bude žít jen jeden měsíc. A tak jejímu dílu Pascal, Čj a Ú začali říkat prostě Oranžová kniha. Losovali, v jakém pořadí budou knihu číst; první dostal knihu do rukou Švarc.“
 
 Už se úplně setmělo, pokoj byl osvětlený jen svitem jasné noční oblohy, který přicházel okny; sotva jsem rozeznával obrysy Violiny postavy, schoulené v křesle. Na klavíru a na hladkém povrchu skříně se odrážela bílá a zelená světla nad tratí.
@@ -17,7 +19,15 @@ Už se úplně setmělo, pokoj byl osvětlený jen svitem jasné noční oblohy,
 
 Viole se asi ještě nechtělo rozsvěcet lampu, a tak vyhledala na desce klavíru místo, na kterém se rozléval matný odlesk zeleného světla železničního semaforu, a nakreslila tu na kus papíru dvojitý trojzubec, tak jak byl vyřezaný do víka krabičky. Vstal jsem a prohlédl si jej.
 
+</section>
+
+<section>
+
 ![](../Images/prazdne_ulice_005.jpg)
+
+</section>
+
+<section>
 
 „Alexandr cítí při pohledu na krabičku zvláštní štěstí, jaké ještě nikdy nepoznal. Krabička je zamčená; Alexandr chvíli váhá a pak opatrně prohrabe tašku. Doufá, že objeví klíč, který by se hodil k malému zámku krabičky, ale nachází jen zmuchlaný módní časopis, kapesník, načatou krabičku cigaret, svazek velkých patentních klíčů, balíček bonbonů a peněženku. Prohlédne i ji, ale jsou v ní jen peníze a tramvajové lístky. Po celou dobu se dívá ke dveřím pokoje; má strach, že se v nich dívka najednou objeví. Jde si zase lehnout; tiše našlapuje po koberci, zastaví se uprostřed pokoje a naslouchá; dívka klidně oddechuje, nic nenasvědčuje tomu, že by se probudila. Rozhodne se, že se ráno dívce přizná, že se jí v noci přehraboval v tašce, a poprosí ji, aby mu záhadné světlo vysvětlila. Pak usne; když se ráno probudí, leží v posteli sám, dívka je pryč i s taškou.
 
@@ -48,3 +58,5 @@ Protože neví, jak stroj vypadal, musí se řídit jen tvary spojů jednotlivý
 „Podaří se Alexandrovi tvar a účel původního stroje odhalit?“
 
 „Alexandr by možná už za několik dnů stroj dokončil a poznal jeho funkci, možná by stačilo přidat jen několik součástek, několik jich přehodit, povolit, co je příliš pevně utažené, utáhnout, co se viklá, zmáčknout jedinou malou páčku – a mechanismus by zachrastil a začal pracovat… Možná by ho pak výkon stroje přivedl ke krabičce, možná by poznal, že krabička byla ve skutečnosti jen příležitostí, jak se dostat ke stroji. Ale Alexandra sestavování stroje přestane bavit, skládá už jej tolik měsíců, tolik let… Kromě toho při hledání jedné části hřídele uslyší vyprávění, které ho zláká k jiné cestě. V Oranžové knize se začne rozvíjet nová dějová linie…“
+
+</section>

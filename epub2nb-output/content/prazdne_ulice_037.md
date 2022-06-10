@@ -3,6 +3,8 @@ title: 32\. kapitola Na konečné tramvaje
 contentType: prose
 ---
 
+<section>
+
 „Neposadíme se na chvíli?“ navrhl architekt. Koupili jsme si v kiosku dvě láhve piva a sedli si na lavičku vedle řidiče. Ten za chvíli hodil prázdný kelímek do koše, kolem kterého kroužilo několik vos, s hlasitým povzdechem nastoupil do prázdné tramvaje, zazvonil a odjel. Upíjel jsem pomalu studené pivo, díval se na asfalt, do něhož byly zasazeny koleje a z jehož prasklin se všude prodírala tráva a bodláčí, na tmavozeleně natřený plot z vlnitého plechu na druhé straně smyčky, za kterým vyčnívala stříška nějaké dílny; opírala se o slepou, žlutě natřenou boční zeď činžáku, posetou bílými skvrnami po dešti a rozdělenou šikmým stínem na světlou a tmavou polovinu. Odkudsi právě bilo poledne. Čekal jsem, až architekt začne vyprávět.
 
 Vypil láhev do poloviny, postavil ji vedle sebe na lavičku a řekl: „Nevím, jak všechno to, o čem jste mluvil, souvisí s Bernetem. Ale připadá mi, že příběh ztracené dcery, který jste mi naznačil, se v něčem podobá příběhu Bernetova života – jako by to byly dvě novely, které napsal jediný autor a ve kterých je možné najít stejný styl… Potkal jsem poprvé Berneta před devatenácti lety, když začal chodit do stejné třídy jako já. Bylo nám oběma dvanáct let. Ale tenkrát jsem ho vlastně vůbec neznal, i když jsme celý jeden rok seděli vedle sebe v lavici. Berneta v té době neznal nikdo, byl to zamlklý, samotářský chlapec a s nikým ve třídě se nikdy nekamarádil. Neučil se nijak zvlášť dobře, připadal nám dokonce trochu zaostalý. Zdálo se, že ho nic nebaví. Když se v první polovině devadesátých let začaly objevovat v novinách zprávy o úspěšném finančníkovi Bernetovi, který rychle stoupal po žebříčku nejbohatších lidí ve státě, dlouho mě vůbec nenapadlo, že by to mohl být můj někdejší plachý spolužák.“
@@ -32,3 +34,5 @@ Architekt musel vidět, jak se na lavičce vrtím samou nedočkavostí, kdy mi k
 Ale architekt se zvedl a řekl: „Dopijte pivo, dojdu pro dvě další, tak to ještě chvíli vydržte. Zatím vám prozradím, že šlo o poklad z potopené pirátské lodi.“
 
 Ohlédl jsem se ke kiosku, o okénko se opíral další řidič tramvaje a otíral si kapesníkem pot z červeného obličeje. Pak jsem se zadíval na stín, který vyšplhal o něco výše po prázdné zdi domu, a přemýšlel jsem, co mě asi ještě čeká v architektově vyprávění. Pochází Bernetovo jmění ve skutečnosti z pokladu na mořském dně? Kdyby mi někdo něco takového řekl před týdnem, vysmál bych se mu, ale teď mi takové vysvětlení nepřipadalo nijak nepravděpodobné. Nebylo to ani poprvé, co se v souvislosti se zmizením Violy objevil náznak, že by mohlo jít o ztracený poklad. Dozvěděla se snad o něm něco Viola? Byla při hledání pokladu Bernetovým spojencem, nebo soupeřem? Uslyšel jsem bouchnutí dvířek ledničky a dvojí zasyčení; za chvíli se zase objevil architekt a podal mi orosenou láhev.
+
+</section>

@@ -3,6 +3,8 @@ title: 10\. kapitola Balík na dně zásuvky
 contentType: prose
 ---
 
+<section>
+
 „Můj soused pracoval jako dělník ve firmě, která v městečku sídlí už sto sedmdesát let a která vyrábí různé drogistické a kosmetické zboží. Byl to malý rodinný podnik, jehož vedení přecházelo po několik generací z otce na syna nebo zetě. Firma si kupodivu vedla v konkurenci všech nadnárodních korporací docela dobře, i když její jméno nezářilo na billboardech a nešeptaly je svůdné rty modelek v televizních reklamách. Velké podniky se stovkami zaměstnanců a s výzkumnými týmy nabízely lepší a lacinější zboží, ale lidé v městečku a v okolí se všichni znali s rodinou majitele, byli zvyklí používat mýdla, kolínské vody a postřiky proti mšicím z místní továrny už od dětství a koupit si nějakou mezinárodní značku by jim připadalo jako výstřednost – a málokoho asi něco takového vůbec napadlo.
 
 Staří lidé, kteří prožili celý život v městečku a pamatují si ještě na dědečka a pradědečka dnešního majitele továrny, říkají, že se všichni majitelé podivuhodně vzhledem i povahou podobali jeden druhému. Ta podobnost byla tak veliká, že se jim ve vzpomínkách všichni továrníci pletli; častou scénkou v hospodě byla hádka staříků o to, kterému z majitelů se stala nějaká příhoda, na niž si některý z nich zrovna vzpomněl, například jestli ukradli velkou nádobu s lihem Jacquesovi za druhé světové války nebo Charlesovi za první.
@@ -28,3 +30,5 @@ A mladý majitel hned dal podle receptur vyrobit zkušební sérii laků a tvr
 A tak jediným dílem, na kterém došel uplatnění vynález minulého majitele továrny, zůstal obraz, který během výroby zkušební série laků vytvořil jeden z dělníků, místní sváteční malíř. Nejdřív namaloval obyčejnými olejovými barvami šíleného vědce a jeho laboratoř a potom na obraz přimaloval mizícími laky umělou ženu. Věnoval obraz hostinskému, který byl jeho bratrancem, a ten pověsil obraz na zeď svého podniku. Ukázalo se, že měkkými aktivanty pro laky, které malíř použil, jsou látky, které se hromadí v ovzduší hospody, a že se postava ženy často objevuje kolem jedenácté hodiny večer. Za nějaký čas se v hospodě zrodila nová zábava: hosté se sázeli, jestli se Frankensteinova milá objeví, nebo neobjeví do jedenácti hodin; sázky bylo nutné uzavřít do desáté hodiny.
 
 Díval jsem se během vyprávění svého souseda na Frankensteina a jeho umělou milenku a najednou mě napadlo, že proměna obrazu by mohla přinést řešení trýznivého problému, před kterým jsem utekl z domova. Řekl jsem sousedovi u stolu, že jsem také malíř a že bych rád použil proměnlivé barvy při své práci. Soused měl radost, že vynález někomu prospěje a že přitom nebude třeba nic měnit na provozu továrny. Řekl mi, že můžu přespat u něho a hned ráno mě vezme do podniku.“
+
+</section>

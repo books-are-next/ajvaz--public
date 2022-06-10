@@ -3,6 +3,8 @@ title: "44\\. kapitola Hádka v\_altánu"
 contentType: prose
 ---
 
+<section>
+
 Nejdřív jsem zaslechl slova jedné z dívek: „… to přece nemůžeš myslet vážně!“ Snad to byla Barbora; v jejím hlase jsem slyšel výčitku a lítost.
 
 Pak se ze tmy ozval unavený hlas, který patřil Bernetovi. „Myslím to smrtelně vážně. Snad se k pokladu ještě vrátím, až urovnám své záležitosti, ale v téhle chvíli…“
@@ -92,3 +94,5 @@ Ale než jsem stačil klesnout na dno spánku, probudily mě žen­ské hlasy. K
 Ucítil jsem, jak mě z obou stran uchopily v podpaží ruce dívek a jak mě namáhavě a nejistě zvedají. Snažil jsem se Barboře a Andree pomoci, ale nohy se pode mnou pořád podlamovaly. Když jsem trochu stál, položila si každá z dívek jednu mou ruku kolem ramen, pak se mnou vrávoraly k domu.
 
 Od té chvíle jsem se stále znovu propadal do snu a zase se probouzel, v krátkých okamžicích bdění jsem viděl trávník, na kterém ležel bledý svit domovní lampy, chodby domu s mnoha dveřmi, pak jsem pozoroval, jak mě čtyři drobné ruce ukládají na měkký bílý koberec, stahují mi přes hlavu černý oděv, až jsem zůstal ve spodkách a tričku, a jak mě vlečou do obrovské postele. Zahlédl jsem také několik Číňanů, jednorožce a melancholickou harpyji sedící na bidýlku ve zlaté kleci, ale tyto bytosti pravděpodobně patřily do světa spánku.
+
+</section>

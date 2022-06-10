@@ -3,7 +3,13 @@ title: 41\. kapitola Život guerilly
 contentType: prose
 ---
 
+<section>
+
 Když melodie líčící tanec medúzy skončila, obrátila se žena na urbooceanologa civilním tónem:
+
+</section>
+
+<section>
 
 _„Mladý vědec, s nímž jsem mluvila,  
 ve své práci obhajoval tezi,  
@@ -17,7 +23,15 @@ v pokojích s okny do zahrady
 pravděpodobně ovlivnily podobu  
 podmořských korálových útesů.“_
 
+</section>
+
+<section>
+
 Bylo zřejmé, že žena se snaží vytrhnout svého muže z netečnosti, ve které nyní žil, a opět ho přivést k zájmu o vědeckou práci. Žena ale také věděla, že přitom musí postupovat nesmírně opatrně, protože ho zároveň chtěla uchránit před zlými vzpomínkami, které byly s jeho minulou prací spojeny. Muž řekl, Barbora zpívala:
+
+</section>
+
+<section>
 
 _„O tom jsme hodně diskutovali,  
 na univerzitě a pak ještě v horách.  
@@ -29,12 +43,28 @@ s Rufiem, který zastával myšlenku,
 že naopak městské věci pocházejí  
 z mořského dna.“_
 
+</section>
+
+<section>
+
 Žena se zřejmě obávala, že se výklad opět dostává na příliš osobní rovinu, a tak se honem zeptala:
+
+</section>
+
+<section>
 
 _„Která z obou teorií  
 je podle tebe správná?“_
 
+</section>
+
+<section>
+
 Vědec se zamyslel, pak odpověděl:
+
+</section>
+
+<section>
 
 _„Pravda bude nejspíš někde uprostřed,  
 při vzniku města a při utváření mořského dna  
@@ -66,7 +96,15 @@ vlastně nepochybovalo nikdy;
 i pavěda, která dnes vládne na ostrově  
 a která lastury-krabičky prohlašuje za podvrh, o tomto tématu raději mlčí.“_
 
+</section>
+
+<section>
+
 Tlustý muž navlečený do úboru z černé šustivé látky odcházel pryč a na chvíli mi zaclonil výhled na jeviště. Rozhlédl jsem se kolem sebe a zjistil jsem, že v hledišti sedí už jen asi čtvrtina z diváků, kteří tu byli na začátku. Hudba ani příběh opery hosty asi moc nezaujaly, a tak se vykrádali k osvětleným stolům na druhé straně vily, na nichž zůstalo ještě dost jídla a pití. Andrea zpívala k prázdným zahradním židlím:
+
+</section>
+
+<section>
 
 _„Ano, krásně jsi ve své knize popsal  
 na nezapomenutelných řádcích,  
@@ -85,7 +123,15 @@ Byla to trýzeň, nebo
 neznámá podmořská radost?“  
 „Nevím,“_
 
+</section>
+
+<section>
+
 zpívala Barbora,
+
+</section>
+
+<section>
 
               _„na ostrově jsme sice dokázali  
 kvantifikovat projevy této síly, a přesto  
@@ -112,7 +158,15 @@ vsají ji žíznivé koberce
 a třásně závěsů, jež v nočním vánku  
 šátrají po parketách.“_
 
+</section>
+
+<section>
+
 Ale vědec se nedokázal nadlouho odpoutat od šťastných i bolestných ostrovních obrazů, které se pořád znovu vynořovaly v jeho mysli, a vrátil se zase ke svým vzpomínkám:
+
+</section>
+
+<section>
 
 _„Mario s Rufiem se přeli o svých teoriích  
 ještě na terase ústavu, nad hladinou moře,  
@@ -128,14 +182,30 @@ bloudíme lesy jako zmatená zvířata
 a větříme mořský břeh,  
 který by nás mohl zachránit…“_
 
+</section>
+
+<section>
+
 Žena ho přerušila:
+
+</section>
+
+<section>
 
 _„Vyprávěl jsi mi, že napětí,  
 které mezi těma dvěma vládlo,  
 pramenilo víc než z vědeckých sporů  
 z toho, že oba milovali Leonoru…“_
 
+</section>
+
+<section>
+
 Žena se sice snažila chránit muže před vzpomínkami, ale zřejmě i ona sama už žila v ostrovních příbězích, které vyprávěl její muž, víc než v přítomnosti, i ona se už ztratila v krajině minulosti plné mořského lesku a válečných ohňů a nedokázala z ní najít cestu ven. Muž se teď plně ponořil do vzpomínek z občanské války:
+
+</section>
+
+<section>
 
 _„Když Leonora zemřela v Bílé rokli,  
 doufal jsem, že se Mario s Rufiem smíří.  
@@ -151,11 +221,23 @@ pochod k moři přežili,
 a oba se po čase vynořili  
 na kontinentálních univerzitách.“_
 
+</section>
+
+<section>
+
 _„Smířili se alespoň potom?“_
+
+</section>
+
+<section>
 
 zeptala se žena.
 
 Barbora v roli vědce zpívala:
+
+</section>
+
+<section>
 
 _„Slyšel jsem, že jejich nenávist nevyhasla  
 ani v přednáškových sálech  
@@ -173,6 +255,12 @@ na který můžeme zapomenout,
 jenom sen, který nemá platnost  
 a jehož obrazy brzy zaniknou.“_
 
+</section>
+
+<section>
+
 Zvykl jsem si už na podivnosti hudby, ale libreto mi činilo větší potíže, pořád jsem se nedokázal smířit s tím, že tak pevně a samozřejmě spojovalo dvě zcela rozdílné roviny, totiž svět lidských citů, kterému nebylo nesnadné porozumět (například bolest nad zánikem svobodné kultury na ostrově), s naprosto nesmyslnými myšlenkami, které vědec-exulant představoval jako plody hlubokého bádání v době rozkvětu ostrovní vědy. Dráždilo mě, že nejsem s to pochopit smysl takového spojení. Nezdálo se ani, že by urbooceanologické motivy byly nějakým symbolem, který by bylo potřeba rozluštit. Proč autor libreta nenapsal buď příběh o osudech univerzitních badatelů v době občanské války, anebo surrealistický text o imaginárních vztazích mezi městem a podmořským životem? Jaká divná estetika ho vedla k tomu, aby oboje smíchal dohromady?
 
 Ale zároveň jsem cítil, že nepochopitelnost takového spojení je znamením toho, že opera nějak souvisí se zmizením Jonášovy dcery, i když byla zkomponována v době, kdy Viola byla malé dítě. Připadalo mi, že jestli se mi podaří Violu najít, vysvětlí se rázem se všemi ostatními záhadami i tato podivnost. A ptal jsem se sám sebe, kdo je asi autorem libreta – není to snad Iui Nm, který byl stejně jako Vhlm Čj členem Bílého trianglu? Pak se samozřejmě nabízela možnost, že autorem scény byl Vga Ú. Pane bože, jak to všechno souvisí? Cítil jsem se, jako kdybych skládal beznadějný puzzle, v němž každý další dílek přináší zcela nový, nezařaditelný tvar. Proč ti tři muži spolu stvořili dílo, které je ještě bizarnější než jejich samostatná tvorba? Jaké tváře a jaká jména se skrývají za pseudonymy, které nutí toho, kdo tyto změti hlásek chce vyslovit, k potupným grimasám, ke grotesknímu tělocviku, při němž se probouzejí svaly na obličeji a na krku, o nichž do té doby neměl tušení? V opeře se dost možná ukrývá stopa vedoucí k Viole – ale kde ji mám hledat? Mám se soustředit na hudbu, nebo na děj? Je tajemný klíč ukrytý v nějakém obraze či slově? Měl bych si po představení ještě jednou podrobně prohlédnout kulisy? Ponořil jsem se rezignovaně znovu do příběhu urbooceanologa a jeho ženy.
+
+</section>

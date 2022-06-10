@@ -3,6 +3,8 @@ title: 22\. kapitola Setkání
 contentType: prose
 ---
 
+<section>
+
 Už jsem to nevydržel a připomněl prodavači: „Pořád jste mi ještě neřekl, jak jste se setkal s Violou.“
 
 „Právě jsem o ní chtěl mluvit. Ta dívka, která se podle vás jmenuje Viola, se v Tam-tamu objevila tři dny po Čjově první návštěvě. Řekla mi, že hledá Vhlma Čje; vzpomínám si, že mě zarazilo, že tu podivnou směs souhlásek vyslovila tak plynně, jako by to pro ni bylo to nejběžnější jméno na světě. Adresu obchodu získala v časopise, kde otiskli můj článek, tam se také dozvěděla, že se jim Čj ozval a že se mě chystá navštívit. Řekl jsem jí, že se s ním minula, že bohužel nevím, kde bydlí ani jaké je jeho pravé jméno, ale jestli s ním chce mluvit, zastihne ho u mne v pondělí v pět hodin.
@@ -26,3 +28,5 @@ To už bylo zřejmě všechno, co prodavač o Čjovi a dvojitém trojzubci vě
 „Na něco jsem zapomněl,“ volal na mne; jeho hlas se rozléhal prázdnou halou. „Nevím, jestli vám to nějak pomůže, ale znak, kterým Čj pojmenoval svou skladbu, jsem viděl z okna vlaku na zdi jedné budovy. Není to odsud daleko; vlak tu objíždí okraj města, a když pojedete západním směrem, uvidíte budovu po několika minutách, asi v polovině cesty mezi zastávkami.“
 
 Prodavač se vrátil do obchodu a já stál chvíli nerozhodně uprostřed haly. Nemohl jsem se dočkat, až si poslechnu Čjovy skladby, ale zároveň jsem byl strašně zvědavý na budovu s trojzubcem. Nad automatem na kávu visel jízdní řád, sestavený z velkých černých písmen a číslic. Dozvěděl jsem se, že příští vlak pojede až za dvě hodiny; neměl jsem tolik trpělivosti, abych na nádraží tak dlouho čekal, a tak jsem se rozhodl, že pojedu domů.
+
+</section>

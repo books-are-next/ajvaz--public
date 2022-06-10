@@ -3,6 +3,8 @@ title: 18\. kapitola Útěk
 contentType: prose
 ---
 
+<section>
+
 „Za úsvitu, když Julie konečně usnula, jsem se vykradla z vily; prošla jsem zahradou mezi stromy, které vystupovaly z mlhy, otevřela branku a rozeběhla se za Kulhánkem a Čjem. Když jsem vstoupila do Kulhánkova bytu, bylo už čerpadlo v klidu, ale soustrojí ještě zpracovávalo zbytky podzemní vody; Kulhánek s Čjem mlčky seděli před Květinářkou a dívali se napjatě na tmavý otvor v jejím středu. Posadila jsem se vedle nich; všichni jsme mlčeli. Za chvíli se z otvoru začal tenkým pramínkem sypat do nádoby z umělé hmoty jemný šedavý prášek. Když se po deseti minutách pramínek zastavil, Kulhánek vstal, opatrně přesypal prášek do bílé dózy, zašrouboval ji a podal mi ji.
 
 U Čje jsme opatrně vmíchali Tannhäuserův zásyp do roztoku se zbylými aktivačními přísadami, který jsme měli už připravený. Podle Pascalova deníku bylo třeba ještě patnáct hodin čekat; probouzení textu tedy mohlo začít až v deset hodin večer. Dostala jsem najednou strach, prosila jsem Čje, aby byl se mnou ve chvíli, kdy se text začne zjevovat, ale Čj řekl, že on už podruhé nesmí Oranžovou knihu číst a že musím být při zjevení textu sama; teď se kniha stala jen mojí a Valeriinou záležitostí. Vzpomínám si, jak jsem jako ve snu převážela opatrně roztok v taxíku domů, jak jsem ve svém pokoji připravovala kahan, trojnožku s nádobou, ve které se bude roztok zahřívat, a stojan na knihu; lahvičku s roztokem jsem zatím zamkla do zásuvky vedle Oranžové knihy. Pokoušela jsem se něco číst, ale byla jsem příliš neklidná, chodila jsem sem a tam po pokoji, nakonec jsem odešla z bytu a až do večera bloudila po ulicích.
@@ -21,8 +23,18 @@ Koupila jsem několik cívek filmů a běžela domů. Na chodbě jsem narazila 
 
 A Viola se znovu přehrabovala v jedné ze zásuvek psacího stolu a pak mi podala fotografii, kterou v ní našla. Šel jsem ke klavíru a ve světle lampy jsem na snímku uviděl dvě stránky rozevřené knihy a na nich několik rozházených slov, která byla tak bledá, že už jsem je přečetl jen s velkou námahou.
 
+</section>
+
+<section>
+
 ![](../Images/prazdne_ulice_003.jpg)
+
+</section>
+
+<section>
 
 „Seděla jsem nad prázdnými stránkami, zoufalství se proměnilo v tělesnou bolest, nějaký hrot nepřestával pomalu projíždět mými útrobami sem a tam. Nedokázala jsem ani plakat, v duchu jsem sprostě nadávala matce, říkala jsem, že ji nenávidím, a křičela na ni, co si vlastně myslí, jak se to chová; jak to, že si dovoluje poroučet lidem, co mají a nemají dělat. Za zamčenými dveřmi přecházel otec sem a tam, těžce dýchal a jeho úzkost už tak vzrostla, že čas od času bral za kliku.
 
 K ránu se můj vztek rozplynul a zbyla po něm prázdnota. Otec už odešel do svého pokoje; ve vile bylo zase ticho, slyšela jsem jen hučení v uších, jako bych poslouchala nějakou dávnou Čjovu skladbu, zkomponovanou z nejjemnějšího šumu. Pochopila jsem, že už s otcem nebudu moci žít, stejně jako s ním před třiadvaceti lety nedokázala žít má matka. Sbalila jsem si několik věcí a první ranní tramvají jsem jela za Čjem. Ten se mi nesnažil nic vymluvit, řekl mi, že u něho můžu bydlet tak dlouho, jak budu chtít. A tak tu žiju, živím se překlady, které si dávám proplácet na Čjovo jméno, aby mě otec nemohl vypátrat…“
+
+</section>

@@ -3,6 +3,8 @@ title: "19\\. kapitola Zjevení u\_garáží"
 contentType: prose
 ---
 
+<section>
+
 To byl tedy příběh dvojitého trojzubce, jehož hrot se mi před dvěma týdny zabodl do chodidla. Vzpomněl jsem si ještě na jednu věc a zeptal se Violy: „Jak jste se dozvěděla o divadelním představení v sokolovně?“
 
 „Všimla jsem si plakátu, na kterém byl namalovaný dvojitý trojzubec jako součást hieroglyfického nápisu, a šla se na hru ze zvědavosti podívat. Ale vůbec netuším, jak se autorka ke znaku dostala.“
@@ -27,7 +29,15 @@ Když mi o tom Čj vyprávěl, zdálo se mi, že se mi vybavuje dávná vzpomí
 
 „Neměl, ale byl mu dost podobný. Vypadal asi takhle…“ A Viola zase vzala jeden z papírů, které ležely na desce klavíru, a nakreslila na něj ve světle lampy obrazec, který jsem ještě neznal.
 
+</section>
+
+<section>
+
 ![](../Images/prazdne_ulice_004.jpg)
+
+</section>
+
+<section>
 
 „Když jsme došly domů, dostala Valerie nápad, že tajemný obrazec by se mohl stát hlavním motivem románu, který by propojoval všechny ostatní motivy. V prvních náčrtech objeví Alexandr na víku krabičky právě ten útvar, jehož sněhovou podobu jsme viděly před roletou garáže. Ale během psaní Valerie obrazec několikrát pozměnila, až nakonec dospěla k tvaru dvojitého trojzubce. Snad jí původní útvar připadal moc složitý anebo se jí zdálo, že román si musí sám vytvořit tajemství svého hlavního motivu, a že by proto nebylo správné použít cokoliv, s čím už je nějaká záhada spojena…“
 
@@ -36,3 +46,5 @@ To už byl tedy opravdový konec vyprávění o trojzubci. Stáli jsme mlčky u
 „Budu o tom přemýšlet,“ řekla Viola, usmála se na mne a pak zmizela v tmavé předsíni; dveře se za ní potichu zavřely. Nemohl jsem na chodbě najít vypínač, a tak jsem klopýtal dolů po temných schodech. Byla půlnoc, venku bylo pořád ještě dusno. Ulice byly prázdné, v okolních domech jsem viděl jen pár rozsvícených oken, z otevřeného přízemního okna, které jsem míjel, se ozývalo chrápání. Trvalo dlouho, než jsem se dostal ze čtvrti chátrajících domů na širokou třídu, kde se ve světle zářivek leskly tramvajové koleje a kde se po chvíli z boční ulice vynořil taxík s rozsvíceným majáčkem.
 
 Když jsem přišel domů, otevřel jsem si láhev vína a sedl si s ní k oknu. Pátrání po trojzubci a po zmizelé Viole skončilo, všechny stopy, mezi kterými ještě odpoledne nebyla žádná souvislost, se spojily a vytvořily uzavřený řetězec. Myslel jsem na to, že zítra se konečně budu moci věnovat své knize, už mě nebude rušit žádný tajemný trojzubec, žádná ztracená dívka. Pokoušel jsem se opět promýšlet fabuli své prózy… Ale nedokázal jsem se soustředit, musel jsem víc než na svou knihu myslet na závěr Violina vyprávění, znovu a znovu přede mnou vyvstávala představa křehkého sněhového útvaru před roletou garáže. Sněhový obrazec se mi zjevoval mezi hvězdami na tmavé obloze nad nízkými dílnami jako zakleté souhvězdí, chvílemi se proměňoval v dvojitý trojzubec a pak se zase vracel ke svému tvaru. Věděl jsem, o které uličce Viola mluvila; hospoda U Mlsné myši byla už sice dávno zrušená, ale před léty jsem ji dost často navštěvoval. Řekl jsem si, že má kniha ještě nějaký čas počká; zítra ráno se podívám do uličky končící u starých garáží a zkusím se tam poptat na sněhový znak.
+
+</section>

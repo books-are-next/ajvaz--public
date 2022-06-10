@@ -3,6 +3,8 @@ title: 49\. kapitola Výstřely na promenádě
 contentType: prose
 ---
 
+<section>
+
 „Večerní hlasy ulice se rozpustily do nepřetržitého šumu; Pierre v něm zpočátku rozeznává kromě mnoha lidských hlasů cinkání sklenic a příborů, praskání krabích krunýřů pod čelistmi kleští, houkání vzdálených lodí a hudbu několika orchestrů, ale pak nechá všechny zvuky splynout do jediného poklidného proudu. Náhle zazní několik ostrých, hlasitých ran. Pierrovi trvá nějakou chvíli, než si uvědomí, že to byly krátké dávky z automatické zbraně a že se ozvaly v těsné blízkosti. Hosté na terase se schovávají pod stoly, plnými jídel, dámy ječí, víno teče po ubrusech. Pierra výstřely, které tak znenadání protrhly šum promenády, a ticho, které po nich následuje, uvedou do stavu zvláštní strnulosti. Cítí se náhle jako posluchač v koncertní síni a čeká, jak bude program pokračovat.
 
 Zůstane sedět u svého stolu; před ústím blízké pasáže uvidí na chodníku muže ležícího na břiše s roztaženýma rukama; u jeho boku pomalu roste červená kaluž. Vedle těla dvě zakuklené postavy drží v rukou lehké samopaly se sklopnou pažbou; v příštím okamžiku obě postavy mizí v pasáži. Pak jsou slyšet zvuky přijíždějících a brzdících automobilů, dupání nohou v těžkých botách, úsečné povely. U chodníku zastavuje sanitka; přijíždí tiše, s vypnutou sirénou, objevuje se tak rychle, jako by čekala opodál; sanitáři nakládají nehybné tělo, sanitka odjíždí, zvuk motoru se ztrácí. Před výlohou prodejní galerie si mladá žena prohlíží obrazy; Pierre si uvědomí, že své místo ne­opustila po celou dobu přepadení a že se její chování lišilo od chování ostatních lidí na ulici. Neutíkala ani se nijak nechránila, jen nehybně stála s tváří pootočenou k ústí pasáže. A Pierre si je náhle naprosto jistý, že mladá žena věděla předem, co se na chodníku stane, a sledovala vše jako někdo, kdo odborným pohledem hodnotí provedení úkolu; Pierrovi na chvíli vyvstane v mysli představa rozhodčího na mistrovství světa v krasobruslení. Po chvíli žena konečně odstoupí od výlohy a pomalu odkráčí do pasáže.
@@ -21,7 +23,15 @@ Bernet teď při vyprávění sledoval Pierrovu cestu na plánu města: nejdří
 
 „Počkejte chvilku,“ řekl jsem Bernetovi. „Rád bych si ujasnil trasu, po které se Pierre pohyboval.“ Vzal jsem do ruky papír s plánem města a dokreslil jsem do něho pět bodů, které jsem označil malými písmeny:
 
+</section>
+
+<section>
+
 ![](../Images/prazdneulice.jpg)
+
+</section>
+
+<section>
 
 Na dolní část listu jsem připsal komentář:
 
@@ -52,3 +62,5 @@ Pierre vejde dovnitř a přisedne si k němu. Recepční teď má na sobě civ
 „Ne, Pierre měl rád prahy nových prostorů, miloval nade vše mola přístavů, letištní haly a recepce hotelů,“ vysvětloval Bernet. „Měl pocit, že cizí prostory mu jsou přátelsky nakloněné, snad proto, že sám do žádného prostoru nepatřil. A na jeho strachu nebylo nic záhadného, nezrodil se z žádného jasnovidectví. Včera se na své cestě setkával se zářícími výlohami, nepřístupným presidentským palácem, pasáží proměňující se v temnou uličku, rozpadajícími se paláci na Molinově třídě, na kterých rostla tráva a keře – a to všechno byla písmena jakéhosi textu, písmena, jež patřila k abecedě, kterou sice neznal, ale pozvolna se jí učil rozumět a pozvolna také začínal alespoň trochu tušit smysl celého textu města. Pierre se nikdy nebál chodit do nebezpečných čtvrtí, před kterými bedekry varovaly turisty, a přece z města, v němž se teď octl, cítil strach. Rozuměl jeho textu jen mlhavě, ale rozpoznal v něm tóny, které pro většinu lidí nemusely být nijak nebezpečné, které však mohly zničit jeho duši. Zároveň cítil strašnou touhu porozumět městu a jeho životu…
 
 Po dobu, co Pierre mlčí, ho recepční nechává být, sedí vedle něho a usmívá se; Pierrovi se zdá, že přesně ví, jakou nesnáz řeší ve svém nitru, a že si je také předem jistý, jak jeho váhání nakonec dopadne. A skutečně – Pierre neodolá a začne se recepčního vyptávat na přestřelku, na pasáže a na zpustlou třídu Generála Moliny. Recepční začne hned mluvit o městě a doprovází svůj výklad ještě živější gestikulací než včera v hotelu, když se před slídivými zraky personálu vykrucoval z Pierrových otázek. Pierre brzy získá dojem, že zkoumání veřejného i tajného života města je celoživotním koníčkem recepčního a vyprávět o městě mu činí takové potěšení, že se kvůli němu rád vzdá postele, která na něj čeká po mnoha hodinách strávených ve službě.“
+
+</section>

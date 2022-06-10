@@ -3,6 +3,8 @@ title: 12\. kapitola Setkání na Naxu
 contentType: prose
 ---
 
+<section>
+
 „Čj se s Nmem ani s Úem už nikdy neviděl. Vydělával nějaké peníze tím, že dával hodiny hry na klavír; v noci naslouchal vzdáleným zvukům, které se mu v hlavě proměňovaly v jemné pramínky nebo divoké ohňostroje tónů. Ani po převratu v osmdesátém devátém se nepokoušel o veřejné provedení nebo alespoň publikaci svých skladeb; nikdy jsem se nedozvěděla, jestli příčinou byla jeho skromnost, pochyby o díle, které vytvořil, nesmělost a nechuť cokoliv zařizovat, neochota předat své představy do rukou interpretů anebo věrnost Valeriině odkazu a touha vyrovnat se jí v odvaze k mlčení. A přece měl chvíle, kdy si zoufal nad hudbou, kterou odsoudil k němé existenci ve své mysli nebo na magnetofonových páscích, jež neposlouchal ani on sám. V jedné z takových chvil se mu dostal do rukou článek o Bílém trianglu; neodolal, ozval se jeho autorovi a nechal se snadno přemluvit k vydání alespoň některých ze svých děl.“
 
 „Co se stalo s ostatníma dvěma?“
@@ -26,3 +28,5 @@ Na konci osmdesátých let dokončil studia chemie syn jeho starší sestry; Pas
 Ú i Nm měli ze setkání radost; hořkost a nepřátelství se v mysli obou už dávno rozplynuly. Ú přespal v Nmově prampouchu a hned příští den se spolu vypravili na Folegandros; Ú ostrov za třináct let, které uplynuly od doby, kdy četl Oranžovou knihu, mnohokrát navštívil v nočním snu a obrazy jeho zálivů a skal viděl na bílých zdech svého brooklynského bistra. Nm zavedl Úa do zátoky pokladů; když Ú stál na horkých oblázcích a díval se na vysoké skály připomínající postavy obrů, pocítil po dlouhé době zase touhu udělat sochu. Ještě nevěděl, jak bude socha vypadat, ale bylo mu už jasné, že i ona bude vzpomínkou na Valerii a její román. A protože slíbil Valerii, že obsah románu i všechny události spojené s jeho vznikem zůstanou navždy v tajnosti, řekl Nmovi, že postaví sochu na některém z těžko přístupných skalních vrcholů nad zálivem.
 
 Pascal Úovi navrhl něco jiného: opatří mu potápěčskou výstroj, dá mu pár lekcí v potápění a Ú udělá sochu na mořském dně; Nm mu bude při práci pomáhat. A Nm skutečně vyučil Úa základům potápění a zakrátko se oba pustili do práce. Ú vytvořil pod vodou zátoky z oblázků svou poslední sochu. Je to socha mé matky, která drží v ruce pootevřenou Oranžovou knihu. Usmívá se a z jejího gesta není jasné, jestli knihu ukrývá, nebo se ji chystá otevřít a nabídnout ke čtení. Když se Ú vracel do New Yorku, slíbil Nmovi, že příští léto za ním přijede znovu. Ale na začátku jara dostal Pascal infarkt a zemřel v nemocnici, v pokoji, z jehož okna byla vidět jen mořská hladina a nebe. To je příběh, který mi po šest dní vyprávěl Vga Ú v brooklynském bistru. Doplnila jsem do něho jen několik detailů, které mi později řekl Čj.“
+
+</section>
