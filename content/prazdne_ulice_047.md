@@ -3,14 +3,28 @@ title: 42\. kapitola Čisté světlo
 contentType: prose
 ---
 
+<section>
+
 Andrea teď zpívala:
+
+</section>
+
+<section>
 
 _„Muselo být smutné,  
 když jste u ohně v horách debatovali  
 o vědeckých otázkách, zatímco dole  
 hořely univerzitní budovy…“_
 
+</section>
+
+<section>
+
 Muž odpověděl zamyšleně:
+
+</section>
+
+<section>
 
 _„Ano, ale v horách jsme také zpočátku  
 zažili období, kdy se rozestřel  
@@ -28,7 +42,15 @@ Necítili jsme žádnou lítost
 nad knihami a rukopisy,  
 které se dole proměňovaly v dým.“_
 
+</section>
+
+<section>
+
 Vědec začal neklidně přecházet po místnosti. Zdálo se, že se dostal k vrcholu, který stále ještě vysoko vyčníval nad hladinu smíření a lhostejnosti, jež v posledních letech pozvolna zaplavovala krajinu minulosti.
+
+</section>
+
+<section>
 
 _„Dodnes to příliš nechápu.  
 Jako by se nové myšlenky zaleskly  
@@ -66,7 +88,15 @@ radostně pohazovali jako s míčem,
 a nikoho nenapadlo,  
 že by měly někomu z nás patřit.“_
 
+</section>
+
+<section>
+
 Žena vstala od stolu, šla k svému muži a objala ho:
+
+</section>
+
+<section>
 
 _„Nemysli už na ostrov.  
 Venku už polevilo vedro,  
@@ -74,7 +104,15 @@ půjdeme se projít podél řeky
 anebo si na chvíli sedneme  
 do zahradní restaurace…“_
 
+</section>
+
+<section>
+
 Muž byl ale stále ponořený do vzpomínek, zdálo se, že ženu vůbec neslyší. Vymanil se jemně z jejího objetí:
+
+</section>
+
+<section>
 
 _„Pořád se vracejí zlé obrazy;  
 ať se podívám kamkoliv,  
@@ -86,7 +124,15 @@ co jsem se z paluby rybářského člunu
 naposledy díval na svahy ostrova  
 rozpouštějící se v oparu žhavého poledne.“_
 
+</section>
+
+<section>
+
 Urbooceanolog přecházel po pokoji stále neklidněji; jeho žena se opřela o stůl a smutně ho sledovala očima.
+
+</section>
+
+<section>
 
 _„Když v noci zhasnu a zavřu oči,  
 vidím stále tytéž scény, vidím,  
@@ -160,13 +206,27 @@ vynoří skupina písmen
 jako vzdálené holé stromy v mlze  
 a zase zmizí…“_
 
+</section>
+
+<section>
+
 Během svého monologu urbooceanolog pořád přecházel po místnosti a žena ho rezignovaně sledovala od stolu. Když Barbora zpívala o knize s prázdnými stránkami, na kterých vyvstávají a ztrácejí se písmena, okamžitě jsem si vzpomněl na objevující se a mizící znak, jenž mě přivedl do Jonášovy vily a jehož záhada nakonec dostala tak prozaické chemické vysvětlení. A vzápětí v melodii, kterou hrály zvonky, znovu zazněl začátek motivu Oranžové knihy; opět jsem slyšel stoupající řadu tří známých tónů a opět se melodie namísto toho, aby se uzavřela do tvaru, který mi zněl v hlavě, roztříštila do neuchopitelného víru.
+
+</section>
+
+<section>
 
 _„Lauře pokoje splývaly s podmořskými jeskyněmi, říkala, že už neví,  
 jestli svůj život prožila  
 v rušných městech, nebo na dně oceánu,  
 jestli tváře, jež znala…“_
 
+</section>
+
+<section>
+
 To byla poslední slova, která Barbora zazpívala. Pak bez jakéhokoliv náznaku, že se blíží konec, hudba i zpěv v jediném okamžiku zmlkly. Dívky na pódiu znehybněly – Barbora u knihovny, kam se právě při přecházení pokojem dostala, Andrea u stolu; Barbora stále stahovala obočí, zamrzl jí na tváři výraz vracejícího se údivu nad dávnou záhadou, zatímco na Andreině obličeji, hledícím na Barboru, zůstal jako na zastaveném filmu výraz smutku, obdivu a lítosti. Po náhlém konci opery na zahradě zavládlo udivené ticho, pak se ozval žalostný potlesk pěti párů rukou, které v hledišti zbyly. Barbora s Andreou přišly k okraji terasy, lehce se uklonily a odběhly do domu; hudebníci ukládali nástroje do pouzder a ani nepokládali za nutné se děkovat. Po chvíli mi došlo, proč opera tak náhle skončila uprostřed věty: umělci se k nalezené partituře zachovali tak pietně, že Barbora a Andrea přestaly zpívat a hudebníci přestali hrát přesně na místě, kde na poslední zachované stránce rozpadlého sešitu končil záznam textu a hudby.
 
 Když jsem ale odcházel mezi dvěma řadami prázdných křesel, přemýšlel jsem, jestli všechno nebylo úplně jinak. Znal jsem Čjovy nápady i lásku všech trianglistů k hlasům ticha a prázdna a řekl si, že je docela možné, že opera nikdy žádné pokračování neměla, že Čj sám utrhl polovinu sešitu a zakončil operu tímto zlomem schválně, snad proto, že chtěl, aby náhlé přerušení vyvolalo v myslích posluchačů vír utvářejících se a zase rozpadajících zvuků a obrazů, hudební fantomy, které, jak se zdá, miloval více než skutečnou hudbu. A já se doopravdy nedovedl ubránit tomu, abych v duchu neslyšel mnoho různých imaginárních pokračování Čjova díla, která se jako mořské vlny přelévala jedno přes druhé a jedno v druhém zanikala. Ale pak jsem se vrátil do přední, osvětlené části zahrady, kde se masky právě dostávaly do nejlepší nálady a šum hovorů přehlušil neslyšnou hudbu.
+
+</section>

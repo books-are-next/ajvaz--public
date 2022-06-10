@@ -3,6 +3,8 @@ title: 33\. kapitola Ztracený poklad kapitána Bustrofedona
 contentType: prose
 ---
 
+<section>
+
 „Bernetovi rodiče se brzy po jeho narození rozvedli a Bernet žil po celé dětství sám s matkou,“ začal architekt, když se zase posadil. „Když mu bylo deset let, přijela k nim na návštěvu matčina vzdálená sestřenice a několik dní u nich bydlela. Bernet ji předtím viděl jen dvakrát nebo třikrát, protože žila ve vzdáleném městě. Bernetova matka zrovna ležela s chřipkou, a tak teta chodila s malým Bernetem na procházky po městě. Jednou ho vzala na návštěvu ke své přítelkyni, která bydlela v tmavém bytě se starým nábytkem a spoustou knih. Byla doma sama s malou dcerkou. Ženy si povídaly, Bernet se nudil, děvčátko, kterému byly asi tři roky, sedělo na gauči a mračilo se na něj. Přítelkyně tety mu půjčila obrázkovou knížku na prohlížení. Byl s ní brzy hotov, zábava dospělých byla pořád stejně nudná a holčička pořád stejně nesympatická, a tak se dal do prozkoumávání bytu.
 
 Vešel do vedlejšího prázdného pokoje; uprostřed stál velký kulatý stůl. Ležela na něm tlustá kniha v nějaké cizí řeči. Vzal ji do ruky, protože ho lákalo nahlédnout do zaprášené škvíry mezi koženým hřbetem a vazem. Když se dost vynadíval na tajuplnou chodbu, ze které vanul pach klihu, chtěl knihu zase vrátit na místo, všiml si však, že pod knihou byl schovaný malý kousek papíru, na který někdo tužkou naškrábal nějaké poznámky. To, co bylo na papíru napsáno, uměl Bernet ještě po létech odříkat nazpaměť – a později jsme se spolu o záhadném textu bavili tolikrát, že jej umím nazpaměť i já. Stálo tam: ‚S. Clara, pir., Ben. Ztrosk. Fol. 1572. Drahok., diam. zv. – mořský kon., chob. (oko – 2. nejv. kám. na sv.). Perly, b. a č. Nal. 1954. Obýv. p., knih., páčka za 11. dílem Ott. sl. Adr.: Žena a drak, meč, zel. znak na oranž. štítu. Věci na třech pol. – první písm. Bustrofedon.‘“
@@ -34,3 +36,5 @@ Ale Bernet se kupodivu vyhnul oběma cestám osudu. Na rozdíl od jiných zasně
 Architekt se odmlčel. Přijela tramvaj, z níž namáhavě vystoupila stará paní, šikmý stín na zdi domu se blížil k velké skvrně ve tvaru chobotnice.
 
 „Ale byl to nerovný zápas, a dítě v něm nakonec přece jen podlehlo. Bernet uznal svět jako vítěze, ale na rozdíl od jiných poražených se s ním odmítl smířit. Jako by říkal světu: ‚Dobrá, zřejmě jsem se mýlil, zdá se, že opravdu neexistují žádné poklady ukryté v městských bytech, že nejsou jiné zákony než ty tvoje; měl jsi tedy asi pravdu, to ale neznamená, že ta tvoje pravda za něco stojí a že ji budu obdivovat.‘“
+
+</section>

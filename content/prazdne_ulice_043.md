@@ -3,6 +3,8 @@ title: "38\\. kapitola Světla a\_hlasy"
 contentType: prose
 ---
 
+<section>
+
 Za branou se zmačkaný chomáč látek rozpadl, látky se začaly vlnit po celé zahradě jako temné potoky; v jejich proudu se rozsvěcela a zhášela bílá i barevná světélka. Hned za bodyguardem se vynořil číšník v bílých rukavičkách a strčil přede mne podnos se sklenicemi šampaňského. Vzal jsem si jednu sklenku, chodil jsem po pečlivě sestříhaném trávníku a po cestičkách vysypaných jemným pískem, pomalu jsem upíjel víno. Kolem mne se v záhybech tmavých látek rozvinovaly a zase svinovaly obrazy, slyšel jsem sílící a zase slábnoucí šum hlasů jako mořský příboj, proplouval jsem proudy a jezírky sladkých a trpkých parfémů. Ze všech záhybů, světélek a vůní se mi začala točit hlava, a tak jsem se raději postavil stranou, k tmavému křoví lemujícímu zahradu, abych si mohl z odstupu podrobně prohlédnout masky, které se na čas octly na okraji víru.
 
 Byly to spíše důmyslné a neklidné živé sochy nočního města; a nad mnoha z nich jsem pocítil obdiv k fantazii a technické zručnosti architektovy manželky. Nejčastější maskou byla maska nočního domu, přitom však byl každý z domů úplně jiný. Jakási žena se vyprostila z davu a zůstala stát blízko mne, protože jí v kapse zvonil mobil; zatímco telefonovala, prohlédl jsem si podrobně její úbor. Představoval dům u trati; na přední straně jsem viděl okna, vystřižená stejně jako okna továrny na mém kostýmu z lesklého celofánu, ale v žádném z nich se nesvítilo, byla zřejmě hluboká noc a všichni nájemníci tvrdě spali – a přece jen se tu zjevoval noční svit, přece jen maska odpovídala tématu slavnosti: v přízemních oknech (jež byla na obleku ve výši lýtek) se odrážela světla nočního rychlíku, který právě projížděl po kolejích na druhé straně noční ulice.
@@ -55,6 +57,10 @@ Prohlížel jsem si kulisy ze všech stran, ale nenašel jsem na nich nic zajím
 
 Podíval jsem se na hodinky; bylo tři čtvrti na jedenáct; nechtělo se mi vracet do přední části zahrady mezi masky, nechtělo se mi poslouchat jejich hloupé rozhovory a také už mě bolela hlava z blikání všech světýlek, a tak jsem se posadil do proutěného křesla doprostřed prázdného hlediště a sledoval práci mlčenlivých osvětlovačů. Všiml jsem si, že na některých křeslech leží listy papíru; podíval jsem se na jeden z nich. Byl to program chystaného představení:
 
+</section>
+
+<section>
+
 __Medúzy minulosti__
 
 Fragment opery neznámého autora 
@@ -67,4 +73,10 @@ Obsazení:
 
 Hudba: Flétna, lyra, zvonky.
 
+</section>
+
+<section>
+
 Barboře a Andree zřejmě nečinilo potíže užívat Bernetovo jméno, i když ani jedna z nich za něj nebyla provdána. Za chvíli muži na pódiu dokončili montáž reflektorů, postavili ještě před kulisy stůl s umakartovou deskou a dvě čalouněné židle; pak zatáhli před kulisami oponu, která připomínala spíš velké prostěradlo sušící se na prádelní šňůře, a odešli. Hlasy z přední části zahrady do těchto míst, až na občasný hlasitý výbuch ženského smíchu, skoro nedoléhaly, a tak jsem si nějaký čas mohl užívat ticha a samoty. Ale brzy začaly první masky přicházet na představení, usedaly na křesla a židle kolem mne, znovu mě dostihla vlna šumu, z něhož se vynořovaly fragmenty vět pojednávajících o stále stejných tématech. K notovým pultům se rozesadili hudebníci. Přesně v jedenáct hodin zhasla lampa nad vchodem, reflektory osvítily oponu tlumeným světlem; šum v hledišti ztichl.
+
+</section>

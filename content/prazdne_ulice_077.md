@@ -3,6 +3,8 @@ title: 14\. kapitola Palác paměti
 contentType: prose
 ---
 
+<section>
+
 „Také Čj si přál, abych si mohla přečíst Valeriin román, ale ani on neviděl žádnou možnost, jak text obnovit. Listovali jsme spolu Nmovým deníkem; opět jsem se dívala na prázdné stránky, ale měla jsem přitom úplně jiné pocity, než když jsem si prohlížela Oranžovou knihu. Její stránky mi vlastně nepřipadaly prázdné, zdálo se mi spíš, že na listech papíru není nic vidět proto, že jsou přeplněné obrazy, asi jako kdyby někdo na tabuli kreslil bílou křídou tvary přes sebe tak dlouho, až by zbyla jen souvislá bílá plocha. Naproti tomu stránky Nmova deníku byly doopravdy pusté, každá z nich mi připomínala chladné kovové dveře nedobytného trezoru; smutně jsem myslela na to, že za jedněmi z těch dveří je ukrytý klíč k Oranžové knize.
 
 Od našeho setkání jsem se s Čjem vídala denně. Prosila jsem ho, aby mi vyprávěl o tom, jak žil po zániku Bílého trianglu, ale Čj říkal, že není co vyprávět – živil se tím, že vyučoval hru na klavír, a skoro celý zbývající čas vyplnil komponováním hudby. Žil postupně s několika ženami, ale teď už je několik let sám. Měla jsem radost z toho, že Čj nemá pocit promarněného života, který na mne tak smutně vanul z každého Švarcova slova a gesta a který snad trápil i Pascala Brisona na francouzském venkově i na řeckých ostrovech. Čj také na rozdíl od Valerie, Nma a Úa nikdy netoužil navštívit cizí země; jednou se mi svěřil, že při komponování prožívá dobrodružství, jakým se nemohou vyrovnat žádné cesty po exotických krajinách; jsou to dobrodružství odehrávající se v zázračné, divoké zemi ticha, kde se vynořují nečekané trsy tónů, které hrají imaginární nástroje, některé z tónů se zase rozplývají v neurčitém šumu jako v bílé mlze, jiné zůstávají, proměňují se a přivolávají další tóny.
@@ -36,3 +38,5 @@ Viola teď skoro šeptala. „Někdy se mi zdá, že slyším matčin hlas, kter
 Zase přijížděl vlak, ale Viola jako by ho nevnímala, slyšel jsem, že něco říká, i když jejím slovům už nebylo v hukotu vagonů rozumět. Zmlkla, až když vlak rachotil přímo pod okny. Když se ztišil, pokračovala:
 
 „Ale úvahy o tom, čím nás vlastně Valerie pověřila, jsou stejně zbytečné; to, o co v celém příběhu nejvíce šlo, text Oranžové knihy, tak jako tak už nikdy nikdo nepřečte, a nějaké staré historky okolo Labyrinthu, Jonášova manželství a Bílého trianglu už nikoho ani nezajímají, vy jste asi poslední, kdo se na něco takového ještě ptá. Když Čj a Ú zítra rozhodnou, že zákaz už neplatí, a budou chtít prozradit všechno, co se dlouhá léta tajilo, zjistí, že už není nikdo, kdo by je chtěl poslouchat.“
+
+</section>

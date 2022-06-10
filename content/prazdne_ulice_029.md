@@ -3,6 +3,8 @@ title: 24\. kapitola Ve vrátnici
 contentType: prose
 ---
 
+<section>
+
 Podle majitele Tam-tamu měla být budova vidět někde u trati mezi dvěma stanicemi vlaku objíždějícího okraje města. Chtěl jsem se vrátit na nádraží, ale pak jsem si uvědomil, že druhá stanice je blíž, a rozhodl se vyjet odtamtud. Když jsem přišel na peron, cestující zrovna nastupovali. Sotva jsem si našel prázdné kupé a usadil se v něm, vlak se rozjel.
 
 Koleje mírným obloukem lemovaly pás nízkých průmyslových budov, nepravidelně rozházených na okraji města. Hranice mezi stínem a narudlým světlem, do něhož se promítaly skvrny špíny na okenním skle, se pomalu posouvala po šedé kožence sedadel na protější straně kupé. V okně na chodbičce jsem viděl stoupající a klesající vlnu kopců porostlých žlutou travou, tu a tam se objevovaly záhadné krychle a kvádry z betonu; téhle straně trati zřejmě nebudu muset věnovat pozornost, řekl jsem si a obrátil se k oknu kupé. Nebylo snadné v něm něco uvidět, vrstva špíny na skle svítila ve světle večerního slunce jako zlatý prach, v němž se rozpouštěly tvary; ohnivé slunce přitom sestoupilo tak nízko, že se už zaplétalo do konstrukcí, které se bez ustání sunuly podél vlaku, mizelo za bloky temného betonu a zase se objevovalo v mezerách mezi stavbami, blikalo mezi pilíři rozestavěné haly, proplouvalo kovovým síťovím stožárů, na čas se ztratilo za vysokým dřevěným plotem, a když plot odletěl jako cár papíru, zarylo se mi bolestivě do očí.
@@ -44,3 +46,5 @@ Vrátnice byla malá místnost, do které vecpali starý psací stůl, židli a�
 Teď se zase usmál vrátný. „Začnu tedy s dovolením ještě o něco dřív, totiž za panování císaře Anastasia před patnácti sty lety.“
 
 To mě přece jen trochu překvapilo, ale pak jsem si řekl, že se klíč k Violině záhadě třeba opravdu skrývá v událostech, ke kterým došlo v tak dávné době.
+
+</section>

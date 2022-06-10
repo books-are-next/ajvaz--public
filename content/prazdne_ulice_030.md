@@ -3,6 +3,8 @@ title: 25\. kapitola Zánik athénské Akademie
 contentType: prose
 ---
 
+<section>
+
 „Slyšel jste někdy o novoplatónském filosofovi, který se jmenoval Dionysios z Gazy?“ zeptal se vrátný.
 
 „Přiznám se, že ne.“
@@ -36,3 +38,5 @@ Vrátný přikývl: „Padesát dva.“
 Zatímco jsem mluvil, vrátný uznale a pobaveně pokyvoval hlavou. „K tomu skoro není co dodat,“ řekl. „Zmýlil jste se jen v jedné věci: bohužel mě v poslední době trápí oční nemoc natolik, že už nemůžu skoro vůbec číst. Ale vraťme se zase k Dionysiovi. Kde jsme ho vlastně nechali?“
 
 „Na lodi plující k břehům Malé Asie.“
+
+</section>

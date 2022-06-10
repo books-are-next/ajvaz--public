@@ -3,6 +3,8 @@ title: 15\. kapitola Tanec larev
 contentType: prose
 ---
 
+<section>
+
 Nechtěl jsem, abychom donekonečna probírali, co znamená dávný slib a v jaké míře smí být porušen; bál jsem se, že by takové úvahy mohly u Violy skončit lítostí, že mi vůbec něco říkala, a rozhodnutím mlčet. A tak jsem raději zase vrátil rozhovor zpátky k malíři.
 
 „Dominikovi trvalo dlouho, než se vyrovnal s vaším zmizením…,“ řekl jsem.
@@ -42,3 +44,5 @@ Její slova se měnila v nářek, pak se Viola odmlčela, protože za okny opě
 „Jak jsem řekla, odnášela jsem tajně z ateliéru vzorky různých aktivačních roztoků…,“ pokračovala ve svém vyprávění. „Vlastně je směšné, když říkám, že jsem to dělala tajně. Ze začátku to tak bylo, ale pak se zrodila moje a Dominikova hra na tajnost. Odlévala jsem v noci do svých lahviček vzorky tvrdých aktivantů a věděla jsem, že Dominik dělá, že spí, a přitom mě pozoruje přivřenýma očima… Ale nikdy se o tom nezmínil. Začal mě pokládat za nepřítele, kterého je třeba sledovat a neprozradit se přitom… Stala jsem se součástí nepřátelského beztvarého světa, který před ním skrýval svá tajemství, dával mu tisíce neřešitelných hádanek a ukládal mu tisíce neuskutečnitelných úkolů. Myslím, že mě v té době začal nenávidět.“
 
 Vzpomněl jsem si na nepřátelství, které rozdělilo Čje, Úa a Nma a které snad Nm předjímal v libretu Medúz minulosti v příběhu Maria a Rufia. Pocítil jsem smutek. Jak je zvláštní, že z Valeriina čistého gesta vyvstalo tolik nenávisti… Trvala by pořád na svém snu o ztraceném díle, kdyby věděla, kolik bolesti a zloby se zrodí z prázdných stránek Oranžové knihy? Ale pak jsem pomyslel na smíření Úa s Nmem i Čjem a řekl si, že světlo, o kterém mluvila Viola, světlo, v němž vznikala Oranžová kniha, nemůže jen tak zhasnout.
+
+</section>

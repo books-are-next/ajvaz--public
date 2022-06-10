@@ -3,6 +3,8 @@ title: 31\. kapitola Kamery nad branou
 contentType: prose
 ---
 
+<section>
+
 Architektura Bernetova domu vzbudila před časem dost velkou pozornost. Laikům se nelíbila, odborníci ji přijímali různě; někteří chválili formální čistotu domu, jiní mluvili o chladu a nehostinnosti. Podle mnohých byl dům neobyvatelný a z tónu, jakým o něm psali někteří novináři, jsem cítil úšklebek nad snobismem boháče, který obětuje pohodlí a pocit domova brilantní, ale strohé geometrické kráse. A protože se nepředpokládalo, že by tak bohatý člověk mohl mít nějaký umělecký vkus, došlo se k závěru, že si Bernet nechal postavit takový dům jen z potřeby působit na okolí a být obdivován. Jeden z novinářů se Bernetovi vysmíval, že z ješitné touhy vlastnit nejmodernější architekturu se uzavřel do asketického kláštera, kde vládne geometrie, kov a prázdno. Bernetovo vyjádření se nepodařilo získat. Bernet především, jak se zdá, není nikde k zastižení, nechodí na tenisové turnaje, na rauty s hvězdami populární hudby ani na dobročinné akce; a když se nějakému reportéru podaří někde ho dohonit, neodpovídá na žádné dotazy.
 
 Z fotografií jsem si nedokázal udělat o domě příliš jasnou představu, a tak jsem byl docela zvědav, s čím se vlastně setkám. Zapamatoval jsem si alespoň, kde je třeba dům hledat: měl by se nacházet někde mezi vilkami, které v různých dobách vyrostly na vrcholku jednoho z kopců na okraji města. A tak jsem teď procházel kolem zanedbaných stavení s oprýskanou omítkou; u jejich zdí se tyčily hromady pomačkaných a zlámaných věcí a záhadných součástek; domky stály uprostřed zahrádek, kde mezi záhony rajčat marně čekaly na déšť smaltované vany s hustým tmavým roztokem na dně a se stěnami potaženými šedozeleným povlakem. Do vůně suché trávy a tlející vody se mísil pach benzinu, oleje a smažených řízků, ozývala se hudba z rádia, hlasy dětí a z kterési vzdálené zahrady monotónní bas benzinové sekačky, připomínající vrčení nějakého rozzlobeného zvířete.
@@ -50,3 +52,5 @@ Během mého vyprávění architekt zpomaloval krok, a tak ve chvíli, kdy jsem
 Zastavil jsem se a začal jsem na zeď domu, přes rudou čmáranici neznámého sprejera, kreslit prstem imaginární dvojitý trojzubec. Nejdřív jsem nakreslil elipsu, pak dolní trojzubec a střední svislou čáru; když jsem se dostal k příčné čáře ve středu obrazce, položil architekt svůj ukazováček vedle mého a dokreslil zbývající horní polovinu obrazce sám. Chvíli jsme stáli a dívali se na počmáranou zeď, na které jsme oba viděli týž tvar.
 
 „To jsem mohl předpokládat,“ zamumlal architekt pro sebe. Pak znovu vykročil; šel jsem vedle něho a nic neříkal, čekal jsem, až promluví sám. Blížili jsme se ke konečné tramvaje. U nástupiště čekal prázdný vůz s otevřenými dveřmi, za refýží stála dřevěná bouda s nápisem Občerstvení a vedle ní lavička, na které seděl zpocený řidič a pil kávu z kelímku.
+
+</section>

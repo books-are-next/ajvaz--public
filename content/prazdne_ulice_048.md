@@ -3,6 +3,8 @@ title: 43\. kapitola Po představení
 contentType: prose
 ---
 
+<section>
+
 Chodil jsem zase mezi skupinkami masek, pil víno a poslouchal změť slov, která na mne ze všech stran doléhala. Slyšel jsem to, co jsem očekával.
 
 Nejistý ženský hlas: „Hm, bylo to zajímavé.“
@@ -30,3 +32,5 @@ Když jsem hledal Violu a Čje, objevovala se přede mnou neustále ruka s pod
 Už se mi z alkoholu, víření látek, blikání světel, ze smíchu a šumu hlasů točila hlava; abych se trochu osvěžil, obešel jsem znovu dům a procházel se po trávníku v nejvzdálenější, zcela temné části zahrady. Z keřů, jež zahradu lemovaly, jsem slyšel vzdechy masek, které zhasly všechny své žárovky a oddávaly se tu milostným hrám; přemýšlel jsem, podle čeho si asi masky vybíraly mezi zakuklenými hosty své partnery. Cítil jsem pořád větší ospalost, a tak jsem se rozhodl, že už pojedu domů. Když jsem se vracel k osvětlené vile, uviděl jsem, že nad siluetu křovin na jednom místě vyčnívá špičatá střecha, která zřejmě patřila nějakému altánku. Ozývaly se odtud zvuky tlumené hádky. Když jsem přišel blíž, rozlišil jsem dva ženské a jeden mužský hlas.
 
 Jedna z postav se pohnula, světlo vzdálené lampy se zalesklo na hladkých černých vlasech a osvítilo na chvíli bledý obličej. Poznal jsem, že je to Barbora; měla na sobě stále oblek, ve kterém vystupovala v opeře. Druhá dívka byla Andrea; také ona byla stále v kostýmu urbooceanologovy manželky. Tvář muže byla schovaná ve stínu, ale nepochyboval jsem o tom, že je to Bernet. Zvědavost na chvíli překonala touhu po spánku. Přikradl jsem se k altánku, posadil se na trávu a opřel se zády o strom.
+
+</section>

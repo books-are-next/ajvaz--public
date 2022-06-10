@@ -3,6 +3,8 @@ title: "46\\. kapitola Rozprava o\_světlech"
 contentType: prose
 ---
 
+<section>
+
 Dívky se zamračily, ale já pokračoval. „Byly jste na něj moc přísné. Máte pravdu, nehraje teď svou hru nejlíp. Ale nemyslím si, že to božstvo, které je jeho partnerem ve hře, je tak netrpělivé jako vy a pohrdá jím za jeho slabost. Řekl bych, že ví, že jsou chvíle, kdy je potřeba odpočívat, a chvíle, kdy je třeba prohrávat, že jsou chvíle, kdy je třeba chovat se hloupě a banálně. Berneta se teď zmocnil velký strach, má pocit, že se topí a že mu po všem, čeho se chce zachytit, sklouzávají ruce. Myslím, že se zase vrátí do světa, ve kterém s vámi žil. Kdo v dětství zahlédl nějakou štěrbinou jiný prostor, jen těžko se někdy stane obyvatelem světa, ve kterém žijí ostatní – i když se o to Bernet právě teď zoufale a dojemně snaží. Asi nenávidí svou minulost a hnusí se mu celá historie s pokladem, která se od dětství proplétá jeho životem, ale i takové chvíle hnusu jsou zapotřebí…“
 
 Dívky zamyšleně mlčely, za nimi se vlnily záclony. Andrea řekla: „Opravdu věříte, že se z Berneta nestane nudný hlupák?“
@@ -52,3 +54,5 @@ Namísto odpovědi jsem řekl: „Pro vás noční světla asi také něco zname
 „My máme noční světla rády a myslíme si, že se jich bojíte zbytečně; světla jsou čistá a nevinná,“ poučovala mě Barbora. „Řekla bych, že ten, kdo s nimi žije, se v jejich světě může naučit nezištné pozornosti a úctě k tomu, co se vymyká našemu světu a co se nedá nijak využít, a takové školení je docela dobré i pro vztah k blízkým věcem a tvářím. Zvolily jsme letos jako téma slavnosti světla noci, protože se nám zdálo, že to, co vane z nočních světel, je nějak příbuzné s tím, co se pro nás obě od dětství ozývalo na dně hudby a co obvykle nikdo z těch, kteří tvrdí, že milují hudbu, neslyší. Vlastně jsme si to plně uvědomily, až když jsme poznaly operu z Popelové ulice. Připadalo nám, že je to jediná hudba, která ví o prameni tónů, že její autor trápil hudbu chladem a monotónností, aby ji donutil vydat její nejstarší, nejtišší a nejzázračnější hlas.“
 
 Andrea Barboru obdivně sledovala, byla pyšná na to, jak její přítelkyně umí za obě vyjádřit jejich společné pocity slovy. Ale Barbora mě nepřesvědčila a nezbavila úzkosti z toho, že mě pronásledování Violy zavede do nějakého chladného světa, z něhož se mi už nikdy nepodaří uniknout. Dívky ještě neznaly nebezpečí přílišné čistoty, na to byly asi příliš mladé, stejně jako byly příliš mladé na to, aby dokázaly být shovívavé k Bernetově únavě a jeho strachu.
+
+</section>

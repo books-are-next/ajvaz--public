@@ -3,6 +3,8 @@ title: 5\. kapitola Portrét
 contentType: prose
 ---
 
+<section>
+
 Celý příští den jsem si dělal pořádek v knihovně. Bylo pořád horko, a tak jsem zotvíral všechna okna v bytě; zvenčí se ozývala bruska z dílny ve vedlejší ulici a zvuky posunovaných vlaků na vzdáleném nádraží. Bílé záclony se vlnily nad chvějícími se papíry, jako by na desce psacího stolu neúnavně tančil bílý přízrak, nějaký démon prázdných letních ulic, který mě přišel navštívit. Průvan několikrát zvedl popsaný papír ze stolu, zanesl jej přes celou místnost až ke mně a složil jej na koberec u mých nohou, ale nechal jsem jej pokaždé ležet. Chtěl jsem si alespoň na jeden den odpočinout od nešťastného textu. Při rovnání svazků v knihovně se mi párkrát stalo, že jsem zahlédl hřbet knihy, kterou už jsem dlouho neměl v ruce; otevřel jsem ji a začetl se do ní, pak jsem ji vrátil, zase jsem nějaký čas přerovnával knihy, znovu jsem se začetl – a najednou byla v pokoji tma; rozsvítil jsem, vzal jsem do náruče všechny knihy, které ležely na podlaze a čekaly na své zařazení, a nastrkal je nazdařbůh do prázdných míst na regálech. Pak jsem otevřel konzervu s tuňákem a vytáhl z ledničky nedopitou láhev vína.
 
 Pustil jsem si televizi a chvíli pozoroval elegantně oblečené lidi, kteří řešili v přepychovém sídle na břehu moře, snad někde ve Skotsku, spletité milostné problémy. Ve chvíli srdceryvné scény mezi matkou a dcerou, které, zdá se, milovaly téhož muže v tvídovém obleku, zazvonil telefon. Zvedl jsem sluchátko a s pusou plnou tuňáka, kterého jsem nestačil spolknout, jsem zahuhňal své jméno.
@@ -54,3 +56,5 @@ Zeptal jsem se ho, jestli se obrátil na policii. „Samozřejmě,“ řekl Jon�
 „Nemáte vůbec žádné tušení, kde by mohla být?“
 
 „Viola se mi s ničím nesvěřovala. Byla zamlklá a svéhlavá, ale nebyly s ní nikdy žádné skutečné problémy. Nevím, co se s ní stalo. Zjistil jsem jména několika jejích přátel, ale ani ti o ní nic nevědí…“ Odmlčel se a po chvíli dodal: „Musím pořád myslet na to, že ji třeba někdo vězní, že čeká na mou pomoc…“
+
+</section>

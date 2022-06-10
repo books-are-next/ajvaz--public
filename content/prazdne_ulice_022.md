@@ -3,6 +3,8 @@ title: 17\. kapitola Modrý papoušek
 contentType: prose
 ---
 
+<section>
+
 Venku pořád jemně mžilo. Na štítu kavárny byl namalovaný pestrý papoušek, v jehož peří převládala modrá barva; nakláněl hlavu, jako by si chtěl dobře prohlédnout zákazníka vstupujícího do dveří. Ve skle okna byly vidět stromy na protější straně ulice, budovy Nerea a hieroglyfický nápis, ve který zrcadlení proměnilo písmena nad branou podniku. Přitiskl jsem čelo a nos na sklo; odlesky se rozplynuly a pod nimi se objevila malá místnost, přeplněná stolky a židlemi. Zdálo se, že uvnitř nikdo není. Vstoupil jsem do kavárny bez hostů a bez personálu; ucítil jsem vůni zapálené tyčinky ze santalového dřeva, na zdech visely kopie afrických masek a tibetské mandaly. Pomyslel jsem si, že v okolí sotva asi bydlí lidé, kteří chodí do kaváren, a pocítil jsem dojetí nad vzdorem, s jakým se majitel zřejmě už dlouhý čas bránil tomu, aby svůj podnik, který nikdo nenavštěvoval, proměnil ve výčep nebo hernu.
 
 Místnost asi původně sloužila jako malý obchod, představoval jsem si, že tu dřív byla mlékárna nebo krámek se zeleninou. Musel jsem si udělat uličku mezi židlemi a stoly, abych se dostal k oknu, které určitě bývalo výlohou. Šoupání židlí přivolalo zezadu číšníka, který byl patrně zároveň majitelem podniku; byl to hubený mladík s dredy sahajícími do půli zad. Měl na sobě nepálskou nebo andskou halenu a byl ověšený barevnými dřevěnými korálky. Objednal jsem si kávu, sundal jsem z věšáku dřevěný rám s novinami, ale zjistil jsem, že noviny jsou měsíc staré; a tak jsem je zase pověsil nazpátek, jen jsem seděl, poslouchal bzučení ventilátoru, který se otáčel na stropě, a díval se z okna na ulici. Nebylo toho moc k vidění; po chodníku pomalu přešla stará paní, která za sebou táhla pravidelně skřípající tašku na kolečkách, za ní se na křivých nožkách belhal tlustý pes, po ulici přejela dodávka – a pak už se za oknem nic nepohnulo. Ještě jsem ani nedopil kávu, když jsem uviděl, jak ulici přebíhá Julie.
@@ -90,3 +92,5 @@ A Julie vzala ze stolu plastikovou láhev a přejížděla nehtem po jemném v
 „Zeptala jste se jí na to ráno?“
 
 „Když jsem se ráno vzbudila, Viola v pokoji nebyla. Už za mnou nikdy nepřišla; když jsem se na ni dívala v noci, bylo to naposledy, co jsem ji viděla.“
+
+</section>

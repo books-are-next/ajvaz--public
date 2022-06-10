@@ -3,6 +3,8 @@ title: 45\. kapitola Bílý pokoj
 contentType: prose
 ---
 
+<section>
+
 Ze snu, ve kterém jsem bloudil prázdnými ulicemi neznámého obrovského velkoměsta, mě probudily hlasité rány. Se zavřenýma očima jsem se vyhrabával z cích, do nichž jsem se zřejmě ve spánku pořád víc zamotával jako do velké pavučiny. Přikrývky byly sice tenké a lehké, ale zato jich bylo několik vrstev; všiml jsem si, že některé z látek nejsou větší než šátek, zato jiné se patrně táhnou až kamsi do daleka. Když se mi podařilo vyprostit z měkké pasti alespoň horní polovinu těla, odtrhl jsem od sebe násilím víčka a snažil se rozpomenout, kde jsem a jak jsem se tu octl. Ležel jsem na veliké posteli v rozlehlé světlé místnosti; světlo přicházelo zvenčí, tlumil je a změkčoval bílý neprůhledný závěs, který sahal od stropu až k podlaze a zakrýval celou jednu stranu pokoje. Na osvětleném závěsu ležely stíny větví jako šedivá kresba na bílém papíru; za závěsem musela být skleněná stěna, jež vedla do zahrady.
 
 Uviděl jsem, jak se napravo ode mne světlá přikrývka řasí do záhybů a zase roztahuje; za jedním záhybem se vynořily rozcuchané černé vlasy a pak dívčí obličej, který jsem odněkud znal. Po chvíli se začaly hýbat přikrývky nalevo ode mne a ve škvíře mezi látkami se objevily světlé vlasy a potom druhý povědomý obličej. Nakonec se ze zmuchlaných a zamotaných látek vysoukala na světlo dvě štíhlá těla v bílých nočních košilích. Seděli jsme všichni tři na posteli a udiveně na sebe hleděli, zatímco se zvenčí pořád ozývalo bušení na dveře a lomcování klikou.
@@ -74,3 +76,5 @@ Usmál jsem se. „Setkal jsem se jen se schématem čerpadla, o kterém nevím
 „Třeba bychom mohli poklad hledat společně, když teď Bernet zběhl z výpravy,“ navrhla Andrea a Barbora ji doplnila: „Mohli bychom všichni tři hledat zároveň poklad i Violu, chcete?“
 
 „Ne, nezlobte se na mne. Nebudu s vámi hledat poklad. Patří Bernetovi, který jej hledal od dětství, a taky vám, protože jste stály při něm, když se mu ostatní vysmívali. A kromě toho si myslím, že Violu můžu najít, jen když ji budu hledat sám. Stopy, které jsem zatím vypátral, se mohly zjevit jen někomu, kdo jde sám, a řekl bych, že tomu tak bude i v budoucnu. Jestli cestou objevím nějakou stopu, která by mohla vést k pokladu, určitě vám dám vědět. A ještě něco. Myslím, že byste se měly smířit s Bernetem.“
+
+</section>

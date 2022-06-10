@@ -3,6 +3,8 @@ title: 2\. kapitola Starý slib
 contentType: prose
 ---
 
+<section>
+
 Zabořil jsem se do hluboké měkké pohovky, na kterou Viola mlčky ukázala; sama zůstala stát u klavíru, jednou rukou svírala víko nad klávesnicí stejně křečovitě jako před chvílí dveře; vypadalo to, jako by byla připravena v případě nutnosti na mne vypustit nějakého démona, který sídlí uvnitř klavíru.
 
 „Navrátil je Vhlm Čj?“ řekl jsem.
@@ -60,3 +62,5 @@ A po chvíli ještě dodala: „Kromě toho se zákaz týkal především Oran�
 Podíval jsem se na knihu, která ležela na desce psacího stolu. Bylo smutné, že mám tajemné dílo na dosah ruky a nesmím znát jeho obsah. Viola zachytila můj pohled a asi uhodla, o čem přemýšlím. Usmála se na mne: „Ale ne, špatně jste mě pochopil. Nebudu vám bránit, abyste se na knihu díval, jak dlouho chcete. Řekla jsem jen, že si ji nepřečtete.“
 
 Vstala, vzala knihu ze stolu a podala mi ji. Přejel jsem rukou po oranžové vazbě – trochu mě zklamalo, že je to obyčejné knihařské plátno, čekal jsem, že tajemná kniha bude vázaná v kůži nebo pergamenu – a pak jsem ji rozevřel: díval jsem se na prázdnou dvojstránku; a kdekoliv jsem knihu otevřel, viděl jsem jen bílý nepotištěný papír. Vrátil jsem se na začátek a otáčel stránku za stránkou, ale nenašel jsem v knize jediné slovo, jediné písmeno. Vrátil jsem knihu Viole a ta ji opět položila na psací stůl. V mysli mi vytanula slova o knize s mizícími písmeny, která na Bernetově zahradě zpívala Barbora. Zabořil jsem se zase do pohovky a neptal se už na nic; věděl jsem, že knihu beze slov bude moci vysvětlit až celý příběh, který se mi Viola rozhodla vyprávět, a byl jsem ochoten poslouchat třeba několik dní.
+
+</section>

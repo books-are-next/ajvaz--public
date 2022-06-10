@@ -3,13 +3,23 @@ title: 8\. kapitola Kovové postavy
 contentType: prose
 ---
 
+<section>
+
 „Kulhánkovi synovi bylo v osmačtyřicátém roce šest let. Tak díky otcově naivní naději v obnovu rodinného podniku prožil dětství v prostoru, který mu všichni spolužáci záviděli – mezi sedmi osamělými vertikálními částmi stroje, které stály u zdi jako sedm tajemných postav. Pro Kulhánka to byly živé bytosti a každou z nich nějak pojmenoval podle toho, co mu tvar stroje připomínal. Tak u jedné kratší zdi obdélníkového pokoje stál Apač – to bylo čerpadlo s aerátorem, připomínajícím indiánskou čelenku – a vedle něho Květinářka, u druhé kratší zdi Loutkář, u delší zdi stáli Ptáčník a Soudce, naproti Soudci stál Rádža a naproti Ptáčníkovi zamyšlený Vynálezce. V dobách, kdy bylo celé zařízení ještě v chodu, proudila voda z jeskyně potrubím od Apače k Ptáčníkovi, Soudci a Loutkáři; v jeho útrobách se proměňovala v kaši, která se prodírala trubkou k Rádžovi, v jehož horní části, která byla pro Kulhánka turbanem, se sušila, stával se z ní prášek; ten se sypal šikmou skleněnou trubkou samospádem k Vynálezci, kde se ještě čistil, a od něho ke Květinářce; v jejím středu byl otvor, ten nakonec vychrlil hotový prášek do porcelánové nádoby; pak se zásyp rozděloval do krabiček s obrázkem Venuše a Tannhäusera.“
 
 „Jak jste to říkala? Od Apače k Loutkáři a od Loutkáře k Taneč­nici?“
 
 Viola místo odpovědi doběhla ke klavíru, vzala z jeho desky list notového papíru a nakreslila na jeho rub schéma Kulhánkova stroje:
 
+</section>
+
+<section>
+
 ![](../Images/9600-9.jpg)
+
+</section>
+
+<section>
 
 „Matka Pascalova známého vyčítala staršímu Kulhánkovi, že nechává syna žít ve strašidelném paláci a že to bude mít vliv na jeho duševní zdraví; ale nejmladší Kulhánek jednak už v dětství tušil, že to, čemu dospělí říkají ‚duševní zdraví‘, není třeba brát až tak vážně, a jednak nikdy necítil ze sedmi kovových postav sebemenší strach, byli to jeho přátelé, ochránci a důvěrníci. Jeho postel byla zasunutá do mezery mezi Vynálezcem a Rádžou; a tak když se v noci probouzel, viděl u svých nohou obrys tmavé štíhlé postavy, na jejímž horním konci se odrážela světla venkovní lucerny – to byly safíry a rubíny, zasazené do turbanu –; Rádža už byl vzhůru, protože se chystal vyrazit ještě za tmy do džungle na lov tygrů; a když Kulhánek zvedl hlavu, zahlédl nad sebou zamyšlenou postavu, jež se právě zaobírala konstrukcí dopravního prostředku, který by byl zároveň automobilem, letadlem a ponorkou.
 
@@ -48,3 +58,5 @@ Tannhäuserův rituál mi popsal nejdřív v New Yorku Vga Ú, později mi o n
 „Jak dlouho celé představení trvalo?“
 
 „Tanec strojů trval dvě hodiny. A během jeho sledování si Pascal uvědomil, že zásyp by měl mít takové vlastnosti, že by se dal dobře využít k přípravě mizících laků. A tak když se prášek vysypal do nádoby, navrhl Kulhánkovi změnu scénáře představení; poprosil ho, aby upustil od závěrečné scény na zahradě a věnoval mu zásyp k experimentům. Kulhánek nic nenamítal, byl rád, že se Pascalovi může nějak odvděčit za všechno, co pro něj udělal. Pascal pak s pomocí Tannhäuserova zásypu připravil lak, nazval jej Tannhäuserovým inkoustem a přinesl jej Valerii pro její román. Tannhäuserův inkoust měl tmavozelenou barvu, měl však po měsíci zprůsvitnět a pak už zůstat navždy neviditelný.“
+
+</section>

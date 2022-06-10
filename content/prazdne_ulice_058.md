@@ -3,6 +3,8 @@ title: "53\\. kapitola Rozhovor u\_bazénu"
 contentType: prose
 ---
 
+<section>
+
 Nějakou chvíli jsme všichni mlčeli. Díval jsem se s přimhouřenýma očima na světlo, které se blyštělo na vlnách bazénu, poslouchal jsem jejich šplouchání. Nakonec jsem řekl: „Myslím, že jsme všichni v příběhu poznali nějakou příbuznost s našimi záležitostmi. Abych pravdu řekl, nevím, co si mám o tom myslet. Příběh nám může něco napovědět, ale také to může být jedna z falešných stop, která nás svede z cesty.“
 
 „Anebo jednomu z nás napoví a druhého svede z cesty,“ podotkla Andrea.
@@ -66,3 +68,5 @@ Dívky vstaly z lehátek, každá z nich vzala Berneta za jednu ruku. Viděl j
 Bernet a dívky mě doprovázeli po trávníku k bráně. Když jsme se k ní přiblížili, bezhlesně se rozevřela, a když jsem stál na chodníku, zase se za mnou s tichounkým klapnutím zavřela. Otočil jsem se, Bernet a dívky stáli na trávníku za mřížovím brány a mávali mi. Zamával jsem také; dívky běžely zpátky k bazénu, Bernet ještě chvíli zůstal stát za mříží. Dívali jsme se na sebe mlčky a s úsměvem; přemýšlel jsem, jaký osud asi čeká toho laskavého imoralistu a nepraktického selfmademana, uvažoval jsem, jestli najde svůj poklad a jestli se mu podaří zachránit své jmění. Moc nadějí jsem mu nedával ani v jednom z obou případů. Bernet jednou zaváhal na závratné hrazdě a připadalo mi takřka nemožné, že by znovu našel někdejší lehkost.
 
 Přemýšlel jsem také o tom, jestli s ním zůstanou jeho dívky. Zdálo se mi, že kdyby ho opustily, Bernet ztratí chuť hledat poklad i zachraňovat svůj majetek. Snad se bude postupně uzavírat do sebe a nakonec se z něho stane opět mlčenlivé zasněné dítě, které kdysi znal architekt, snad bude zase žít v nějakém kumbálu a jeho milionářský život v bílé vile mu bude připadat jako sen. Dívky sice tvrdily, že ho nikdy neopustí, a jistě tomu samy věřily, ale zdálo se mi, že léta všedního života a každodenních nudných starostí pro ně budou příliš těžkou zkouškou. Je také docela možné, že s ním zůstane jen jedna z nich; myslel jsem na to, jestli to bude spíš prudká Andrea nebo chápající Barbora. Bernet stál pořád mlčky na druhé straně mříže; snad přemýšlel o mém budoucím osudu tak jako já o jeho. Pak jsme se na sebe ještě jednou usmáli, zamávali si a každý jsme šli svou cestou; Bernet se vracel za dívkami k vile a já zamířil dolů ke konečné tramvaje.
+
+</section>
