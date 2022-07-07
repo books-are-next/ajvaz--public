@@ -133,7 +133,7 @@ zpívala Barbora,
 
 <section>
 
-              _„na ostrově jsme sice dokázali  
+            _„na ostrově jsme sice dokázali  
 kvantifikovat projevy této síly, a přesto  
 ji nikdo z nás nikdy zcela nepochopil.  
 A přitom nevyhasla ani na souši;  

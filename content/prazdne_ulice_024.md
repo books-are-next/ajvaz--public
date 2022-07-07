@@ -17,8 +17,16 @@ Brzy jsem našel kompaktní disk, na jehož obalu bylo světlefialovými písmen
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Vhlm Čj  
 DVĚ SKLADBY_
+
+</div>
+
+</div>
 
 </section>
 
