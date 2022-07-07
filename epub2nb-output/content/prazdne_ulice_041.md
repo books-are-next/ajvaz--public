@@ -13,9 +13,17 @@ Nejvíc byl Bernet pochopitelně zvědavý na předměty vystavené na třech po
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _OLEPOP  
 VADVAC  
 TSEŠTE_
+
+</div>
+
+</div>
 
 </section>
 

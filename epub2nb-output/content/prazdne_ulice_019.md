@@ -13,8 +13,16 @@ Jako filmové klipy přede mnou vyvstávaly scény z malířova vyprávění; r
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Jiří Zajíc  
 NOČNÍ PÍSMENA_
+
+</div>
+
+</div>
 
 > _Byla letní noc, Tomáš nemohl spát, ještě dlouho po půlnoci se převaloval ze strany na stranu na velké manželské posteli. Jeho žena odjela s dětmi na prázdniny a Tomáš nebyl zvyklý být v noci sám; ke všemu ještě bylo nesnesitelné horko. Odhodil přikrývku, posadil se na posteli v temné místnosti a díval se otevřeným oknem na město, v jehož ulicích už svítily jen pouliční lampy a barevné neony. Chtěl rozsvítit lampu a chvíli si něco číst, aby odehnal dotěrné myšlenky a mohl konečně usnout, ale pak si uvědomil, že by za chvíli uslyšel protivné pískání komárů a zmatené drnčení můr. A tak vzal z poličky nad postelí triedr a přiložil jej k očím; pomalu jím pohyboval sem a tam a v okuláru se objevovala stále nová barevná slova neonových nápisů._
 

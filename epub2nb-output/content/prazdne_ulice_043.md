@@ -61,17 +61,51 @@ Podíval jsem se na hodinky; bylo tři čtvrti na jedenáct; nechtělo se mi vra
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 __Medúzy minulosti__
 
-Fragment opery neznámého autora 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
+Fragment opery neznámého autora
+
+</div>
+
+</div>
+
+ 
+
+<div class="centered">
+
+<div class="verse">
 
 Obsazení:
+
+</div>
+
+</div>
 
 > Vědec-exulant, asi 55 let  Barbora Bernetová
 
 > Jeho žena, asi 35 let  Andrea Bernetová
 
+<div class="centered">
+
+<div class="verse">
+
 Hudba: Flétna, lyra, zvonky.
+
+</div>
+
+</div>
 
 </section>
 

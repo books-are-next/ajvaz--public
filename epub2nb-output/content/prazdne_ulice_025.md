@@ -31,7 +31,15 @@ A prodavač napsal na bílý okraj jednoho z papírů vzorec:
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _0 < EF < 0,1C_
+
+</div>
+
+</div>
 
 </section>
 
