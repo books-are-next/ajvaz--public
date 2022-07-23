@@ -11,10 +11,10 @@ Andrea teď zpívala:
 
 <section>
 
-_„Muselo být smutné,  
+„Muselo být smutné,  
 když jste u ohně v horách debatovali  
 o vědeckých otázkách, zatímco dole  
-hořely univerzitní budovy…“_
+hořely univerzitní budovy…“
 
 </section>
 
@@ -26,7 +26,7 @@ Muž odpověděl zamyšleně:
 
 <section>
 
-_„Ano, ale v horách jsme také zpočátku  
+„Ano, ale v horách jsme také zpočátku  
 zažili období, kdy se rozestřel  
 jakýsi chladný jas,  
 v němž se lehce rodily  
@@ -40,7 +40,7 @@ mezi tmavými kmeny stromů
 byla lampou přinášející nové světlo.  
 Necítili jsme žádnou lítost  
 nad knihami a rukopisy,  
-které se dole proměňovaly v dým.“_
+které se dole proměňovaly v dým.“
 
 </section>
 
@@ -52,7 +52,7 @@ Vědec začal neklidně přecházet po místnosti. Zdálo se, že se dostal k v
 
 <section>
 
-_„Dodnes to příliš nechápu.  
+„Dodnes to příliš nechápu.  
 Jako by se nové myšlenky zaleskly  
 v holé půdě, která se obnažila  
 poté, co plameny zoufalství  
@@ -86,7 +86,7 @@ s kterými jsme si na terasách ostrova
 ve šťastné době legitimní vlády  
 radostně pohazovali jako s míčem,  
 a nikoho nenapadlo,  
-že by měly někomu z nás patřit.“_
+že by měly někomu z nás patřit.“
 
 </section>
 
@@ -98,11 +98,11 @@ a nikoho nenapadlo,
 
 <section>
 
-_„Nemysli už na ostrov.  
+„Nemysli už na ostrov.  
 Venku už polevilo vedro,  
 půjdeme se projít podél řeky  
 anebo si na chvíli sedneme  
-do zahradní restaurace…“_
+do zahradní restaurace…“
 
 </section>
 
@@ -114,7 +114,7 @@ Muž byl ale stále ponořený do vzpomínek, zdálo se, že ženu vůbec nesly�
 
 <section>
 
-_„Pořád se vracejí zlé obrazy;  
+„Pořád se vracejí zlé obrazy;  
 ať se podívám kamkoliv,  
 vystupují ze zdí, ze spleti větví.  
 Obličeje neznámých lidí na ulici  
@@ -122,7 +122,7 @@ se proměňují v dávné tváře,
 jako by tomu nebylo už dvacet let,  
 co jsem se z paluby rybářského člunu  
 naposledy díval na svahy ostrova  
-rozpouštějící se v oparu žhavého poledne.“_
+rozpouštějící se v oparu žhavého poledne.“
 
 </section>
 
@@ -134,7 +134,7 @@ Urbooceanolog přecházel po pokoji stále neklidněji; jeho žena se opřela o�
 
 <section>
 
-_„Když v noci zhasnu a zavřu oči,  
+„Když v noci zhasnu a zavřu oči,  
 vidím stále tytéž scény, vidím,  
 jak večer před bitkou v Bílé soutěsce  
 Mario napadl Rufia. Křičel na něj,  
@@ -204,7 +204,7 @@ v knize vytištěné neviditelnou barvou,
 v níž se jen čas od času  
 vynoří skupina písmen  
 jako vzdálené holé stromy v mlze  
-a zase zmizí…“_
+a zase zmizí…“
 
 </section>
 
@@ -216,10 +216,10 @@ Během svého monologu urbooceanolog pořád přecházel po místnosti a žena 
 
 <section>
 
-_„Lauře pokoje splývaly s podmořskými jeskyněmi, říkala, že už neví,  
+„Lauře pokoje splývaly s podmořskými jeskyněmi, říkala, že už neví,  
 jestli svůj život prožila  
 v rušných městech, nebo na dně oceánu,  
-jestli tváře, jež znala…“_
+jestli tváře, jež znala…“
 
 </section>
 

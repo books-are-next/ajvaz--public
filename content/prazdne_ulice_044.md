@@ -25,7 +25,7 @@ Po chvíli Andrea odložila časopis a obrátila se k Barboře stojící u ok
 
 <section>
 
-_„Včera mi představili  
+„Včera mi představili  
 mladého vědce, který píše habilitační práci  
 o tvé knize The City and the Ocean.  
 Už léta má tvou fotografii pověšenou  
@@ -36,7 +36,7 @@ Myslel si, že jsi dávno mrtvý.
 Když se nedávno dozvěděl,  
 že jsi nezemřel, že žiješ  
 ve stejném městě jako on,  
-nechtěl tomu věřit.“_
+nechtěl tomu věřit.“
 
 </section>
 
@@ -48,7 +48,7 @@ Andrein hlas se mi líbil. Zpívala tiše, její zpěv mi zprvu připadal stejn�
 
 <section>
 
-_„Ani se neodvážil,“_
+„Ani se neodvážil,“
 
 </section>
 
@@ -60,9 +60,9 @@ pokračovala Andrea,
 
 <section>
 
-_„požádat o rozhovor s tebou,  
+„požádat o rozhovor s tebou,  
 i když jsem viděla,  
-že po ničem jiném tak netouží.“_
+že po ničem jiném tak netouží.“
 
 </section>
 
@@ -74,7 +74,7 @@ Barbora se během Andreina zpěvu otočila od okna. Opřela se o namalovanou ok
 
 <section>
 
-_„Nevím, jestli bych mu mohl pomoci.  
+„Nevím, jestli bych mu mohl pomoci.  
 Na ostrově jsme o těch věcech  
 něco tušili. Když růžové světlo slunce  
 vycházejícího nad mořem  
@@ -87,7 +87,7 @@ věděli jsme, že jsou
 nevyvratitelné. Ale dnes,  
 dnes mi vše připadá tak nejisté,  
 zdá se mi, že řetězce bezchybných důkazů  
-se trhají jako vetchá tkanina…“_
+se trhají jako vetchá tkanina…“
 
 </section>
 
@@ -99,7 +99,7 @@ Barbořin hlas byl ještě tišší než Andrein; byl tak tichý, že se do jej�
 
 <section>
 
-_„Bolí mě, když takhle mluvíš,“_
+„Bolí mě, když takhle mluvíš,“
 
 </section>
 
@@ -111,7 +111,7 @@ _„Bolí mě, když takhle mluvíš,“_
 
 <section>
 
-_„čas vždycky rozpouští pevné tvary  
+„čas vždycky rozpouští pevné tvary  
 a zvolna nechává unikat smysl ze slov.  
 Ale i vyprahlé věty, kde cáry dávného smyslu  
 jen tu a tam chabě povlávají nad slovy  
@@ -120,7 +120,7 @@ nad věžemi mlčenlivého, opuštěného města,
 jsou stále ještě svědectvím  
 zaniklé nádhery a slávy  
 a můžeme jimi bloudit s dojetím a úctou,  
-jako vítězové.“_
+jako vítězové.“
 
 </section>
 
@@ -132,7 +132,7 @@ Vědec se pořád díval na podlahu, odmítavě vrtěl hlavou, ale svou ženu ne
 
 <section>
 
-_„Říkáš, že slavné zákony oněměly,  
+„Říkáš, že slavné zákony oněměly,  
 když se do jejich slov už nemísí  
 zpěv mořských ptáků – copak neslyšíš,  
 že kdykoliv vyslovíš stará slova,  
@@ -141,7 +141,7 @@ křik racků a kormoránů? Neslyšíš,
 jak se do jejich zvuku mísí  
 šumění příboje? Šťastné zvuky ostrova  
 se budou s dávnými slovy  
-vracet stále znovu.“_
+vracet stále znovu.“
 
 </section>
 
@@ -153,6 +153,6 @@ Vědec zvedl hlavu; Barbora zazpívala jeho tichou odpověď:
 
 <section>
 
-_„Přízraky. To všechno jsou jen přízraky…“_
+„Přízraky. To všechno jsou jen přízraky…“
 
 </section>
