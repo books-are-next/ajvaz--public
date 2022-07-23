@@ -98,7 +98,7 @@ tocBase:
   - id: section-1
     children:
       - link: prazdne_ulice_005.html
-        title: První část Dvojitý trojzubec
+        title: 'První část: Dvojitý trojzubec'
         hiddenTitle: false
         children:
           - link: prazdne_ulice_006.html
@@ -274,7 +274,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: prazdne_ulice_063.html
-        title: Druhá část Pokoj u trati
+        title: 'Druhá část: Pokoj u trati'
         hiddenTitle: false
         children:
           - link: prazdne_ulice_064.html

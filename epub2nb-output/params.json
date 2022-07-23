@@ -96,6 +96,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "První část: Dvojitý trojzubec",
             "children": [
               {
                 "filename": "prazdne_ulice_006.md",
@@ -107,8 +108,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1. kapitola Psací stůl"
+                "title": "1. kapitola Psací stůl",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_007.md",
@@ -120,8 +121,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2. kapitola Na skládce"
+                "title": "2. kapitola Na skládce",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3. kapitola Světelný had"
+                "title": "3. kapitola Světelný had",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4. kapitola Zjevení ve vile"
+                "title": "4. kapitola Zjevení ve vile",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5. kapitola Portrét"
+                "title": "5. kapitola Portrét",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_011.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6. kapitola Fotografie z New Yorku"
+                "title": "6. kapitola Fotografie z New Yorku",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_012.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7. kapitola Snící hroch"
+                "title": "7. kapitola Snící hroch",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_013.md",
@@ -198,8 +199,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8. kapitola Dvory"
+                "title": "8. kapitola Dvory",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_014.md",
@@ -211,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9. kapitola Frankensteinova milenka"
+                "title": "9. kapitola Frankensteinova milenka",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_015.md",
@@ -224,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10. kapitola Balík na dně zásuvky"
+                "title": "10. kapitola Balík na dně zásuvky",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_016.md",
@@ -237,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11. kapitola Dominikovy obrazy"
+                "title": "11. kapitola Dominikovy obrazy",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_017.md",
@@ -250,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12. kapitola Zvěd"
+                "title": "12. kapitola Zvěd",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_018.md",
@@ -263,8 +264,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13. kapitola Vynález zkázy"
+                "title": "13. kapitola Vynález zkázy",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_019.md",
@@ -276,8 +277,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14. kapitola Ženy z papíru"
+                "title": "14. kapitola Ženy z papíru",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_020.md",
@@ -289,8 +290,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15. kapitola Starosti vedoucího sběrny"
+                "title": "15. kapitola Starosti vedoucího sběrny",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_021.md",
@@ -302,8 +303,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16. kapitola Nereus"
+                "title": "16. kapitola Nereus",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_022.md",
@@ -315,8 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17. kapitola Modrý papoušek"
+                "title": "17. kapitola Modrý papoušek",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_023.md",
@@ -328,8 +329,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18. kapitola Mořská sasanka"
+                "title": "18. kapitola Mořská sasanka",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_024.md",
@@ -341,8 +342,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "19. kapitola Tam-tam"
+                "title": "19. kapitola Tam-tam",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_025.md",
@@ -354,8 +355,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "20. kapitola Bílý triangl"
+                "title": "20. kapitola Bílý triangl",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_026.md",
@@ -367,8 +368,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "21. kapitola Oranžová kniha"
+                "title": "21. kapitola Oranžová kniha",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_027.md",
@@ -380,8 +381,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "22. kapitola Setkání"
+                "title": "22. kapitola Setkání",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_028.md",
@@ -393,8 +394,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "23. kapitola Dvě skladby"
+                "title": "23. kapitola Dvě skladby",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_029.md",
@@ -406,8 +407,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "24. kapitola Ve vrátnici"
+                "title": "24. kapitola Ve vrátnici",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_030.md",
@@ -419,8 +420,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "25. kapitola Zánik athénské Akademie"
+                "title": "25. kapitola Zánik athénské Akademie",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_031.md",
@@ -432,8 +433,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "26. kapitola Dionysios v Persii"
+                "title": "26. kapitola Dionysios v Persii",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_032.md",
@@ -445,8 +446,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "27. kapitola Divokým Afghánistánem"
+                "title": "27. kapitola Divokým Afghánistánem",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_033.md",
@@ -458,8 +459,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "28. kapitola Objevy v chrámu"
+                "title": "28. kapitola Objevy v chrámu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_034.md",
@@ -471,8 +472,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "29. kapitola Zrození kosmu z Horečky"
+                "title": "29. kapitola Zrození kosmu z Horečky",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_035.md",
@@ -484,8 +485,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "30. kapitola Návrat do Londýna"
+                "title": "30. kapitola Návrat do Londýna",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_036.md",
@@ -497,8 +498,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "31. kapitola Kamery nad branou"
+                "title": "31. kapitola Kamery nad branou",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_037.md",
@@ -510,8 +511,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "32. kapitola Na konečné tramvaje"
+                "title": "32. kapitola Na konečné tramvaje",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_038.md",
@@ -523,8 +524,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "33. kapitola Ztracený poklad kapitána Bustrofedona"
+                "title": "33. kapitola Ztracený poklad kapitána Bustrofedona",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_039.md",
@@ -536,8 +537,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "34. kapitola Zrození multimilionáře"
+                "title": "34. kapitola Zrození multimilionáře",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_040.md",
@@ -549,8 +550,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "35. kapitola Cesta do Garmisch-Partenkirchenu"
+                "title": "35. kapitola Cesta do Garmisch-Partenkirchenu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_041.md",
@@ -562,8 +563,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "36. kapitola Rusovláska a drak"
+                "title": "36. kapitola Rusovláska a drak",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_042.md",
@@ -575,8 +576,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "37. kapitola Cesta na slavnost"
+                "title": "37. kapitola Cesta na slavnost",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_043.md",
@@ -588,8 +589,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "38. kapitola Světla a hlasy"
+                "title": "38. kapitola Světla a hlasy",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_044.md",
@@ -601,8 +602,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "39. kapitola Exulanti"
+                "title": "39. kapitola Exulanti",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_045.md",
@@ -614,8 +615,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "40. kapitola Medúza v ložnici"
+                "title": "40. kapitola Medúza v ložnici",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_046.md",
@@ -627,8 +628,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "41. kapitola Život guerilly"
+                "title": "41. kapitola Život guerilly",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_047.md",
@@ -640,8 +641,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "42. kapitola Čisté světlo"
+                "title": "42. kapitola Čisté světlo",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_048.md",
@@ -653,8 +654,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "43. kapitola Po představení"
+                "title": "43. kapitola Po představení",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_049.md",
@@ -666,8 +667,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "44. kapitola Hádka v altánu"
+                "title": "44. kapitola Hádka v altánu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_050.md",
@@ -679,8 +680,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "45. kapitola Bílý pokoj"
+                "title": "45. kapitola Bílý pokoj",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_051.md",
@@ -692,8 +693,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "46. kapitola Rozprava o světlech"
+                "title": "46. kapitola Rozprava o světlech",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_052.md",
@@ -705,8 +706,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "47. kapitola Kniha nalezená v Amalfi"
+                "title": "47. kapitola Kniha nalezená v Amalfi",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_053.md",
@@ -718,8 +719,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "48. kapitola Santa Rosalia"
+                "title": "48. kapitola Santa Rosalia",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_054.md",
@@ -731,8 +732,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "49. kapitola Výstřely na promenádě"
+                "title": "49. kapitola Výstřely na promenádě",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_055.md",
@@ -744,8 +745,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "50. kapitola Proměna města"
+                "title": "50. kapitola Proměna města",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_056.md",
@@ -757,8 +758,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "51. kapitola Beatriz"
+                "title": "51. kapitola Beatriz",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_057.md",
@@ -770,8 +771,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "52. kapitola Opálový anděl"
+                "title": "52. kapitola Opálový anděl",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_058.md",
@@ -783,8 +784,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "53. kapitola Rozhovor u bazénu"
+                "title": "53. kapitola Rozhovor u bazénu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_059.md",
@@ -796,8 +797,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "54. kapitola V ústavu"
+                "title": "54. kapitola V ústavu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_060.md",
@@ -809,8 +810,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "55. kapitola Zátoka na Folegandru"
+                "title": "55. kapitola Zátoka na Folegandru",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_061.md",
@@ -822,8 +823,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "56. kapitola Požár v sokolovně"
+                "title": "56. kapitola Požár v sokolovně",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_062.md",
@@ -835,11 +836,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "57. kapitola Kavárna na nároží"
+                "title": "57. kapitola Kavárna na nároží",
+                "children": []
               }
-            ],
-            "title": "První část Dvojitý trojzubec"
+            ]
           },
           {
             "filename": "prazdne_ulice_063.md",
@@ -851,6 +851,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Druhá část: Pokoj u trati",
             "children": [
               {
                 "filename": "prazdne_ulice_064.md",
@@ -862,8 +863,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1. kapitola Lesk klavíru"
+                "title": "1. kapitola Lesk klavíru",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_065.md",
@@ -875,8 +876,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2. kapitola Starý slib"
+                "title": "2. kapitola Starý slib",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_066.md",
@@ -888,8 +889,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3. kapitola Bistro v Brooklynu"
+                "title": "3. kapitola Bistro v Brooklynu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_067.md",
@@ -901,8 +902,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4. kapitola Labyrinthos"
+                "title": "4. kapitola Labyrinthos",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_068.md",
@@ -914,8 +915,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5. kapitola Čtyři přátelé"
+                "title": "5. kapitola Čtyři přátelé",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_069.md",
@@ -927,8 +928,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6. kapitola Mizící kniha"
+                "title": "6. kapitola Mizící kniha",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_070.md",
@@ -940,8 +941,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7. kapitola Venuše a Tannhäuser"
+                "title": "7. kapitola Venuše a Tannhäuser",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_071.md",
@@ -953,8 +954,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8. kapitola Kovové postavy"
+                "title": "8. kapitola Kovové postavy",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_072.md",
@@ -966,8 +967,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9. kapitola Alexandrovo bloudění"
+                "title": "9. kapitola Alexandrovo bloudění",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_073.md",
@@ -979,8 +980,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10. kapitola Zánik Oranžové knihy"
+                "title": "10. kapitola Zánik Oranžové knihy",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_074.md",
@@ -992,8 +993,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11. kapitola Rozchod"
+                "title": "11. kapitola Rozchod",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_075.md",
@@ -1005,8 +1006,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12. kapitola Setkání na Naxu"
+                "title": "12. kapitola Setkání na Naxu",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_076.md",
@@ -1018,8 +1019,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13. kapitola Deník Pascala Brisona"
+                "title": "13. kapitola Deník Pascala Brisona",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_077.md",
@@ -1031,8 +1032,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14. kapitola Palác paměti"
+                "title": "14. kapitola Palác paměti",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_078.md",
@@ -1044,8 +1045,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15. kapitola Tanec larev"
+                "title": "15. kapitola Tanec larev",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_079.md",
@@ -1057,8 +1058,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16. kapitola Tannhäuserův návrat"
+                "title": "16. kapitola Tannhäuserův návrat",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_080.md",
@@ -1070,8 +1071,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17. kapitola Julie"
+                "title": "17. kapitola Julie",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_081.md",
@@ -1083,8 +1084,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18. kapitola Útěk"
+                "title": "18. kapitola Útěk",
+                "children": []
               },
               {
                 "filename": "prazdne_ulice_082.md",
@@ -1096,11 +1097,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "19. kapitola Zjevení u garáží"
+                "title": "19. kapitola Zjevení u garáží",
+                "children": []
               }
-            ],
-            "title": "Druhá část Pokoj u trati"
+            ]
           },
           {
             "filename": "prazdne_ulice_083.md",
@@ -1750,6 +1750,6 @@
       "user": "books-are-next",
       "repo": "ajvaz-prazdne-ulice"
     },
-    "generatedAt": 1658578643183
+    "generatedAt": 1658579224956
   }
 }
