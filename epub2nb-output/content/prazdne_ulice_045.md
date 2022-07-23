@@ -11,7 +11,7 @@ Muž a žena chvíli mlčeli, ticho vyplňovala jen monotónní hudba. Andrea p
 
 <section>
 
-_„Copak jsi opravdu zapomněl, kým jsi byl,  
+„Copak jsi opravdu zapomněl, kým jsi byl,  
 kým nepřestáváš být,  
 i když teď celé dny stojíš u okna  
 a pozoruješ fasádu protějšího domu  
@@ -22,7 +22,7 @@ o vztazích mezi městskými prostory
 a mořským dnem, že jsi býval ředitelem  
 urbooceanologického ústavu  
 a rektorem ostrovní univerzity,  
-kterého studenti bezmezně milovali?“_
+kterého studenti bezmezně milovali?“
 
 </section>
 
@@ -34,7 +34,7 @@ Ocenil jsem, jak autor libreta prostřednictvím výčitek ženy dovedně divák
 
 <section>
 
-_„Zapomněl jsi na krásné dny,  
+„Zapomněl jsi na krásné dny,  
 kdy jsi přednášel v největší posluchárně,  
 která byla vždy přeplněná?  
 Stál jsi před skleněnou stěnou, v níž jiskřila  
@@ -43,7 +43,7 @@ sám vládce přicházel na tvé přednášky,
 skromně usedal mezi studenty  
 a zapisoval si tvé myšlenky,  
 v tichu, v němž byl slyšet jen tvůj hlas  
-a šumění moře za otevřeným oknem.“_
+a šumění moře za otevřeným oknem.“
 
 </section>
 
@@ -55,7 +55,7 @@ Ve chvíli, kdy se žena zmínila o ostrově, se ráz hudby změnil; poprvé od
 
 <section>
 
-_„Zapomněl jsi, že tvé Město a oceán  
+„Zapomněl jsi, že tvé Město a oceán  
 bylo přeložené do dvaatřiceti jazyků?  
 Copak to všechno byl jen sen?  
 Tvá kniha pro nás zářila jako maják  
@@ -70,7 +70,7 @@ neexistuje. Vzpomínám,
 jak jsme tajně opisovali  
 tvou knihu, a šťastlivci, kteří ji vlastnili,  
 ji v nejistých dnech schovávali  
-v hloubce knihovny.“_
+v hloubce knihovny.“
 
 </section>
 
@@ -82,7 +82,7 @@ Zatímco lyra a zvonky ještě zachovávaly tóninu moře a ostrovního štěs
 
 <section>
 
-_„Přeháníš, uznávám, že v té knize  
+„Přeháníš, uznávám, že v té knize  
 je pár dobrých myšlenek, ale psal jsem ji  
 narychlo, jen jako učební pomůcku  
 pro své studenty. Je v ní hodně nehotového,  
@@ -93,7 +93,7 @@ ale pak končí jako rozměklá,
 bažinatá cesta, ztrácející se v polích.  
 Bylo by potřeba se ke knize ještě vrátit  
 a všechno důkladně znovu promyslet.  
-Snad se toho jednou někdo ujme.“_
+Snad se toho jednou někdo ujme.“
 
 </section>
 
@@ -105,7 +105,7 @@ Snad se toho jednou někdo ujme.“_
 
 <section>
 
-_„Ne, já už ne,“_
+„Ne, já už ne,“
 
 </section>
 
@@ -117,7 +117,7 @@ zpívala Barbora,
 
 <section>
 
-_„už nemám sílu vracet se  
+„už nemám sílu vracet se  
 k vytištěným slovům a k bělobě papíru  
 mezi písmeny, v níž se rýsují  
 jako tvary rozlámaného nářadí  
@@ -145,7 +145,7 @@ zapisoval nové výpočty. Dodnes věřím,
 že jsem byl tenkrát blízko  
 definitivnímu tvaru velké rovnice,  
 která by exaktně vyjadřovala vztah  
-mezi interiéry města a životem na mořském dně.“_
+mezi interiéry města a životem na mořském dně.“
 
 </section>
 
@@ -157,10 +157,10 @@ Lyra a zvonky se postupně připojily k melodii flétny, která zřejmě evoko
 
 <section>
 
-_„Bylo by pak opravdu možné  
+„Bylo by pak opravdu možné  
 vypočítat, s jakými mořskými živočichy  
 jsou příbuzné věci našeho světa,  
-odhalit záhadu jejich mořského původu?“_
+odhalit záhadu jejich mořského původu?“
 
 </section>
 
@@ -172,13 +172,13 @@ Zdálo se, že vzpomínky na bádání, kterému kdysi věnoval všechny své s�
 
 <section>
 
-_„Bylo by možné ještě víc,  
+„Bylo by možné ještě víc,  
 mohli bychom ve chvílích zoufalství  
 přivolat modravou světélkující medúzu,  
 jež by se vznášela v zešeřelém pokoji  
 před tapetami a skříněmi  
 jako definitivní útěcha,  
-kterou už nic nemůže ohrozit…“_
+kterou už nic nemůže ohrozit…“
 
 </section>
 
@@ -190,14 +190,14 @@ kterou už nic nemůže ohrozit…“_
 
 <section>
 
-_„Představuji si, jak proplouvá  
+„Představuji si, jak proplouvá  
 pokojem, jak se k ní druží  
 a hned zase mizí  
 její svítící obraz v oválných  
 zrcadlech na dveřích šatníku.  
 Pak už by nebyl zapotřebí žádný alkohol,  
 nebylo by už třeba snít  
-žádné sny o ostrovních terasách…“_
+žádné sny o ostrovních terasách…“
 
 </section>
 

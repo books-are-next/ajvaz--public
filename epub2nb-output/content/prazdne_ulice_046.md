@@ -11,7 +11,7 @@ Když melodie líčící tanec medúzy skončila, obrátila se žena na urboocea
 
 <section>
 
-_„Mladý vědec, s nímž jsem mluvila,  
+„Mladý vědec, s nímž jsem mluvila,  
 ve své práci obhajoval tezi,  
 že nejprve existovaly  
 věci a prostory města a ty pak  
@@ -21,7 +21,7 @@ mořského dna. Ve své práci
 například píše, že knihovny  
 v pokojích s okny do zahrady  
 pravděpodobně ovlivnily podobu  
-podmořských korálových útesů.“_
+podmořských korálových útesů.“
 
 </section>
 
@@ -33,7 +33,7 @@ Bylo zřejmé, že žena se snaží vytrhnout svého muže z netečnosti, ve kt
 
 <section>
 
-_„O tom jsme hodně diskutovali,  
+„O tom jsme hodně diskutovali,  
 na univerzitě a pak ještě v horách.  
 Mario se také přikláněl  
 k teorii městského původu  
@@ -41,7 +41,7 @@ podmořských útvarů.
 Vzpomínám na jeho hádky  
 s Rufiem, který zastával myšlenku,  
 že naopak městské věci pocházejí  
-z mořského dna.“_
+z mořského dna.“
 
 </section>
 
@@ -53,8 +53,8 @@ z mořského dna.“_
 
 <section>
 
-_„Která z obou teorií  
-je podle tebe správná?“_
+„Která z obou teorií  
+je podle tebe správná?“
 
 </section>
 
@@ -66,7 +66,7 @@ Vědec se zamyslel, pak odpověděl:
 
 <section>
 
-_„Pravda bude nejspíš někde uprostřed,  
+„Pravda bude nejspíš někde uprostřed,  
 při vzniku města a při utváření mořského dna  
 patrně docházelo k oboustrannému ovlivňování, a tak je moře snem o městech, město  
 snem o oceánu.  
@@ -94,7 +94,7 @@ A o podmořském původu stolních lamp
 se mezi seriózními vědci  
 vlastně nepochybovalo nikdy;  
 i pavěda, která dnes vládne na ostrově  
-a která lastury-krabičky prohlašuje za podvrh, o tomto tématu raději mlčí.“_
+a která lastury-krabičky prohlašuje za podvrh, o tomto tématu raději mlčí.“
 
 </section>
 
@@ -106,7 +106,7 @@ Tlustý muž navlečený do úboru z černé šustivé látky odcházel pryč a
 
 <section>
 
-_„Ano, krásně jsi ve své knize popsal  
+„Ano, krásně jsi ve své knize popsal  
 na nezapomenutelných řádcích,  
 které už nikdo nevymaže z dějin vědy,  
 jak se v hlubinách moře  
@@ -121,7 +121,7 @@ která v nich rozsvěcela světlo
 a která je vyháněla na souš?  
 Byla to trýzeň, nebo  
 neznámá podmořská radost?“  
-„Nevím,“_
+„Nevím,“
 
 </section>
 
@@ -133,7 +133,7 @@ zpívala Barbora,
 
 <section>
 
-            _„na ostrově jsme sice dokázali  
+            „na ostrově jsme sice dokázali  
 kvantifikovat projevy této síly, a přesto  
 ji nikdo z nás nikdy zcela nepochopil.  
 A přitom nevyhasla ani na souši;  
@@ -156,7 +156,7 @@ s tichým šuměním vsákne
 do spár mezi dlaždičkami,  
 vsají ji žíznivé koberce  
 a třásně závěsů, jež v nočním vánku  
-šátrají po parketách.“_
+šátrají po parketách.“
 
 </section>
 
@@ -168,7 +168,7 @@ Ale vědec se nedokázal nadlouho odpoutat od šťastných i bolestných ostrov
 
 <section>
 
-_„Mario s Rufiem se přeli o svých teoriích  
+„Mario s Rufiem se přeli o svých teoriích  
 ještě na terase ústavu, nad hladinou moře,  
 nad orosenými sklenicemi s barevnými koktejly.  
 V horách se ale všechno změnilo,  
@@ -180,7 +180,7 @@ kdy už nikdo z nás nevěděl,
 jestli ještě bojujeme, nebo už jen  
 bloudíme lesy jako zmatená zvířata  
 a větříme mořský břeh,  
-který by nás mohl zachránit…“_
+který by nás mohl zachránit…“
 
 </section>
 
@@ -192,10 +192,10 @@ který by nás mohl zachránit…“_
 
 <section>
 
-_„Vyprávěl jsi mi, že napětí,  
+„Vyprávěl jsi mi, že napětí,  
 které mezi těma dvěma vládlo,  
 pramenilo víc než z vědeckých sporů  
-z toho, že oba milovali Leonoru…“_
+z toho, že oba milovali Leonoru…“
 
 </section>
 
@@ -207,7 +207,7 @@ z toho, že oba milovali Leonoru…“_
 
 <section>
 
-_„Když Leonora zemřela v Bílé rokli,  
+„Když Leonora zemřela v Bílé rokli,  
 doufal jsem, že se Mario s Rufiem smíří.  
 Ale nenáviděli se ještě víc.  
 Pak jsme se ztratili.  
@@ -219,13 +219,13 @@ proniknout obklíčením a dostat se k pobřeží.
 Patřili však k těm několika, kteří  
 pochod k moři přežili,  
 a oba se po čase vynořili  
-na kontinentálních univerzitách.“_
+na kontinentálních univerzitách.“
 
 </section>
 
 <section>
 
-_„Smířili se alespoň potom?“_
+„Smířili se alespoň potom?“
 
 </section>
 
@@ -239,7 +239,7 @@ Barbora v roli vědce zpívala:
 
 <section>
 
-_„Slyšel jsem, že jejich nenávist nevyhasla  
+„Slyšel jsem, že jejich nenávist nevyhasla  
 ani v přednáškových sálech  
 a na konferencích.  
 Nechci o tom nic vědět,  
@@ -253,7 +253,7 @@ z počátku války. To ostatní
 je jen špatný vtip osudu,  
 na který můžeme zapomenout,  
 jenom sen, který nemá platnost  
-a jehož obrazy brzy zaniknou.“_
+a jehož obrazy brzy zaniknou.“
 
 </section>
 
