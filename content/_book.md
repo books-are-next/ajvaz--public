@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2685-0
 readingOrder:
   - promo.html
   - prazdne_ulice_005.html
