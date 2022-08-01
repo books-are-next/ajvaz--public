@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ajvaz-prazdne-ulice-162edde",
-  "revision": "162edde",
+  "identifier": "ajvaz-prazdne-ulice-687af65",
+  "revision": "687af65",
   "readingOrder": [
     "promo.html",
     "prazdne_ulice_005.html",
@@ -93,8 +93,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Jul 23 2022 12:29:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658579342488
+    "date": "Mon Aug 01 2022 13:25:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659360350303
   },
   "documents": [
     {
@@ -1672,9 +1672,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 130,
-      "chars": 842,
-      "ideas": 15,
+      "words": 134,
+      "chars": 878,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "prazdne_ulice_082.html",
@@ -1692,9 +1692,9 @@
   ],
   "totals": {
     "all": {
-      "words": 132340,
-      "chars": 797598,
-      "ideas": 2044
+      "words": 132344,
+      "chars": 797634,
+      "ideas": 2045
     },
     "chapters": {
       "words": 132204,
