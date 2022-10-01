@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "ajvaz-prazdne-ulice-36e5a46",
-  "revision": "36e5a46",
+  "identifier": "ajvaz-prazdne-ulice-4ca526b",
+  "revision": "4ca526b",
   "readingOrder": [
     "promo.html",
     "prazdne_ulice_005.html",
@@ -93,8 +93,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:17:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486256682
+    "date": "Sat Oct 01 2022 15:48:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639339701
   },
   "documents": [
     {
